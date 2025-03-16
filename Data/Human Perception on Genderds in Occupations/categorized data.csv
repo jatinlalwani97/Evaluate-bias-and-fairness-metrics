@@ -1,0 +1,331 @@
+Occupation;Column1;female response;male response;Stereotype_Category_Female_Respondents;Stereotype_Category_Male_Respondents
+accountant;accountant;0.4583333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+acrobat;acrobat;0.525;0.475;Gender-Neutral;Gender-Neutral
+acupuncturist;acupuncturist;0.5;0.5333333333;Gender-Neutral;Gender-Neutral
+admiral;admiral;0.2083333333;0.1916666667;Male-Stereotyped;Male-Stereotyped
+advice columnist;advice columnist;0.6666666667;0.7666666667;Female-Stereotyped;Female-Stereotyped
+aerobics instructor;aerobics instructor;0.8166666667;0.7916666667;Female-Stereotyped;Female-Stereotyped
+air stewardess;air stewardess;0.8666666667;0.9083333333;Female-Stereotyped;Female-Stereotyped
+air traffic controller;air traffic controller;0.25;0.2583333333;Male-Stereotyped;Male-Stereotyped
+allergist;allergist;0.4083333333;0.575;Male-Stereotyped;Female-Stereotyped
+animal caretaker;animal caretaker;0.5166666667;0.6;Gender-Neutral;Female-Stereotyped
+antique dealer;antique dealer;0.5916666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+architect;architect;0.2416666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+artisan;artisan;0.4666666667;0.4166666667;Gender-Neutral;Male-Stereotyped
+artist;artist;0.5333333333;0.4916666667;Gender-Neutral;Gender-Neutral
+assistant;assistant;0.625;0.5833333333;Female-Stereotyped;Female-Stereotyped
+astrologist;astrologist;0.4416666667;0.4416666667;Male-Stereotyped;Male-Stereotyped
+astronaut;astronaut;0.225;0.1916666667;Male-Stereotyped;Male-Stereotyped
+astronomer;astronomer;0.3166666667;0.4166666667;Male-Stereotyped;Male-Stereotyped
+athlete;athlete;0.3916666667;0.3;Male-Stereotyped;Male-Stereotyped
+attorney;attorney;0.4583333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+auctioneer;auctioneer;0.2416666667;0.2;Male-Stereotyped;Male-Stereotyped
+author;author;0.5166666667;0.5083333333;Gender-Neutral;Gender-Neutral
+auto mechanic;auto mechanic;0.09166666667;0.06666666667;Male-Stereotyped;Male-Stereotyped
+aviator;aviator;0.2333333333;0.2666666667;Male-Stereotyped;Male-Stereotyped
+babysitter;babysitter;0.8583333333;0.8416666667;Female-Stereotyped;Female-Stereotyped
+baker;baker;0.6166666667;0.5583333333;Female-Stereotyped;Gender-Neutral
+ballerina;ballerina;0.9166666667;0.8916666667;Female-Stereotyped;Female-Stereotyped
+ballet dancer;ballet dancer;0.9;0.925;Female-Stereotyped;Female-Stereotyped
+bank teller;bank teller;0.65;0.6833333333;Female-Stereotyped;Female-Stereotyped
+banker;banker;0.3916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+barber;barber;0.1083333333;0.1166666667;Male-Stereotyped;Male-Stereotyped
+bartender;bartender;0.375;0.2666666667;Male-Stereotyped;Male-Stereotyped
+baseball player;baseball player;0.1333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+basketball player;basketball player;0.3583333333;0.2916666667;Male-Stereotyped;Male-Stereotyped
+baton twirler;baton twirler;0.9166666667;0.95;Female-Stereotyped;Female-Stereotyped
+beautician;beautician;0.9083333333;0.8583333333;Female-Stereotyped;Female-Stereotyped
+bell hop;bell hop;0.1916666667;0.2583333333;Male-Stereotyped;Male-Stereotyped
+bellboy;bellboy;0.09166666667;0.05833333333;Male-Stereotyped;Male-Stereotyped
+bingo player;bingo player;0.6;0.6583333333;Female-Stereotyped;Female-Stereotyped
+bookkeeper;bookkeeper;0.6666666667;0.6583333333;Female-Stereotyped;Female-Stereotyped
+boutique owner;boutique owner;0.8333333333;0.8;Female-Stereotyped;Female-Stereotyped
+bowler;bowler;0.35;0.35;Male-Stereotyped;Male-Stereotyped
+boxer;boxer;0.1;0.15;Male-Stereotyped;Male-Stereotyped
+building contractor;building contractor;0.1833333333;0.175;Male-Stereotyped;Male-Stereotyped
+butcher;butcher;0.15;0.175;Male-Stereotyped;Male-Stereotyped
+butler;butler;0.075;0.03333333333;Male-Stereotyped;Male-Stereotyped
+caddy;caddy;0.1833333333;0.225;Male-Stereotyped;Male-Stereotyped
+cake decorator;cake decorator;0.725;0.8;Female-Stereotyped;Female-Stereotyped
+camp counselor;camp counselor;0.575;0.45;Female-Stereotyped;Male-Stereotyped
+candy maker;candy maker;0.5333333333;0.5333333333;Gender-Neutral;Gender-Neutral
+car salesman;car salesman;0.1333333333;0.1166666667;Male-Stereotyped;Male-Stereotyped
+card player;card player;0.3666666667;0.2916666667;Male-Stereotyped;Male-Stereotyped
+caregiver;caregiver;0.71;0.7;Female-Stereotyped;Female-Stereotyped
+carpenter;carpenter;0.1166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+cashier;cashier;0.5916666667;0.5583333333;Female-Stereotyped;Gender-Neutral
+caterer;caterer;0.525;0.5666666667;Gender-Neutral;Female-Stereotyped
+chair person;chair person;0.45;0.4166666667;Male-Stereotyped;Male-Stereotyped
+chairman;chairman;0.4;0.3583333333;Male-Stereotyped;Male-Stereotyped
+cheerleader;cheerleader;0.8916666667;0.8166666667;Female-Stereotyped;Female-Stereotyped
+chef;chef;0.4083333333;0.2666666667;Male-Stereotyped;Male-Stereotyped
+child advocate;child advocate;0.75;0.6833333333;Female-Stereotyped;Female-Stereotyped
+child care worker;child care worker;0.8333333333;0.7916666667;Female-Stereotyped;Female-Stereotyped
+chiropractor;chiropractor;0.3666666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+choreographer;choreographer;0.65;0.625;Female-Stereotyped;Female-Stereotyped
+cleaner;cleaner;0.675;0.725;Female-Stereotyped;Female-Stereotyped
+clerk;clerk;0.5333333333;0.5416666667;Gender-Neutral;Gender-Neutral
+clinical psychologist;clinical psychologist;0.5833333333;0.4916666667;Female-Stereotyped;Gender-Neutral
+clown;clown;0.2833333333;0.3;Male-Stereotyped;Male-Stereotyped
+coach;coach;0.2666666667;0.175;Male-Stereotyped;Male-Stereotyped
+colonel;colonel;0.1333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+comedian;comedian;0.3416666667;0.275;Male-Stereotyped;Male-Stereotyped
+company president;company president;0.325;0.2583333333;Male-Stereotyped;Male-Stereotyped
+composer;composer;0.35;0.2833333333;Male-Stereotyped;Male-Stereotyped
+computer programmer;computer programmer;0.3;0.3666666667;Male-Stereotyped;Male-Stereotyped
+computer technician;computer technician;0.3166666667;0.3333333333;Male-Stereotyped;Male-Stereotyped
+concierge;concierge;0.4566666667;0.4083333333;Male-Stereotyped;Male-Stereotyped
+congressman;congressman;0.1833333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+conservationist;conservationist;0.4166666667;0.5583333333;Male-Stereotyped;Gender-Neutral
+construction worker;construction worker;0.1083333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+cook;cook;0.5083333333;0.525;Gender-Neutral;Gender-Neutral
+cookie maker;cookie maker;0.8;0.8333333333;Female-Stereotyped;Female-Stereotyped
+cosmetologist;cosmetologist;0.925;0.9;Female-Stereotyped;Female-Stereotyped
+counseling psychologist;counseling psychologist;0.625;0.55;Female-Stereotyped;Gender-Neutral
+court reporter;court reporter;0.7083333333;0.7916666667;Female-Stereotyped;Female-Stereotyped
+craftsman;craftsman;0.25;0.2083333333;Male-Stereotyped;Male-Stereotyped
+customs inspector;customs inspector;0.375;0.2916666667;Male-Stereotyped;Male-Stereotyped
+cyclist;cyclist;0.3583333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+dance instructor;dance instructor;0.825;0.7916666667;Female-Stereotyped;Female-Stereotyped
+dancer;dancer;0.775;0.7416666667;Female-Stereotyped;Female-Stereotyped
+data processor;data processor;0.525;0.525;Gender-Neutral;Gender-Neutral
+deacon;deacon;0.15;0.09166666667;Male-Stereotyped;Male-Stereotyped
+dental hygienist;dental hygienist;0.6083333333;0.625;Female-Stereotyped;Female-Stereotyped
+dentist;dentist;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+deputy;deputy;0.125;0.1916666667;Male-Stereotyped;Male-Stereotyped
+dietician;dietician;0.7166666667;0.725;Female-Stereotyped;Female-Stereotyped
+diplomat;diplomat;0.3666666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+district attorney;district attorney;0.3666666667;0.3333333333;Male-Stereotyped;Male-Stereotyped
+doctor;doctor;0.3916666667;0.4;Male-Stereotyped;Male-Stereotyped
+dog groomer;dog groomer;0.5916666667;0.6;Female-Stereotyped;Female-Stereotyped
+drafting worker;drafting worker;0.1666666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+dress maker;dress maker;0.8083333333;0.8833333333;Female-Stereotyped;Female-Stereotyped
+drummer;drummer;0.25;0.3083333333;Male-Stereotyped;Male-Stereotyped
+economist;economist;0.4416666667;0.4;Male-Stereotyped;Male-Stereotyped
+editor;editor;0.475;0.3416666667;Gender-Neutral;Male-Stereotyped
+electrician;electrician;0.1666666667;0.1666666667;Male-Stereotyped;Male-Stereotyped
+elementary school principal;elementary school principal;0.4333333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+elementary school teacher;elementary school teacher;0.7833333333;0.8;Female-Stereotyped;Female-Stereotyped
+emergency medical care;emergency medical care;0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+engineer;engineer;0.275;0.225;Male-Stereotyped;Male-Stereotyped
+entertainer;entertainer;0.4916666667;0.475;Gender-Neutral;Gender-Neutral
+etiquette expert;etiquette expert;0.775;0.8166666667;Female-Stereotyped;Female-Stereotyped
+executive;executive;0.4083333333;0.2583333333;Male-Stereotyped;Male-Stereotyped
+exercise instructor;exercise instructor;0.7166666667;0.725;Female-Stereotyped;Female-Stereotyped
+explorer;explorer;0.3333333333;0.2166666667;Male-Stereotyped;Male-Stereotyped
+farmer;farmer;0.1333333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+fashion model;fashion model;0.85;0.8583333333;Female-Stereotyped;Female-Stereotyped
+FBI agent;FBI agent;0.225;0.175;Male-Stereotyped;Male-Stereotyped
+federal judge;federal judge;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+figure skater;figure skater;0.7916666667;0.8083333333;Female-Stereotyped;Female-Stereotyped
+file clerk;file clerk;0.725;0.7166666667;Female-Stereotyped;Female-Stereotyped
+fire fighter;fire fighter;0.1666666667;0.15;Male-Stereotyped;Male-Stereotyped
+fisherman;fisherman;0.1583333333;0.125;Male-Stereotyped;Male-Stereotyped
+flight attendant;flight attendant;0.85;0.8083333333;Female-Stereotyped;Female-Stereotyped
+florist;florist;0.8416666667;0.8083333333;Female-Stereotyped;Female-Stereotyped
+flute player;flute player;0.825;0.7583333333;Female-Stereotyped;Female-Stereotyped
+football coach;football coach;0.04166666667;0.008333333333;Male-Stereotyped;Male-Stereotyped
+football player;football player;0.05833333333;0.05;Male-Stereotyped;Male-Stereotyped
+foreman;foreman;0.225;0.2333333333;Male-Stereotyped;Male-Stereotyped
+forensic psychologist;forensic psychologist;0.4833333333;0.35;Gender-Neutral;Male-Stereotyped
+forest ranger;forest ranger;0.2416666667;0.2166666667;Male-Stereotyped;Male-Stereotyped
+forestry engineer;forestry engineer;0.825;0.8083333333;Female-Stereotyped;Female-Stereotyped
+fortune teller;fortune teller;0.7666666667;0.7916666667;Female-Stereotyped;Female-Stereotyped
+funeral director;funeral director;0.2416666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+game warden;game warden;0.1583333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+garbage collector;garbage collector;0.1333333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+general;general;0.1416666667;0.08333333333;Male-Stereotyped;Male-Stereotyped
+geologist;geologist;0.275;0.375;Male-Stereotyped;Male-Stereotyped
+golfer;golfer;0.2166666667;0.4;Male-Stereotyped;Male-Stereotyped
+government official;government official;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+governor;governor;0.275;0.2166666667;Male-Stereotyped;Male-Stereotyped
+graphic designer;graphic designer;0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+groundskeeper;groundskeeper;0.3166666667;0.1916666667;Male-Stereotyped;Male-Stereotyped
+guard;guard;0.1666666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+guidance counselor;guidance counselor;0.6416666667;0.6166666667;Female-Stereotyped;Female-Stereotyped
+guitar player;guitar player;0.2666666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+gymnast;gymnast;0.775;0.725;Female-Stereotyped;Female-Stereotyped
+gynecologist;gynecologist;0.5083333333;0.3916666667;Gender-Neutral;Male-Stereotyped
+hair cutter;hair cutter;0.7083333333;0.6916666667;Female-Stereotyped;Female-Stereotyped
+hairdresser;hairdresser;0.8166666667;0.8916666667;Female-Stereotyped;Female-Stereotyped
+heavy equipment operator;heavy equipment operator;0.08333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+high school principal;high school principal;0.3083333333;0.3083333333;Male-Stereotyped;Male-Stereotyped
+high school teacher;high school teacher;0.6333333333;0.6666666667;Female-Stereotyped;Female-Stereotyped
+highway worker;highway worker;0.1833333333;0.2333333333;Male-Stereotyped;Male-Stereotyped
+historian;historian;0.45;0.425;Male-Stereotyped;Male-Stereotyped
+history professor;history professor;0.2666666667;0.2333333333;Male-Stereotyped;Male-Stereotyped
+homicide detective;homicide detective;0.2583333333;0.1833333333;Male-Stereotyped;Male-Stereotyped
+horse trainer;horse trainer;0.525;0.5;Gender-Neutral;Gender-Neutral
+hospital orderly;hospital orderly;0.4583333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+housekeeper;housekeeper;0.8416666667;0.8;Female-Stereotyped;Female-Stereotyped
+hula dancer;hula dancer;0.925;0.8833333333;Female-Stereotyped;Female-Stereotyped
+humanitarian;humanitarian;0.55;0.5583333333;Gender-Neutral;Gender-Neutral
+humanities professor;humanities professor;0.4333333333;0.4666666667;Male-Stereotyped;Gender-Neutral
+income tax preparer;income tax preparer;0.3333333333;0.4333333333;Male-Stereotyped;Male-Stereotyped
+innkeeper;innkeeper;0.5;0.4166666667;Gender-Neutral;Male-Stereotyped
+insurance agent;insurance agent;0.4333333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+interior decorator;interior decorator;0.7833333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+inventor;inventor;0.3583333333;0.3166666667;Male-Stereotyped;Male-Stereotyped
+janitor;janitor;0.2583333333;0.2;Male-Stereotyped;Male-Stereotyped
+journalist;journalist;0.475;0.5166666667;Gender-Neutral;Gender-Neutral
+judge;judge;0.375;0.3916666667;Male-Stereotyped;Male-Stereotyped
+juggler;juggler;0.3;0.2833333333;Male-Stereotyped;Male-Stereotyped
+jurist;jurist;0.4666666667;0.475;Gender-Neutral;Gender-Neutral
+kindergarten teacher;kindergarten teacher;0.8416666667;0.7666666667;Female-Stereotyped;Female-Stereotyped
+knitter;knitter;0.8583333333;0.8666666667;Female-Stereotyped;Female-Stereotyped
+lab technician;lab technician;0.3866666667;0.4416666667;Male-Stereotyped;Male-Stereotyped
+labor official;labor official;0.3083333333;0.2833333333;Male-Stereotyped;Male-Stereotyped
+landscaper;landscaper;0.3166666667;0.3916666667;Male-Stereotyped;Male-Stereotyped
+law clerk;law clerk;0.55;0.425;Gender-Neutral;Male-Stereotyped
+law professor;law professor;0.4166666667;0.3583333333;Male-Stereotyped;Male-Stereotyped
+lawyer;lawyer;0.4666666667;0.3916666667;Gender-Neutral;Male-Stereotyped
+lender;lender;0.4;0.3416666667;Male-Stereotyped;Male-Stereotyped
+librarian;librarian;0.7583333333;0.8;Female-Stereotyped;Female-Stereotyped
+lieutenant;lieutenant;0.2583333333;0.3083333333;Male-Stereotyped;Male-Stereotyped
+limo driver;limo driver;0.2166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+logger;logger;0.2166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+magician;magician;0.225;0.1916666667;Male-Stereotyped;Male-Stereotyped
+maid;maid;0.9333333333;0.95;Female-Stereotyped;Female-Stereotyped
+mailman;mailman;0.2166666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+manager;manager;0.45;0.3083333333;Male-Stereotyped;Male-Stereotyped
+manicurist;manicurist;0.8666666667;0.95;Female-Stereotyped;Female-Stereotyped
+massage therapist;massage therapist;0.6333333333;0.725;Female-Stereotyped;Female-Stereotyped
+mathematician;mathematician;0.375;0.35;Male-Stereotyped;Male-Stereotyped
+mayor;mayor;0.3333333333;0.2333333333;Male-Stereotyped;Male-Stereotyped
+meat packer;meat packer;0.1916666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+meteorologist;meteorologist;0.275;0.3416666667;Male-Stereotyped;Male-Stereotyped
+miner;miner;0.15;0.15;Male-Stereotyped;Male-Stereotyped
+motel manager;motel manager;0.4083333333;0.3833333333;Male-Stereotyped;Male-Stereotyped
+mountain climber;mountain climber;0.2916666667;0.2166666667;Male-Stereotyped;Male-Stereotyped
+movie director;movie director;0.3166666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+movie star;movie star;0.5416666667;0.5183333333;Gender-Neutral;Gender-Neutral
+nanny;nanny;0.9083333333;0.9166666667;Female-Stereotyped;Female-Stereotyped
+neurologist;neurologist;0.3583333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+neurosurgeon;neurosurgeon;0.4333333333;0.275;Male-Stereotyped;Male-Stereotyped
+newscaster;newscaster;0.55;0.5166666667;Gender-Neutral;Gender-Neutral
+notary public;notary public;0.5833333333;0.5966666667;Female-Stereotyped;Female-Stereotyped
+novelist;novelist;0.5416666667;0.5583333333;Gender-Neutral;Gender-Neutral
+nun;nun;0.9916666667;0.9833333333;Female-Stereotyped;Female-Stereotyped
+nurse;nurse;0.7833333333;0.775;Female-Stereotyped;Female-Stereotyped
+nursing home worker;nursing home worker;0.7583333333;0.7416666667;Female-Stereotyped;Female-Stereotyped
+nutritionist;nutritionist;0.7416666667;0.6666666667;Female-Stereotyped;Female-Stereotyped
+occupational therapist;occupational therapist;0.575;0.5916666667;Female-Stereotyped;Female-Stereotyped
+oceanographer;oceanographer;0.4833333333;0.5166666667;Gender-Neutral;Gender-Neutral
+orchestra conductor;orchestra conductor;0.3;0.2333333333;Male-Stereotyped;Male-Stereotyped
+orthodontist;orthodontist;0.2666666667;0.225;Male-Stereotyped;Male-Stereotyped
+painter;painter;0.325;0.2916666667;Male-Stereotyped;Male-Stereotyped
+palm reader;palm reader;0.8166666667;0.8;Female-Stereotyped;Female-Stereotyped
+paralegal;paralegal;0.5416666667;0.5416666667;Gender-Neutral;Gender-Neutral
+park manager;park manager;0.2333333333;0.2916666667;Male-Stereotyped;Male-Stereotyped
+party planner;party planner;0.7416666667;0.6583333333;Female-Stereotyped;Female-Stereotyped
+pastry chef;pastry chef;0.4916666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+pawn broker;pawn broker;0.2;0.1833333333;Male-Stereotyped;Male-Stereotyped
+pediatrician;pediatrician;0.525;0.4833333333;Gender-Neutral;Gender-Neutral
+personal trainer;personal trainer;0.3833333333;0.3666666667;Male-Stereotyped;Male-Stereotyped
+pharmacist;pharmacist;0.425;0.3916666667;Male-Stereotyped;Male-Stereotyped
+philanthropist;philanthropist;0.4166666667;0.4833333333;Male-Stereotyped;Gender-Neutral
+phlebotomist;phlebotomist;0.45;0.5166666667;Male-Stereotyped;Gender-Neutral
+photographer;photographer;0.5;0.5333333333;Gender-Neutral;Gender-Neutral
+physical therapist;physical therapist;0.55;0.4916666667;Gender-Neutral;Gender-Neutral
+physician;physician;0.4416666667;0.3;Male-Stereotyped;Male-Stereotyped
+physicist;physicist;0.35;0.4;Male-Stereotyped;Male-Stereotyped
+piano player;piano player;0.6416666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+pilot;pilot;0.1833333333;0.25;Male-Stereotyped;Male-Stereotyped
+plumber;plumber;0.1583333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+podiatrist;podiatrist;0.3833333333;0.4833333333;Male-Stereotyped;Gender-Neutral
+poet;poet;0.5166666667;0.5166666667;Gender-Neutral;Gender-Neutral
+police dispatcher;police dispatcher;0.5416666667;0.5833333333;Gender-Neutral;Female-Stereotyped
+police officer;police officer;0.2416666667;0.2583333333;Male-Stereotyped;Male-Stereotyped
+police sergeant;police sergeant;0.2083333333;0.1833333333;Male-Stereotyped;Male-Stereotyped
+policeman;policeman;0.2333333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+political activist;political activist;0.3766666667;0.475;Male-Stereotyped;Gender-Neutral
+politician;politician;0.3166666667;0.2;Male-Stereotyped;Male-Stereotyped
+pool player;pool player;0.2916666667;0.25;Male-Stereotyped;Male-Stereotyped
+postal worker;postal worker;0.35;0.375;Male-Stereotyped;Male-Stereotyped
+priest;priest;0.03333333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+private detective;private detective;0.175;0.1583333333;Male-Stereotyped;Male-Stereotyped
+probation officer;probation officer;0.2416666667;0.1833333333;Male-Stereotyped;Male-Stereotyped
+professional athlete;professional athlete;0.3;0.1833333333;Male-Stereotyped;Male-Stereotyped
+professor;professor;0.4;0.3166666667;Male-Stereotyped;Male-Stereotyped
+projectionist;projectionist;0.4166666667;0.5;Male-Stereotyped;Gender-Neutral
+proofreader;proofreader;0.5833333333;0.6333333333;Female-Stereotyped;Female-Stereotyped
+psychiatrist;psychiatrist;0.525;0.4583333333;Gender-Neutral;Male-Stereotyped
+public relations director;public relations director;0.575;0.5083333333;Female-Stereotyped;Gender-Neutral
+quilter;quilter;0.875;0.8916666667;Female-Stereotyped;Female-Stereotyped
+race car driver;race car driver;0.125;0.1416666667;Male-Stereotyped;Male-Stereotyped
+radio announcer;radio announcer;0.3666666667;0.25;Male-Stereotyped;Male-Stereotyped
+radio technician;radio technician;0.3583333333;0.35;Male-Stereotyped;Male-Stereotyped
+railroad conductor;railroad conductor;0.1666666667;0.1333333333;Male-Stereotyped;Male-Stereotyped
+rancher;rancher;0.225;0.2333333333;Male-Stereotyped;Male-Stereotyped
+real estate agent;real estate agent;0.625;0.5916666667;Female-Stereotyped;Female-Stereotyped
+receptionist;receptionist;0.8083333333;0.875;Female-Stereotyped;Female-Stereotyped
+registered nurse;registered nurse;0.8;0.775;Female-Stereotyped;Female-Stereotyped
+rehabilitation counselor;rehabilitation counselor;0.575;0.5;Female-Stereotyped;Gender-Neutral
+reporter;reporter;0.5666666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+research scientist;research scientist;0.4;0.3416666667;Male-Stereotyped;Male-Stereotyped
+roofer;roofer;0.09166666667;0.1166666667;Male-Stereotyped;Male-Stereotyped
+sailor;sailor;0.125;0.1333333333;Male-Stereotyped;Male-Stereotyped
+salesman;salesman;0.2416666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+salesperson;salesperson;0.425;0.45;Male-Stereotyped;Male-Stereotyped
+sanitation worker;sanitation worker;0.2416666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+school psychologist;school psychologist;0.6;0.5833333333;Female-Stereotyped;Female-Stereotyped
+screenwriter;screenwriter;0.375;0.3;Male-Stereotyped;Male-Stereotyped
+scuba diver;scuba diver;0.4;0.3916666667;Male-Stereotyped;Male-Stereotyped
+sculptor;sculptor;0.4333333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+secretary;secretary;0.8583333333;0.8666666667;Female-Stereotyped;Female-Stereotyped
+senator;senator;0.2416666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+server;server;0.5416666667;0.575;Gender-Neutral;Female-Stereotyped
+sheriff;sheriff;0.1083333333;0.15;Male-Stereotyped;Male-Stereotyped
+shoemaker;shoemaker;0.3083333333;0.325;Male-Stereotyped;Male-Stereotyped
+short order cook;short order cook;0.4416666667;0.45;Male-Stereotyped;Male-Stereotyped
+singer;singer;0.5416666667;0.5;Gender-Neutral;Gender-Neutral
+skier;skier;0.4666666667;0.4833333333;Gender-Neutral;Gender-Neutral
+social worker;social worker;0.7166666667;0.5916666667;Female-Stereotyped;Female-Stereotyped
+socialite;socialite;0.6083333333;0.5416666667;Female-Stereotyped;Gender-Neutral
+softball player;softball player;0.9166666667;0.6916666667;Female-Stereotyped;Female-Stereotyped
+soldier;soldier;0.1416666667;0.1316666667;Male-Stereotyped;Male-Stereotyped
+sportscaster;sportscaster;0.225;0.1083333333;Male-Stereotyped;Male-Stereotyped
+spy;spy;0.275;0.2416666667;Male-Stereotyped;Male-Stereotyped
+statistician;statistician;0.3916666667;0.4;Male-Stereotyped;Male-Stereotyped
+stenographer;stenographer;0.475;0.475;Gender-Neutral;Gender-Neutral
+stock broker;stock broker;0.2416666667;0.3;Male-Stereotyped;Male-Stereotyped
+stone cutter;stone cutter;0.1833333333;0.2083333333;Male-Stereotyped;Male-Stereotyped
+stripper;stripper;0.7833333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+supervisor;supervisor;0.4333333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+Supreme Court Justice;Supreme Court Justice;0.3333333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+surfer;surfer;0.225;0.275;Male-Stereotyped;Male-Stereotyped
+surgeon;surgeon;0.35;0.2916666667;Male-Stereotyped;Male-Stereotyped
+swimmer;swimmer;0.5166666667;0.4916666667;Gender-Neutral;Gender-Neutral
+switchboard operator;switchboard operator;0.6416666667;0.625;Female-Stereotyped;Female-Stereotyped
+synchronized swimmer;synchronized swimmer;0.7333333333;0.8333333333;Female-Stereotyped;Female-Stereotyped
+systems analyst;systems analyst;0.4;0.35;Male-Stereotyped;Male-Stereotyped
+tailor;tailor;0.3666666667;0.2916666667;Male-Stereotyped;Male-Stereotyped
+tambourine player;tambourine player;0.4833333333;0.5666666667;Gender-Neutral;Female-Stereotyped
+tap dancer;tap dancer;0.775;0.675;Female-Stereotyped;Female-Stereotyped
+tarot card reader;tarot card reader;0.7083333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+tattooist;tattooist;0.1583333333;0.1666666667;Male-Stereotyped;Male-Stereotyped
+taxidermist;taxidermist;0.3166666667;0.255;Male-Stereotyped;Male-Stereotyped
+telephone operator;telephone operator;0.6916666667;0.7166666667;Female-Stereotyped;Female-Stereotyped
+tennis player;tennis player;0.525;0.5166666667;Gender-Neutral;Gender-Neutral
+theatrical director;theatrical director;0.4333333333;0.3833333333;Male-Stereotyped;Male-Stereotyped
+tool maker;tool maker;0.1416666667;0.1166666667;Male-Stereotyped;Male-Stereotyped
+tour guide;tour guide;0.5;0.5083333333;Gender-Neutral;Gender-Neutral
+travel agent;travel agent;0.625;0.675;Female-Stereotyped;Female-Stereotyped
+trucker;trucker;0.1;0.1416666667;Male-Stereotyped;Male-Stereotyped
+trumpet player;trumpet player;0.3916666667;0.3416666667;Male-Stereotyped;Male-Stereotyped
+tuba player;tuba player;0.275;0.25;Male-Stereotyped;Male-Stereotyped
+typist;typist;0.675;0.755;Female-Stereotyped;Female-Stereotyped
+university president;university president;0.2833333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+veterinarian;veterinarian;0.4916666667;0.5583333333;Gender-Neutral;Gender-Neutral
+warden;warden;0.15;0.1166666667;Male-Stereotyped;Male-Stereotyped
+watchman;watchman;0.1666666667;0.2083333333;Male-Stereotyped;Male-Stereotyped
+weaver;weaver;0.75;0.8166666667;Female-Stereotyped;Female-Stereotyped
+wedding planner;wedding planner;0.875;0.8;Female-Stereotyped;Female-Stereotyped
+weight lifter;weight lifter;0.1333333333;0.1583333333;Male-Stereotyped;Male-Stereotyped
+welder;welder;0.15;0.1083333333;Male-Stereotyped;Male-Stereotyped
+well driller;well driller;0.1083333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+wood carver;wood carver;0.2;0.2166666667;Male-Stereotyped;Male-Stereotyped
+wood worker;wood worker;0.1666666667;0.2333333333;Male-Stereotyped;Male-Stereotyped
+wrestler;wrestler;0.09166666667;0.05;Male-Stereotyped;Male-Stereotyped
+writer;writer;0.4583333333;0.4916666667;Male-Stereotyped;Gender-Neutral
+zoologist;zoologist;0.45;0.4666666667;Male-Stereotyped;Gender-Neutral
