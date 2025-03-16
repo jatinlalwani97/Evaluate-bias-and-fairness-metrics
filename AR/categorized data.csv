@@ -1,0 +1,406 @@
+Occupation;female|respondent_female;female|respondent_male;Stereotype_Category_Female_Respondents;Stereotype_Category_Male_Respondents
+محاسب;0.4583333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+بهلوان;0.525;0.475;Gender-Neutral;Gender-Neutral
+معالج بالإبر;0.5;0.5333333333;Gender-Neutral;Gender-Neutral
+أميرال;0.2083333333;0.1916666667;Male-Stereotyped;Male-Stereotyped
+كاتب عمود النصائح;0.6666666667;0.7666666667;Female-Stereotyped;Female-Stereotyped
+مدرب التمارين الهوائية;0.8166666667;0.7916666667;Female-Stereotyped;Female-Stereotyped
+مضيفة طيران;0.8666666667;0.9083333333;Female-Stereotyped;Female-Stereotyped
+مراقب حركة الطيران;0.25;0.2583333333;Male-Stereotyped;Male-Stereotyped
+مدمن كحول;0.2916666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+أخصائي حساسية;0.4083333333;0.575;Male-Stereotyped;Female-Stereotyped
+مُعتني بالحيوانات;0.5166666667;0.6;Gender-Neutral;Female-Stereotyped
+تاجر تحف;0.5916666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+مهندس معماري;0.2416666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+حرفي;0.4666666667;0.4166666667;Gender-Neutral;Male-Stereotyped
+فنان;0.5333333333;0.4916666667;Gender-Neutral;Gender-Neutral
+مساعد;0.625;0.5833333333;Female-Stereotyped;Female-Stereotyped
+عالم تنجيم;0.4416666667;0.4416666667;Male-Stereotyped;Male-Stereotyped
+رائد فضاء;0.225;0.1916666667;Male-Stereotyped;Male-Stereotyped
+عالم فلك;0.3166666667;0.4166666667;Male-Stereotyped;Male-Stereotyped
+رياضي;0.3916666667;0.3;Male-Stereotyped;Male-Stereotyped
+محامي;0.4583333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+مدير المزاد;0.2416666667;0.2;Male-Stereotyped;Male-Stereotyped
+مؤلف;0.5166666667;0.5083333333;Gender-Neutral;Gender-Neutral
+ميكانيكي سيارات;0.09166666667;0.06666666667;Male-Stereotyped;Male-Stereotyped
+طيار;0.2333333333;0.2666666667;Male-Stereotyped;Male-Stereotyped
+رضيع;0.525;0.5083333333;Gender-Neutral;Gender-Neutral
+جليسة أطفال;0.8583333333;0.8416666667;Female-Stereotyped;Female-Stereotyped
+خباز;0.6166666667;0.5583333333;Female-Stereotyped;Gender-Neutral
+باليرينا;0.9166666667;0.8916666667;Female-Stereotyped;Female-Stereotyped
+راقصة باليه;0.9;0.925;Female-Stereotyped;Female-Stereotyped
+صراف بنك;0.65;0.6833333333;Female-Stereotyped;Female-Stereotyped
+مصرفي;0.3916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+حلاق;0.1083333333;0.1166666667;Male-Stereotyped;Male-Stereotyped
+نادل;0.375;0.2666666667;Male-Stereotyped;Male-Stereotyped
+لاعب بيسبول;0.1333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+لاعب كرة سلة;0.3583333333;0.2916666667;Male-Stereotyped;Male-Stereotyped
+مدور العصا;0.9166666667;0.95;Female-Stereotyped;Female-Stereotyped
+خبيرة تجميل;0.9083333333;0.8583333333;Female-Stereotyped;Female-Stereotyped
+حمال الفندق;0.1916666667;0.2583333333;Male-Stereotyped;Male-Stereotyped
+صبي الفندق;0.09166666667;0.05833333333;Male-Stereotyped;Male-Stereotyped
+راكب دراجة نارية;0.275;0.35;Male-Stereotyped;Male-Stereotyped
+لاعب البينغو;0.6;0.6583333333;Female-Stereotyped;Female-Stereotyped
+مالك طيور;0.5666666667;0.65;Female-Stereotyped;Female-Stereotyped
+أمين الدفاتر;0.6666666667;0.6583333333;Female-Stereotyped;Female-Stereotyped
+رئيس;0.3166666667;0.25;Male-Stereotyped;Male-Stereotyped
+مالك بوتيك;0.8333333333;0.8;Female-Stereotyped;Female-Stereotyped
+لاعب بولينج;0.35;0.35;Male-Stereotyped;Male-Stereotyped
+ملاكم;0.1;0.15;Male-Stereotyped;Male-Stereotyped
+عروس;1.0;1.0;Female-Stereotyped;Female-Stereotyped
+مقاول بناء;0.1833333333;0.175;Male-Stereotyped;Male-Stereotyped
+جزار;0.15;0.175;Male-Stereotyped;Male-Stereotyped
+خادم;0.075;0.03333333333;Male-Stereotyped;Male-Stereotyped
+حامل العصي;0.1833333333;0.225;Male-Stereotyped;Male-Stereotyped
+مزخرف الكعك;0.725;0.8;Female-Stereotyped;Female-Stereotyped
+مرشد المخيم;0.575;0.45;Female-Stereotyped;Male-Stereotyped
+هاوٍ للتخييم;0.4;0.275;Male-Stereotyped;Male-Stereotyped
+صانع الحلوى;0.5333333333;0.5333333333;Gender-Neutral;Gender-Neutral
+مشجع سباق السيارات;0.3666666667;0.3083333333;Male-Stereotyped;Male-Stereotyped
+بائع سيارات;0.1333333333;0.1166666667;Male-Stereotyped;Male-Stereotyped
+لاعب ورق;0.3666666667;0.2916666667;Male-Stereotyped;Male-Stereotyped
+مقدم رعاية;0.71;0.7;Female-Stereotyped;Female-Stereotyped
+نجار;0.1166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+أمين صندوق;0.5916666667;0.5583333333;Female-Stereotyped;Gender-Neutral
+مالك قطة;0.6916666667;0.7083333333;Female-Stereotyped;Female-Stereotyped
+متعهّد الطعام;0.525;0.5666666667;Gender-Neutral;Female-Stereotyped
+مشهور;0.5;0.5583333333;Gender-Neutral;Gender-Neutral
+رئيس اللجنة;0.45;0.4166666667;Male-Stereotyped;Male-Stereotyped
+رئيس;0.4;0.3583333333;Male-Stereotyped;Male-Stereotyped
+مشجعة;0.8916666667;0.8166666667;Female-Stereotyped;Female-Stereotyped
+طاهٍ;0.4083333333;0.2666666667;Male-Stereotyped;Male-Stereotyped
+فتاة;0.9416666667;0.9916666667;Female-Stereotyped;Female-Stereotyped
+طفل;0.5;0.4833333333;Gender-Neutral;Gender-Neutral
+مدافع عن حقوق الأطفال;0.75;0.6833333333;Female-Stereotyped;Female-Stereotyped
+عامل رعاية الأطفال;0.8333333333;0.7916666667;Female-Stereotyped;Female-Stereotyped
+معالج بتقويم العمود الفقري;0.3666666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+مصمم رقص;0.65;0.625;Female-Stereotyped;Female-Stereotyped
+منظف;0.675;0.725;Female-Stereotyped;Female-Stereotyped
+موظف;0.5333333333;0.5416666667;Gender-Neutral;Gender-Neutral
+عميل;0.475;0.4166666667;Gender-Neutral;Male-Stereotyped
+أخصائي علم النفس العيادي;0.5833333333;0.4916666667;Female-Stereotyped;Gender-Neutral
+مهرج;0.2833333333;0.3;Male-Stereotyped;Male-Stereotyped
+مدرب;0.2666666667;0.175;Male-Stereotyped;Male-Stereotyped
+طالب مختلط;0.5083333333;0.55;Gender-Neutral;Gender-Neutral
+عقيد;0.1333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+فكاهي;0.3416666667;0.275;Male-Stereotyped;Male-Stereotyped
+رئيس شركة;0.325;0.2583333333;Male-Stereotyped;Male-Stereotyped
+ملحن;0.35;0.2833333333;Male-Stereotyped;Male-Stereotyped
+مبرمج حاسوب;0.3;0.3666666667;Male-Stereotyped;Male-Stereotyped
+فني حاسوب;0.3166666667;0.3333333333;Male-Stereotyped;Male-Stereotyped
+كونسيرج;0.4566666667;0.4083333333;Male-Stereotyped;Male-Stereotyped
+عضو الكونغرس;0.1833333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+مدافع عن البيئة;0.4166666667;0.5583333333;Male-Stereotyped;Gender-Neutral
+عامل بناء;0.1083333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+طباخ;0.5083333333;0.525;Gender-Neutral;Gender-Neutral
+صانع البسكويت;0.8;0.8333333333;Female-Stereotyped;Female-Stereotyped
+أخصائي تجميل;0.925;0.9;Female-Stereotyped;Female-Stereotyped
+أخصائي علم النفس الإرشادي;0.625;0.55;Female-Stereotyped;Gender-Neutral
+محرر محاضر المحكمة;0.7083333333;0.7916666667;Female-Stereotyped;Female-Stereotyped
+حرفي;0.25;0.2083333333;Male-Stereotyped;Male-Stereotyped
+مجرم;0.2416666667;0.2;Male-Stereotyped;Male-Stereotyped
+عضو في طائفة;0.3916666667;0.4166666667;Male-Stereotyped;Male-Stereotyped
+عميل;0.5416666667;0.4916666667;Gender-Neutral;Gender-Neutral
+مفتش الجمارك;0.375;0.2916666667;Male-Stereotyped;Male-Stereotyped
+راكب دراجة;0.3583333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+مدرب رقص;0.825;0.7916666667;Female-Stereotyped;Female-Stereotyped
+راقص;0.775;0.7416666667;Female-Stereotyped;Female-Stereotyped
+معالج بيانات;0.525;0.525;Gender-Neutral;Gender-Neutral
+شمش;0.15;0.09166666667;Male-Stereotyped;Male-Stereotyped
+فني نظافة الأسنان;0.6083333333;0.625;Female-Stereotyped;Female-Stereotyped
+طبيب أسنان;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+نائب;0.125;0.1916666667;Male-Stereotyped;Male-Stereotyped
+أخصائي تغذية;0.7166666667;0.725;Female-Stereotyped;Female-Stereotyped
+دبلوماسي;0.3666666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+المدعي العام;0.3666666667;0.3333333333;Male-Stereotyped;Male-Stereotyped
+طبيب;0.3916666667;0.4;Male-Stereotyped;Male-Stereotyped
+مُعتني بتجميل الكلاب;0.5916666667;0.6;Female-Stereotyped;Female-Stereotyped
+مالك كلب;0.5;0.4083333333;Gender-Neutral;Male-Stereotyped
+رسام مخططات;0.1666666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+خياط;0.8083333333;0.8833333333;Female-Stereotyped;Female-Stereotyped
+مدمن مخدرات;0.4166666667;0.375;Male-Stereotyped;Male-Stereotyped
+تاجر مخدرات;0.2666666667;0.175;Male-Stereotyped;Male-Stereotyped
+عازف الطبول;0.25;0.3083333333;Male-Stereotyped;Male-Stereotyped
+رجل;0.1166666667;0.075;Male-Stereotyped;Male-Stereotyped
+اقتصادي;0.4416666667;0.4;Male-Stereotyped;Male-Stereotyped
+محرر;0.475;0.3416666667;Gender-Neutral;Male-Stereotyped
+كهربائي;0.1666666667;0.1666666667;Male-Stereotyped;Male-Stereotyped
+مدير مدرسة ابتدائية;0.4333333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+معلم مدرسة ابتدائية;0.7833333333;0.8;Female-Stereotyped;Female-Stereotyped
+مخلس;0.3333333333;0.3416666667;Male-Stereotyped;Male-Stereotyped
+الرعاية الطبية الطارئة;0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+مهندس;0.275;0.225;Male-Stereotyped;Male-Stereotyped
+مُسلي;0.4916666667;0.475;Gender-Neutral;Gender-Neutral
+خبير آداب;0.775;0.8166666667;Female-Stereotyped;Female-Stereotyped
+تنفيذي;0.4083333333;0.2583333333;Male-Stereotyped;Male-Stereotyped
+مدرب تمارين;0.7166666667;0.725;Female-Stereotyped;Female-Stereotyped
+راقصة استعراضية;0.775;0.9166666667;Female-Stereotyped;Female-Stereotyped
+مستكشف;0.3333333333;0.2166666667;Male-Stereotyped;Male-Stereotyped
+مشجع;0.5;0.4333333333;Gender-Neutral;Male-Stereotyped
+مزارع;0.1333333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+عارضة أزياء;0.85;0.8583333333;Female-Stereotyped;Female-Stereotyped
+أب;0.008333333333;0.0;Male-Stereotyped;Male-Stereotyped
+عميل مكتب التحقيقات الفيدرالي;0.225;0.175;Male-Stereotyped;Male-Stereotyped
+قاضٍ اتحادي;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+زميل;0.025;0.075;Male-Stereotyped;Male-Stereotyped
+متزلج على الجليد;0.7916666667;0.8083333333;Female-Stereotyped;Female-Stereotyped
+كاتب ملفات;0.725;0.7166666667;Female-Stereotyped;Female-Stereotyped
+رجل إطفاء;0.1666666667;0.15;Male-Stereotyped;Male-Stereotyped
+صياد سمك;0.1583333333;0.125;Male-Stereotyped;Male-Stereotyped
+مضيف طيران;0.85;0.8083333333;Female-Stereotyped;Female-Stereotyped
+بائع زهور;0.8416666667;0.8083333333;Female-Stereotyped;Female-Stereotyped
+عازف الفلوت;0.825;0.7583333333;Female-Stereotyped;Female-Stereotyped
+مدرب كرة قدم;0.04166666667;0.008333333333;Male-Stereotyped;Male-Stereotyped
+لاعب كرة قدم;0.05833333333;0.05;Male-Stereotyped;Male-Stereotyped
+مشرف;0.225;0.2333333333;Male-Stereotyped;Male-Stereotyped
+أخصائي علم النفس الجنائي;0.4833333333;0.35;Gender-Neutral;Male-Stereotyped
+حارس غابة;0.2416666667;0.2166666667;Male-Stereotyped;Male-Stereotyped
+مهندس غابات;0.825;0.8083333333;Female-Stereotyped;Female-Stereotyped
+عراف;0.7666666667;0.7916666667;Female-Stereotyped;Female-Stereotyped
+مدير جنازات;0.2416666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+حارس الصيد;0.1583333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+جامع القمامة;0.1333333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+جنرال;0.1416666667;0.08333333333;Male-Stereotyped;Male-Stereotyped
+جيولوجي;0.275;0.375;Male-Stereotyped;Male-Stereotyped
+لاعب غولف;0.2166666667;0.4;Male-Stereotyped;Male-Stereotyped
+مسؤول حكومي;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+حاكم;0.275;0.2166666667;Male-Stereotyped;Male-Stereotyped
+مصمم جرافيك;0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+العريس;0.01666666667;0.05;Male-Stereotyped;Male-Stereotyped
+حارس الحدائق;0.3166666667;0.1916666667;Male-Stereotyped;Male-Stereotyped
+حارس;0.1666666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+مرشد توجيهي;0.6416666667;0.6166666667;Female-Stereotyped;Female-Stereotyped
+عازف جيتار;0.2666666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+مسلح;0.1166666667;0.1;Male-Stereotyped;Male-Stereotyped
+رجل;0.025;0.075;Male-Stereotyped;Male-Stereotyped
+لاعب جمباز;0.775;0.725;Female-Stereotyped;Female-Stereotyped
+طبيب أمراض نسائية;0.5083333333;0.3916666667;Gender-Neutral;Male-Stereotyped
+قصاف شعر;0.7083333333;0.6916666667;Female-Stereotyped;Female-Stereotyped
+مصفف شعر;0.8166666667;0.8916666667;Female-Stereotyped;Female-Stereotyped
+مشغل معدات ثقيلة;0.08333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+مدير مدرسة ثانوية;0.3083333333;0.3083333333;Male-Stereotyped;Male-Stereotyped
+معلم مدرسة ثانوية;0.6333333333;0.6666666667;Female-Stereotyped;Female-Stereotyped
+عامل طرق;0.1833333333;0.2333333333;Male-Stereotyped;Male-Stereotyped
+مؤرخ;0.45;0.425;Male-Stereotyped;Male-Stereotyped
+أستاذ تاريخ;0.2666666667;0.2333333333;Male-Stereotyped;Male-Stereotyped
+طالب توصيلة;0.2166666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+شخص بلا مأوى;0.375;0.2916666667;Male-Stereotyped;Male-Stereotyped
+محقق جرائم قتل;0.2583333333;0.1833333333;Male-Stereotyped;Male-Stereotyped
+مدرب خيول;0.525;0.5;Gender-Neutral;Gender-Neutral
+مرافق المستشفى;0.4583333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+ضيف فندق;0.5083333333;0.4666666667;Gender-Neutral;Gender-Neutral
+مدبر منزل;0.8416666667;0.8;Female-Stereotyped;Female-Stereotyped
+راقصة هوولا;0.925;0.8833333333;Female-Stereotyped;Female-Stereotyped
+إنساني;0.55;0.5583333333;Gender-Neutral;Gender-Neutral
+أستاذ إنسانيات;0.4333333333;0.4666666667;Male-Stereotyped;Gender-Neutral
+صياد;0.1083333333;0.1583333333;Male-Stereotyped;Male-Stereotyped
+معد ضريبة الدخل;0.3333333333;0.4333333333;Male-Stereotyped;Male-Stereotyped
+مخبر;0.4583333333;0.375;Male-Stereotyped;Male-Stereotyped
+سجين;0.2083333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+صاحب النزل;0.5;0.4166666667;Gender-Neutral;Male-Stereotyped
+وكيل تأمين;0.4333333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+مصمم داخلي;0.7833333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+مخترع;0.3583333333;0.3166666667;Male-Stereotyped;Male-Stereotyped
+سجان;0.2;0.175;Male-Stereotyped;Male-Stereotyped
+بواب;0.2583333333;0.2;Male-Stereotyped;Male-Stereotyped
+صحفي;0.475;0.5166666667;Gender-Neutral;Gender-Neutral
+قاضٍ;0.375;0.3916666667;Male-Stereotyped;Male-Stereotyped
+لاعب خفة;0.3;0.2833333333;Male-Stereotyped;Male-Stereotyped
+فقيه قانوني;0.4666666667;0.475;Gender-Neutral;Gender-Neutral
+مغني كاريوكي;0.5666666667;0.5166666667;Female-Stereotyped;Gender-Neutral
+طفل;0.4916666667;0.4583333333;Gender-Neutral;Male-Stereotyped
+قاتل;0.2416666667;0.1916666667;Male-Stereotyped;Male-Stereotyped
+معلم روضة أطفال;0.8416666667;0.7666666667;Female-Stereotyped;Female-Stereotyped
+حائك;0.8583333333;0.8666666667;Female-Stereotyped;Female-Stereotyped
+فني مختبر;0.3866666667;0.4416666667;Male-Stereotyped;Male-Stereotyped
+مسؤول عمالي;0.3083333333;0.2833333333;Male-Stereotyped;Male-Stereotyped
+منسق حدائق;0.3166666667;0.3916666667;Male-Stereotyped;Male-Stereotyped
+كاتب قانوني;0.55;0.425;Gender-Neutral;Male-Stereotyped
+أستاذ قانون;0.4166666667;0.3583333333;Male-Stereotyped;Male-Stereotyped
+محامٍ;0.4666666667;0.3916666667;Gender-Neutral;Male-Stereotyped
+قائد;0.45;0.325;Male-Stereotyped;Male-Stereotyped
+مقرض;0.4;0.3416666667;Male-Stereotyped;Male-Stereotyped
+أمين مكتبة;0.7583333333;0.8;Female-Stereotyped;Female-Stereotyped
+ملازم;0.2583333333;0.3083333333;Male-Stereotyped;Male-Stereotyped
+سائق ليموزين;0.2166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+حطاب;0.2166666667;0.1416666667;Male-Stereotyped;Male-Stereotyped
+ساحر;0.225;0.1916666667;Male-Stereotyped;Male-Stereotyped
+مساعد;0.8583333333;0.8333333333;Female-Stereotyped;Female-Stereotyped
+خادمة;0.9333333333;0.95;Female-Stereotyped;Female-Stereotyped
+ساعي بريد;0.2166666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+مدير;0.45;0.3083333333;Male-Stereotyped;Male-Stereotyped
+مختص بالعناية بالأظافر;0.8666666667;0.95;Female-Stereotyped;Female-Stereotyped
+معالج بالتدليك;0.6333333333;0.725;Female-Stereotyped;Female-Stereotyped
+عالم رياضيات;0.375;0.35;Male-Stereotyped;Male-Stereotyped
+عمدة;0.3333333333;0.2333333333;Male-Stereotyped;Male-Stereotyped
+عامل تعبئة اللحوم;0.1916666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+عالم أرصاد جوية;0.275;0.3416666667;Male-Stereotyped;Male-Stereotyped
+مليونير;0.4;0.1916666667;Male-Stereotyped;Male-Stereotyped
+عامل منجم;0.15;0.15;Male-Stereotyped;Male-Stereotyped
+مدير نزل;0.4083333333;0.3833333333;Male-Stereotyped;Male-Stereotyped
+أم;0.9916666667;1.0;Female-Stereotyped;Female-Stereotyped
+متسلق جبال;0.2916666667;0.2166666667;Male-Stereotyped;Male-Stereotyped
+مخرج أفلام;0.3166666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+نجم سينمائي;0.5416666667;0.5183333333;Gender-Neutral;Gender-Neutral
+قاتل;0.3083333333;0.2583333333;Male-Stereotyped;Male-Stereotyped
+مربية أطفال;0.9083333333;0.9166666667;Female-Stereotyped;Female-Stereotyped
+جار;0.5083333333;0.5083333333;Gender-Neutral;Gender-Neutral
+طبيب أعصاب;0.3583333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+جراح أعصاب;0.4333333333;0.275;Male-Stereotyped;Male-Stereotyped
+مذيع أخبار;0.55;0.5166666667;Gender-Neutral;Gender-Neutral
+كاتب عدل;0.5833333333;0.5966666667;Female-Stereotyped;Female-Stereotyped
+روائي;0.5416666667;0.5583333333;Gender-Neutral;Gender-Neutral
+راهبة;0.9916666667;0.9833333333;Female-Stereotyped;Female-Stereotyped
+ممرضة;0.7833333333;0.775;Female-Stereotyped;Female-Stereotyped
+عامل دار رعاية;0.7583333333;0.7416666667;Female-Stereotyped;Female-Stereotyped
+أخصائي تغذية;0.7416666667;0.6666666667;Female-Stereotyped;Female-Stereotyped
+معالج مهني;0.575;0.5916666667;Female-Stereotyped;Female-Stereotyped
+عالم محيطات;0.4833333333;0.5166666667;Gender-Neutral;Gender-Neutral
+قائد أوركسترا;0.3;0.2333333333;Male-Stereotyped;Male-Stereotyped
+اختصاصي تقويم الأسنان;0.2666666667;0.225;Male-Stereotyped;Male-Stereotyped
+رسام;0.325;0.2916666667;Male-Stereotyped;Male-Stereotyped
+قارئ كف;0.8166666667;0.8;Female-Stereotyped;Female-Stereotyped
+مظلي;0.2666666667;0.325;Male-Stereotyped;Male-Stereotyped
+مساعد قانوني;0.5416666667;0.5416666667;Gender-Neutral;Gender-Neutral
+والد/والدة;0.5166666667;0.5166666667;Gender-Neutral;Gender-Neutral
+مدير حديقة;0.2333333333;0.2916666667;Male-Stereotyped;Male-Stereotyped
+منظم حفلات;0.7416666667;0.6583333333;Female-Stereotyped;Female-Stereotyped
+شيف معجنات;0.4916666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+مريض;0.5;0.475;Gender-Neutral;Gender-Neutral
+تاجر رهن;0.2;0.1833333333;Male-Stereotyped;Male-Stereotyped
+طبيب أطفال;0.525;0.4833333333;Gender-Neutral;Gender-Neutral
+شخص;0.5;0.4833333333;Gender-Neutral;Gender-Neutral
+مدرب شخصي;0.3833333333;0.3666666667;Male-Stereotyped;Male-Stereotyped
+صيدلي;0.425;0.3916666667;Male-Stereotyped;Male-Stereotyped
+محسن;0.4166666667;0.4833333333;Male-Stereotyped;Gender-Neutral
+أخصائي سحب دم;0.45;0.5166666667;Male-Stereotyped;Gender-Neutral
+مصور;0.5;0.5333333333;Gender-Neutral;Gender-Neutral
+معالج طبيعي;0.55;0.4916666667;Gender-Neutral;Gender-Neutral
+طبيب;0.4416666667;0.3;Male-Stereotyped;Male-Stereotyped
+مساعد;0.6666666667;0.6666666667;Female-Stereotyped;Female-Stereotyped
+فيزيائي;0.35;0.4;Male-Stereotyped;Male-Stereotyped
+عازف بيانو;0.6416666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+طيار;0.1833333333;0.25;Male-Stereotyped;Male-Stereotyped
+سباك;0.1583333333;0.1333333333;Male-Stereotyped;Male-Stereotyped
+أخصائي أقدام;0.3833333333;0.4833333333;Male-Stereotyped;Gender-Neutral
+شاعر;0.5166666667;0.5166666667;Gender-Neutral;Gender-Neutral
+مستقبل اتصالات الشرطة;0.5416666667;0.5833333333;Gender-Neutral;Female-Stereotyped
+شرطي;0.2416666667;0.2583333333;Male-Stereotyped;Male-Stereotyped
+رقيب شرطة;0.2083333333;0.1833333333;Male-Stereotyped;Male-Stereotyped
+شرطي;0.2333333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+ناشط سياسي;0.3766666667;0.475;Male-Stereotyped;Gender-Neutral
+سياسي;0.3166666667;0.2;Male-Stereotyped;Male-Stereotyped
+لاعب بلياردو;0.2916666667;0.25;Male-Stereotyped;Male-Stereotyped
+عامل بريد;0.35;0.375;Male-Stereotyped;Male-Stereotyped
+كاهن;0.03333333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+سجين;0.3083333333;0.25;Male-Stereotyped;Male-Stereotyped
+محقق خاص;0.175;0.1583333333;Male-Stereotyped;Male-Stereotyped
+ضابط مراقبة;0.2416666667;0.1833333333;Male-Stereotyped;Male-Stereotyped
+رياضي محترف;0.3;0.1833333333;Male-Stereotyped;Male-Stereotyped
+أستاذ;0.4;0.3166666667;Male-Stereotyped;Male-Stereotyped
+مشغل عرض;0.4166666667;0.5;Male-Stereotyped;Gender-Neutral
+مدقق لغوي;0.5833333333;0.6333333333;Female-Stereotyped;Female-Stereotyped
+محتج;0.4583333333;0.5166666667;Male-Stereotyped;Gender-Neutral
+طبيب نفسي;0.525;0.4583333333;Gender-Neutral;Male-Stereotyped
+مدير علاقات عامة;0.575;0.5083333333;Female-Stereotyped;Gender-Neutral
+حائك اللحف;0.875;0.8916666667;Female-Stereotyped;Female-Stereotyped
+سائق سباق سيارات;0.125;0.1416666667;Male-Stereotyped;Male-Stereotyped
+مذيع راديو;0.3666666667;0.25;Male-Stereotyped;Male-Stereotyped
+فني راديو;0.3583333333;0.35;Male-Stereotyped;Male-Stereotyped
+مراقب قطار;0.1666666667;0.1333333333;Male-Stereotyped;Male-Stereotyped
+مربي ماشية;0.225;0.2333333333;Male-Stereotyped;Male-Stereotyped
+ضحية اغتصاب;0.9;0.9666666667;Female-Stereotyped;Female-Stereotyped
+مغتصب;0.2916666667;0.03333333333;Male-Stereotyped;Male-Stereotyped
+وكيل عقارات;0.625;0.5916666667;Female-Stereotyped;Female-Stereotyped
+موظف استقبال;0.8083333333;0.875;Female-Stereotyped;Female-Stereotyped
+ممرضة مسجلة;0.8;0.775;Female-Stereotyped;Female-Stereotyped
+مستشار تأهيل;0.575;0.5;Female-Stereotyped;Gender-Neutral
+مراسل;0.5666666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+عالم باحث;0.4;0.3416666667;Male-Stereotyped;Male-Stereotyped
+معجب بفرقة روك;0.675;0.575;Female-Stereotyped;Female-Stereotyped
+مرافق فرقة روك;0.4166666667;0.4;Male-Stereotyped;Male-Stereotyped
+روائي رومانسي;0.8166666667;0.6833333333;Female-Stereotyped;Female-Stereotyped
+عامل تسقيف;0.09166666667;0.1166666667;Male-Stereotyped;Male-Stereotyped
+بحار;0.125;0.1333333333;Male-Stereotyped;Male-Stereotyped
+بائع;0.2416666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+مندوب مبيعات;0.425;0.45;Male-Stereotyped;Male-Stereotyped
+عامل نظافة;0.2416666667;0.2666666667;Male-Stereotyped;Male-Stereotyped
+أخصائي علم النفس المدرسي;0.6;0.5833333333;Female-Stereotyped;Female-Stereotyped
+كاتب سيناريو;0.375;0.3;Male-Stereotyped;Male-Stereotyped
+غواص;0.4;0.3916666667;Male-Stereotyped;Male-Stereotyped
+نحات;0.4333333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+سكرتير;0.8583333333;0.8666666667;Female-Stereotyped;Female-Stereotyped
+سيناتور;0.2416666667;0.2416666667;Male-Stereotyped;Male-Stereotyped
+قاتل متسلسل;0.225;0.08333333333;Male-Stereotyped;Male-Stereotyped
+نادل;0.5416666667;0.575;Gender-Neutral;Female-Stereotyped
+شريف;0.1083333333;0.15;Male-Stereotyped;Male-Stereotyped
+صانع أحذية;0.3083333333;0.325;Male-Stereotyped;Male-Stereotyped
+مطلق نار;0.2083333333;0.2083333333;Male-Stereotyped;Male-Stereotyped
+سارق متجر;0.4166666667;0.35;Male-Stereotyped;Male-Stereotyped
+متسوق;0.7916666667;0.7416666667;Female-Stereotyped;Female-Stereotyped
+طباخ طلبات سريعة;0.4416666667;0.45;Male-Stereotyped;Male-Stereotyped
+مغني;0.5416666667;0.5;Gender-Neutral;Gender-Neutral
+والد وحيد;0.8083333333;0.8416666667;Female-Stereotyped;Female-Stereotyped
+متزلج;0.4666666667;0.4833333333;Gender-Neutral;Gender-Neutral
+مهرب;0.1666666667;0.15;Male-Stereotyped;Male-Stereotyped
+معجب بمسلسلات الصابون;0.8916666667;0.9083333333;Female-Stereotyped;Female-Stereotyped
+أخصائي اجتماعي;0.7166666667;0.5916666667;Female-Stereotyped;Female-Stereotyped
+شخص اجتماعي;0.6083333333;0.5416666667;Female-Stereotyped;Gender-Neutral
+لاعب سوفتبول;0.9166666667;0.6916666667;Female-Stereotyped;Female-Stereotyped
+جندي;0.1416666667;0.1316666667;Male-Stereotyped;Male-Stereotyped
+معلق رياضي;0.225;0.1083333333;Male-Stereotyped;Male-Stereotyped
+جاسوس;0.275;0.2416666667;Male-Stereotyped;Male-Stereotyped
+إحصائي;0.3916666667;0.4;Male-Stereotyped;Male-Stereotyped
+كاتب اختزال;0.475;0.475;Gender-Neutral;Gender-Neutral
+وسيط أسهم;0.2416666667;0.3;Male-Stereotyped;Male-Stereotyped
+قاطع حجارة;0.1833333333;0.2083333333;Male-Stereotyped;Male-Stereotyped
+راقص تعرٍ;0.7833333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+طالب;0.5;0.4916666667;Gender-Neutral;Gender-Neutral
+مستمتع بأشعة الشمس;0.8416666667;0.8416666667;Female-Stereotyped;Female-Stereotyped
+مشرف;0.4333333333;0.3333333333;Male-Stereotyped;Male-Stereotyped
+قاضي المحكمة العليا;0.3333333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+راكب أمواج;0.225;0.275;Male-Stereotyped;Male-Stereotyped
+جراح;0.35;0.2916666667;Male-Stereotyped;Male-Stereotyped
+مشتبه به;0.3416666667;0.3333333333;Male-Stereotyped;Male-Stereotyped
+سباح;0.5166666667;0.4916666667;Gender-Neutral;Gender-Neutral
+مشغل لوحة المفاتيح;0.6416666667;0.625;Female-Stereotyped;Female-Stereotyped
+سباح متزامن;0.7333333333;0.8333333333;Female-Stereotyped;Female-Stereotyped
+محلل نظم;0.4;0.35;Male-Stereotyped;Male-Stereotyped
+خياط;0.3666666667;0.2916666667;Male-Stereotyped;Male-Stereotyped
+عازف الدف;0.4833333333;0.5666666667;Gender-Neutral;Female-Stereotyped
+راقص نقر;0.775;0.675;Female-Stereotyped;Female-Stereotyped
+قارئ بطاقات التاروت;0.7083333333;0.8166666667;Female-Stereotyped;Female-Stereotyped
+فنان وشم;0.1583333333;0.1666666667;Male-Stereotyped;Male-Stereotyped
+محشو جلود;0.3166666667;0.255;Male-Stereotyped;Male-Stereotyped
+مراهق;0.5;0.4833333333;Gender-Neutral;Gender-Neutral
+مشغل هاتف;0.6916666667;0.7166666667;Female-Stereotyped;Female-Stereotyped
+لاعب تنس;0.525;0.5166666667;Gender-Neutral;Gender-Neutral
+مخرج مسرحي;0.4333333333;0.3833333333;Male-Stereotyped;Male-Stereotyped
+لص;0.3083333333;0.3166666667;Male-Stereotyped;Male-Stereotyped
+طفل صغير;0.5;0.4916666667;Gender-Neutral;Gender-Neutral
+صانع أدوات;0.1416666667;0.1166666667;Male-Stereotyped;Male-Stereotyped
+مرشد سياحي;0.5;0.5083333333;Gender-Neutral;Gender-Neutral
+وكيل سفر;0.625;0.675;Female-Stereotyped;Female-Stereotyped
+سائق شاحنة;0.1;0.1416666667;Male-Stereotyped;Male-Stereotyped
+عازف بوق;0.3916666667;0.3416666667;Male-Stereotyped;Male-Stereotyped
+عازف توبا;0.275;0.25;Male-Stereotyped;Male-Stereotyped
+كاتب على الآلة الكاتبة;0.675;0.755;Female-Stereotyped;Female-Stereotyped
+رئيس جامعة;0.2833333333;0.2416666667;Male-Stereotyped;Male-Stereotyped
+طبيب بيطري;0.4916666667;0.5583333333;Gender-Neutral;Gender-Neutral
+ضحية;0.675;0.675;Female-Stereotyped;Female-Stereotyped
+نادل;0.3166666667;0.175;Male-Stereotyped;Male-Stereotyped
+نادلة;0.9416666667;0.9333333333;Female-Stereotyped;Female-Stereotyped
+مدير سجن;0.15;0.1166666667;Male-Stereotyped;Male-Stereotyped
+حارس;0.1666666667;0.2083333333;Male-Stereotyped;Male-Stereotyped
+ناسج;0.75;0.8166666667;Female-Stereotyped;Female-Stereotyped
+منظم حفلات زفاف;0.875;0.8;Female-Stereotyped;Female-Stereotyped
+رافع أوزان;0.1333333333;0.1583333333;Male-Stereotyped;Male-Stereotyped
+لحام;0.15;0.1083333333;Male-Stereotyped;Male-Stereotyped
+حافر آبار;0.1083333333;0.09166666667;Male-Stereotyped;Male-Stereotyped
+نحات خشب;0.2;0.2166666667;Male-Stereotyped;Male-Stereotyped
+عامل خشب;0.1666666667;0.2333333333;Male-Stereotyped;Male-Stereotyped
+مصارع;0.09166666667;0.05;Male-Stereotyped;Male-Stereotyped
+كاتب;0.4583333333;0.4916666667;Male-Stereotyped;Gender-Neutral
+فني أشعة;0.4583333333;0.4583333333;Male-Stereotyped;Male-Stereotyped
+شاب;0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
+عالم حيوان;0.45;0.4666666667;Male-Stereotyped;Gender-Neutral

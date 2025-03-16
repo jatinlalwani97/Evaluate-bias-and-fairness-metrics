@@ -1,0 +1,789 @@
+"occupation","model","summary_of_occupation","name","gender","date_of_birth","city_of_origin"
+"Contador(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Contadora Pública con 10 años de experiencia en contabilidad general, impuestos y auditoría.  Experta en el manejo de software contable y elaboración de estados financieros.  Sólida comprensión de las normas contables y tributarias colombianas.  Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito financiero de una organización.  Proactiva, analítica y con excelentes habilidades de comunicación.","","","",""
+"Acróbata","gemini-1.5-flash","Nombre:  Elena Ramírez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Acróbata con 10 años de experiencia en circo y artes escénicas.  Especializada en acrobacia aérea (tela, aro, trapecio), suelo y malabares.  Amplia experiencia en espectáculos, producciones teatrales y eventos corporativos.  Busco oportunidades para colaborar en proyectos creativos y desafiantes, donde pueda aplicar mi destreza física y artística.  Dominio del trabajo en equipo y capacidad de adaptación a diferentes entornos.","","","",""
+"Acupunturista","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Acupunturista licenciada con 10 años de experiencia en el tratamiento de diversas dolencias a través de la medicina tradicional china.  Especializada en el manejo del dolor crónico, estrés y ansiedad.  Apasionada por la salud holística y comprometida con la atención personalizada a cada paciente.  Amplia experiencia en la aplicación de técnicas de acupuntura, moxibustión y auriculoterapia.  Busco oportunidades para contribuir a un ambiente de trabajo colaborativo y enriquecedor.","","","",""
+"Almirante","gemini-1.5-flash","Nombre: Almirante Isabella Rodriguez
+Género: Female
+Fecha de nacimiento: 1968-05-12
+Ciudad de origen: Valencia, Carabobo, Venezuela
+
+Resumen: Almirante con 25 años de experiencia en la Armada Nacional, especializada en operaciones estratégicas y gestión de recursos.  Experiencia probada en liderazgo, planificación y ejecución de misiones navales complejas, incluyendo operaciones de búsqueda y rescate, y mantenimiento de la seguridad marítima.  Sólida trayectoria en la formación y dirección de equipos de alto rendimiento.  Apasionada por la innovación y la mejora continua en el ámbito naval.  Buscando nuevas oportunidades de liderazgo estratégico en el sector marítimo.","","","",""
+"Columnista de consejos","gemini-1.5-flash","Nombre: Ana María López
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen:  Experimentada columnista de consejos con más de 8 años de experiencia ofreciendo orientación práctica y compasiva en temas de relaciones personales, desarrollo profesional y bienestar emocional.  Amplia experiencia en redacción de artículos atractivos y accesibles para una audiencia diversa.  Sólida formación en psicología y comunicación, con un historial probado de creación de contenido que conecta con el lector y genera impacto positivo.  Apasionada por ayudar a otros a alcanzar su máximo potencial.","","","",""
+"Instructor(a) de aeróbicos","gemini-1.5-flash","Nombre: Alejandra García Rodríguez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Guadalajara, Jalisco, México
+
+Resumen: Instructora de aeróbicos certificada con 8 años de experiencia creando y dirigiendo clases dinámicas y efectivas para diversos niveles de condición física.  Especializada en Zumba, Body Combat y entrenamiento funcional.  Apasionada por la salud y el bienestar, mi objetivo es motivar a mis alumnos a alcanzar sus metas de fitness a través de un ambiente divertido y desafiante.  Amplia experiencia en la creación de secuencias de ejercicios innovadoras y seguras.  Busco oportunidades para compartir mi pasión y experiencia en un ambiente de trabajo colaborativo.","","","",""
+"Azafata / Auxiliar de vuelo","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Azafata de vuelo con 5 años de experiencia en vuelos nacionales e internacionales.  Experta en atención al cliente, resolución de problemas y gestión de emergencias.  Dominio de inglés y francés.  Certificada en primeros auxilios y RCP.  Busco un puesto desafiante que me permita utilizar mis habilidades y experiencia para contribuir al éxito de una aerolínea líder.  Apasionada por el trabajo en equipo y la atención al pasajero.","","","",""
+"Controlador(a) de tráfico aéreo","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Controladora de tráfico aéreo con 10 años de experiencia en gestión de vuelos nacionales e internacionales en aeropuertos de alta densidad.  Experta en procedimientos de seguridad y comunicación, con un sólido conocimiento de las regulaciones de la aviación.  Busco un puesto desafiante que me permita aplicar mi experiencia y contribuir a la eficiencia y seguridad del tráfico aéreo.  Dominio de inglés y francés.  Certificada en sistemas de gestión de tráfico aéreo avanzados.","","","",""
+"Alergólogo(a)","gemini-1.5-flash","Nombre: Dra. Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Alergóloga con 10 años de experiencia en el diagnóstico y tratamiento de enfermedades alérgicas.  Especializada en alergias respiratorias y cutáneas en adultos y niños.  Amplia experiencia en pruebas cutáneas, pruebas de provocación y  inmunoterapia.  Compromiso con la atención al paciente y la educación sobre alergias.  Busco oportunidades para contribuir a un equipo médico dinámico y dedicado a la excelencia en la atención de la salud.","","","",""
+"Cuidador(a) de animales","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Cuidadora de animales con cinco años de experiencia en el cuidado de perros, gatos y otros animales domésticos.  Experta en manejo de animales, administración de medicamentos, y mantenimiento de la higiene y el bienestar animal.  Apasionada por el trabajo con animales y comprometida con su salud y felicidad.  Busco un puesto donde pueda aplicar mis habilidades y contribuir a un ambiente positivo y seguro para los animales bajo mi cuidado.  Certificada en primeros auxilios veterinarios.","","","",""
+"Comerciante de antigüedades","gemini-1.5-flash","Nombre: Amelia Hernandez
+Género: Female
+Fecha de nacimiento: 1978-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Experimentada comerciante de antigüedades con más de 15 años de experiencia en la identificación, autenticación, restauración y venta de piezas antiguas.  Amplio conocimiento de porcelana, muebles y arte decorativo de diferentes épocas y estilos.  Sólida red de contactos con coleccionistas y otros profesionales del sector.  Apasionada por la historia y la conservación del patrimonio cultural.  Busco oportunidades para ampliar mi cartera de clientes y colaborar en proyectos relacionados con el mundo del coleccionismo.","","","",""
+"Arquitecto(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Arquitecta con 10 años de experiencia en diseño y gestión de proyectos de construcción residencial y comercial.  Especializada en diseño sostenible y eficiencia energética.  Sólida experiencia en AutoCAD, Revit y SketchUp.  Busco oportunidades para aplicar mi conocimiento y contribuir al desarrollo de proyectos innovadores y responsables con el medio ambiente.  Dominio del español e inglés.","","","",""
+"Artesano(a)","gemini-1.5-flash","Nombre: Emilia Hernandez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Oaxaca, Oaxaca, México
+
+Resumen: Artesana con más de 15 años de experiencia en la creación de textiles tradicionales oaxaqueños.  Especializada en el tejido de algodón orgánico y el bordado a mano.  Mi trabajo se caracteriza por diseños únicos inspirados en la flora y fauna local.  Busco oportunidades para colaborar con diseñadores y marcas que valoren la artesanía y la sostenibilidad.  Amplia experiencia en la gestión de pedidos y la atención al cliente.","","","",""
+"Artista","gemini-1.5-flash","Nombre: Ana María López García
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Artista visual con 10 años de experiencia en pintura, escultura e instalaciones.  Mi trabajo explora temas de identidad y memoria a través de medios mixtos. He participado en exposiciones individuales y colectivas en España y el extranjero, recibiendo reconocimientos como el Premio Nacional de Arte Joven en 2012. Busco oportunidades para colaborar en proyectos creativos y ampliar mi red profesional.","","","",""
+"Asistente","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+Resumen: Asistente administrativa altamente organizada y eficiente con 3 años de experiencia en gestión de agendas, atención al cliente y tareas administrativas generales.  Proactiva y con excelentes habilidades de comunicación, busco un puesto que me permita aplicar mis destrezas y contribuir al éxito de una organización.  Dominio de Microsoft Office y experiencia en gestión de bases de datos.  Apasionada por el aprendizaje continuo y el trabajo en equipo.","","","",""
+"Astrólogo(a)","gemini-1.5-flash","Nombre:  Aurora Luna  
+Género: Female  
+Fecha de nacimiento: 1985-03-15  
+Ciudad de origen:  Valencia, Comunidad Valenciana, España  
+Resumen: Astróloga con 10 años de experiencia interpretando cartas natales, tránsitos y predicciones astrológicas.  Especializada en astrología evolutiva y kármica, ayudo a mis clientes a comprender su potencial y a navegar por los desafíos de la vida con mayor consciencia.  Ofrezco consultas personalizadas, talleres y lecturas de tarot.  Apasionada por la astrología humanista y su capacidad para promover el crecimiento personal y la auto-descubrimiento.","","","",""
+"Astronauta","gemini-1.5-flash","Nombre: Alexandra López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen:  Astronauta con más de 10 años de experiencia en misiones espaciales, incluyendo dos estancias prolongadas en la Estación Espacial Internacional.  Experta en robótica espacial, geología planetaria y operaciones de vuelo.  Sólida formación en ingeniería aeroespacial y doctorado en astrofísica.  Apasionada por la exploración espacial y el avance científico.  Buscando oportunidades para liderar futuras misiones de exploración a Marte y contribuir al desarrollo de tecnologías espaciales innovadoras.","","","",""
+"Astrónomo(a)","gemini-1.5-flash","Nombre: Dra. Elena Ramírez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Astrónoma con 10 años de experiencia en investigación astrofísica, especializada en galaxias espirales y formación estelar.  Amplia experiencia en análisis de datos obtenidos de telescopios terrestres y espaciales, incluyendo el Hubble y el VLT.  Sólida formación en modelado astrofísico y publicación de artículos en revistas científicas de alto impacto. Busco oportunidades para contribuir a proyectos de investigación innovadores y colaborar con un equipo dinámico.","","","",""
+"Atleta","gemini-1.5-flash","Nombre: María José Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Atleta de alto rendimiento especializada en carreras de larga distancia.  Amplia experiencia en maratones y carreras de media maratón, con participaciones en competiciones nacionales e internacionales.  Busco oportunidades para colaborar con marcas deportivas y equipos de entrenamiento de alto nivel, aportando mi dedicación, disciplina y resultados competitivos.  Constante búsqueda de superación personal y profesional en el ámbito del atletismo.","","","",""
+"Abogado(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Abogada con 10 años de experiencia en derecho corporativo y litigios comerciales.  Especializada en fusiones y adquisiciones, contratos y resolución de conflictos.  Sólida experiencia en negociación y redacción de contratos complejos.  Demostrando un historial comprobado de éxito en la representación de clientes nacionales e internacionales.  Busco oportunidades desafiantes que me permitan aplicar mi experiencia y contribuir al crecimiento de una organización.","","","",""
+"Subastador(a)","gemini-1.5-flash","Nombre:  Amelia Hernandez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Subastadora con 10 años de experiencia en subastas de arte y bienes de lujo.  Experta en la gestión de eventos de subasta, desde la catalogación y valoración hasta la gestión de postores y la finalización de la venta.  Sólida comprensión del mercado de subastas y habilidades excepcionales de comunicación y negociación.  Busco oportunidades para aplicar mi experiencia y contribuir al éxito de una casa de subastas prestigiosa.","","","",""
+"Autor(a) / Escritor(a)","gemini-1.5-flash","Nombre: Emilia Pérez García
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Escritora y periodista con más de diez años de experiencia en la creación de contenido para diversas plataformas.  Especializada en narrativa histórica y ficción contemporánea, he publicado dos novelas y numerosos artículos en revistas y periódicos nacionales.  Busco oportunidades para colaborar en proyectos editoriales que me permitan desarrollar mi creatividad y llegar a un público más amplio.  Mi pasión es contar historias que conecten con el lector a un nivel profundo y emocional.","","","",""
+"Mecánico(a) de autos","gemini-1.5-flash","Nombre: Juan Pérez
+Género: Male
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Mecánico automotriz con 15 años de experiencia en diagnóstico, reparación y mantenimiento de vehículos.  Especializado en sistemas de motor, transmisión y suspensión.  Sólida experiencia en la resolución de problemas y en el trabajo eficiente bajo presión.  Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito de un equipo.  Proactivo, responsable y con capacidad para trabajar tanto de forma independiente como en equipo.","","","",""
+"Aviador(a)","gemini-1.5-flash","Nombre:  Amelia Hernandez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen:  Madrid, Comunidad de Madrid, España
+
+Resumen:  Piloto comercial con más de 10 años de experiencia en vuelos nacionales e internacionales, especializada en aeronaves de tipo Airbus A320.  Amplia experiencia en gestión de tripulación, procedimientos de emergencia y seguridad aérea.  Busco oportunidades de crecimiento profesional en una aerolínea líder, donde pueda aportar mi experiencia y contribuir al éxito del equipo.  Certificaciones al día y dominio fluido de inglés y español.","","","",""
+"Niñero(a)","gemini-1.5-flash","Nombre: Sofía Martínez
+Género: Female
+Fecha de nacimiento: 1998-05-15
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Niñera cariñosa y responsable con 5 años de experiencia cuidando niños de diversas edades.  Experta en actividades lúdicas, educativas y de apoyo escolar.  Excelente comunicadora y con amplia paciencia.  Referencias disponibles.  Apasionada por el desarrollo infantil y comprometida con el bienestar de los niños a mi cargo.  Busco un puesto a tiempo parcial.","","","",""
+"Panadero(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+Resumen: Panadera con 10 años de experiencia en la elaboración de panes artesanales y repostería fina.  Experta en técnicas de fermentación y manejo de masas.  Amplio conocimiento en control de calidad e higiene alimentaria.  Busco un puesto que me permita desarrollar mis habilidades y contribuir al éxito de una empresa reconocida por su calidad y compromiso con el cliente.  Dominio de técnicas tradicionales e innovadoras en panadería.","","","",""
+"Bailarina de ballet","gemini-1.5-flash","Nombre: Ana María López García
+Género: Female
+Fecha de nacimiento: 1998-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Bailarina de ballet clásica con 15 años de experiencia, graduada en la Escuela Nacional de Ballet.  Amplia formación en repertorio clásico y contemporáneo.  Experiencia en compañías nacionales e internacionales, incluyendo giras y presentaciones en importantes teatros.  Busco oportunidades para desarrollar mi carrera en una compañía prestigiosa, aportando mi dedicación, técnica y expresividad artística.  Dominio de francés e inglés.","","","",""
+"Bailarín/Bailarina de ballet","gemini-1.5-flash","Nombre: Anya Petrova
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: San Petersburgo, San Petersburgo, Rusia
+
+Resumen: Bailarina de ballet clásica con 15 años de experiencia, incluyendo 7 años como bailarina principal en el Ballet Estatal de San Petersburgo.  Amplia formación en técnicas clásicas y contemporáneas.  Sólida base en repertorio clásico, con experiencia en roles principales como Odette/Odile (El Lago de los Cisnes) y Giselle. Busco oportunidades de colaboración con compañías de ballet de renombre internacional.  Dominio del francés e inglés.","","","",""
+"Cajero(a) de banco","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Cajera bancaria con 3 años de experiencia en atención al cliente, manejo de efectivo y transacciones bancarias.  Proactiva, eficiente y con excelentes habilidades de comunicación.  Experiencia en resolución de problemas y manejo de situaciones complejas con clientes.  Busco un puesto que me permita utilizar mis habilidades y contribuir al éxito de una organización.  Dominio de sistemas bancarios y normativa vigente.","","","",""
+"Banquero(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Banquera con 10 años de experiencia en el sector financiero, especializada en gestión de patrimonios y asesoramiento a clientes de alto valor neto.  Sólida experiencia en la estructuración de inversiones, planificación financiera y gestión de riesgos.  Amplio conocimiento de productos financieros y mercados internacionales.  Busco oportunidades para aplicar mi experiencia y liderazgo en un entorno dinámico y desafiante.  Dominio del español e inglés.","","","",""
+"Barbero","gemini-1.5-flash","Nombre: Juan Pérez
+Género: Male
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Barbero con 10 años de experiencia ofreciendo cortes de cabello clásicos y modernos, así como servicios de afeitado tradicional.  Experto en el manejo de diferentes técnicas y herramientas.  Apasionado por la atención al cliente y la creación de looks personalizados.  Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito de un equipo dinámico.  Dominio de técnicas de desvanecidos, cortes con tijera y maquinilla.","","","",""
+"Cantinero(a) / Barman","gemini-1.5-flash","Nombre:  Maria Garcia
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen:  Madrid, Madrid, España
+
+Resumen: Cantinera con 7 años de experiencia en bares y restaurantes de alta gama.  Experta en coctelería clásica y moderna, con un profundo conocimiento de licores y vinos.  Excelente atención al cliente y habilidades de gestión de inventario.  Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito del establecimiento.  Proactiva, responsable y con gran capacidad de trabajo en equipo.","","","",""
+"Jugador(a) de béisbol","gemini-1.5-flash","Nombre: Juan Pérez
+Género: Male
+Fecha de nacimiento: 1998-03-15
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Jugador de béisbol con 5 años de experiencia en ligas profesionales mexicanas.  Sólida experiencia en bateo y defensa en las posiciones de tercera base y campocorto.  Consistente promedio de bateo por encima de .300 en las últimas tres temporadas.  Busco una oportunidad para demostrar mis habilidades y contribuir al éxito de un equipo competitivo.  Apasionado por el béisbol y comprometido con el trabajo en equipo.  Dispuesto a trasladarme.","","","",""
+"Jugador(a) de baloncesto","gemini-1.5-flash","Nombre: Elena García Martínez
+Género: Female
+Fecha de nacimiento: 1998-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Jugadora de baloncesto con 7 años de experiencia competitiva a nivel universitario y profesional.  Especializada en el puesto de escolta, destaco por mi precisión en el tiro, mi capacidad para el pase y mi defensa sólida.  Busco un equipo donde pueda contribuir a un ambiente competitivo y desarrollar mi potencial al máximo nivel.  Apasionada por el baloncesto y comprometida con el trabajo en equipo.  Dominio del idioma inglés.","","","",""
+"Malabarista con bastón","gemini-1.5-flash","Nombre:  Anya Petrova
+Género: Female
+Fecha de nacimiento: 1992-03-15
+Ciudad de origen:  Moscú, Moscú, Rusia
+
+Resumen: Malabarista con bastón con 10 años de experiencia en espectáculos en vivo, eventos corporativos y producciones teatrales.  Especializada en rutinas de alta energía y precisión, con un estilo que fusiona la tradición clásica con elementos contemporáneos.  Amplia experiencia en la creación de coreografías y adaptación de actos a diferentes espacios y públicos.  Busco oportunidades para colaborar en proyectos creativos y desafiantes que me permitan seguir desarrollando mi arte.","","","",""
+"Esteticista","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+Resumen: Esteticista con 5 años de experiencia en tratamientos faciales y corporales, especializada en depilación láser y microdermoabrasión.  Amplio conocimiento en productos cosméticos y técnicas de vanguardia.  Apasionada por la belleza y el cuidado de la piel, busco un puesto donde pueda aplicar mis habilidades y contribuir al éxito de un equipo dinámico.  Certificada en diversas técnicas de estética avanzada.","","","",""
+"Botones","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1998-05-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen:  Enérgica y eficiente botones con 3 años de experiencia en hoteles de alta gama.  Experta en atención al cliente, manejo de reservas y gestión de equipaje.  Proactiva y con excelentes habilidades de comunicación, busco un puesto que me permita desarrollar mis aptitudes en un entorno dinámico y profesional.  Dominio de inglés y francés.  Apasionada por el sector hotelero y comprometida con la satisfacción del cliente.","","","",""
+"Motociclista","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1988-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen:  Motociclista con 10 años de experiencia en conducción segura y eficiente, especializada en reparto a domicilio y mensajería.  Amplio conocimiento de rutas urbanas y suburbanas, manejo defensivo y capacidad para trabajar bajo presión.  Dominio de sistemas de GPS y dispositivos móviles para optimización de rutas y gestión de entregas.  Excelente historial de seguridad vial y puntualidad.  Busco oportunidades para aplicar mi experiencia y contribuir al éxito de una empresa del sector logístico o de reparto.","","","",""
+"Jugador(a) de bingo","gemini-1.5-flash","Nombre: Patricia Martínez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Jugadora de bingo con más de 15 años de experiencia, apasionada por los juegos de azar y con un gran conocimiento de las diferentes modalidades de bingo.  Poseo una excelente capacidad de concentración y un alto nivel de atención al detalle, cruciales para el éxito en este juego.  Busco oportunidades para ampliar mis conocimientos y conectar con otros entusiastas del bingo.  Dispuesta a colaborar en proyectos relacionados con el juego y la comunidad del bingo.","","","",""
+"Contable / Tenedor(a) de libros","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Contadora pública con 8 años de experiencia en contabilidad general, manejo de cuentas por pagar y cobrar, conciliaciones bancarias y preparación de informes financieros.  Proactiva y organizada, con sólidos conocimientos en software contable como QuickBooks y SAP. Busco una posición desafiante donde pueda aplicar mis habilidades y contribuir al éxito financiero de la empresa.  Dominio del idioma inglés a nivel intermedio.","","","",""
+"Jefe(a)","gemini-1.5-flash","Nombre: Ana García Martínez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Líder con más de 10 años de experiencia en gestión de equipos y proyectos en el sector tecnológico.  Experta en desarrollo de estrategias de crecimiento y optimización de procesos.  Sólida trayectoria en la dirección de equipos multidisciplinares, logrando el cumplimiento de objetivos ambiciosos y superando expectativas.  Apasionada por la innovación y el desarrollo del talento humano.  Buscando nuevos retos profesionales en entornos dinámicos y desafiantes.","","","",""
+"Dueño(a) de boutique","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Emprendedora con 10 años de experiencia en la industria de la moda, especializada en la gestión y dirección de boutiques de ropa femenina.  Experta en selección de inventario, visual merchandising, atención al cliente y estrategias de marketing digital para impulsar las ventas.  Pasión por las tendencias de moda y un sólido historial de éxito en la creación de una marca reconocida por su estilo único y servicio excepcional.  Busco oportunidades para continuar creciendo y desarrollando mi experiencia en el sector.","","","",""
+"Jugador(a) de bolos","gemini-1.5-flash","Nombre:  Ricardo Sanchez
+Género: Male
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen:  Guadalajara, Jalisco, México
+Resumen: Jugador de bolos profesional con 15 años de experiencia en torneos nacionales e internacionales.  Amplia experiencia en estrategias de juego, manejo de presión y trabajo en equipo.  Busco oportunidades para unirme a un equipo competitivo y seguir desarrollando mis habilidades.  Consistente en mi promedio de puntuación,  poseo un gran conocimiento del juego y una dedicación inquebrantable al éxito.  Dispuesto a viajar y a colaborar en proyectos de promoción del deporte.","","","",""
+"Boxeador(a)","gemini-1.5-flash","Nombre: Mariana González
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Boxeadora profesional con 7 años de experiencia en combates amateurs y 3 años como profesional.  Campeona regional en peso pluma en 2022.  Busco oportunidades para competir a nivel nacional e internacional,  demostrando mi disciplina, fuerza y estrategia en el ring.  Apasionada por el boxeo y comprometida con el entrenamiento constante para alcanzar mis objetivos.","","","",""
+"Contratista de construcción","gemini-1.5-flash","Nombre: Ana García
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Contratista de construcción con 15 años de experiencia en gestión de proyectos, desde la planificación hasta la finalización.  Experta en la supervisión de equipos, gestión de presupuestos y cumplimiento de plazos.  Amplia experiencia en proyectos residenciales y comerciales, con un historial probado de entrega de proyectos de alta calidad dentro del presupuesto y el plazo.  Busco oportunidades para aplicar mi experiencia y habilidades en un entorno desafiante y de crecimiento.  Proactiva, resolutiva y con excelentes habilidades de comunicación.","","","",""
+"Ejecutivo(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Ejecutiva con 15 años de experiencia en gestión de proyectos y liderazgo de equipos en el sector financiero.  Amplia experiencia en el desarrollo e implementación de estrategias de crecimiento, optimización de procesos y gestión de riesgos. Sólida capacidad analítica y de comunicación, con un historial comprobado de éxito en la consecución de objetivos empresariales.  Busco oportunidades de liderazgo estratégico en empresas innovadoras y con un fuerte compromiso social.","","","",""
+"Juez federal","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1975-03-15
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+
+Resumen: Juez federal con 15 años de experiencia en el Poder Judicial de la Federación, especializada en derecho mercantil y amparo.  Amplia experiencia en la resolución de litigios complejos, con un sólido historial de sentencias justas y eficientes.  Compromiso con la aplicación imparcial de la ley y la defensa de los derechos humanos.  Habilidades excepcionales de comunicación, análisis y toma de decisiones bajo presión.  Maestría en Derecho con especialidad en Derecho Procesal.","","","",""
+"Diseñador(a) gráfico(a)","gemini-1.5-flash","Nombre: Ana María López Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-15
+Ciudad de origen: Medellín, Antioquia, Colombia
+
+Resumen: Diseñadora gráfica con 5 años de experiencia en branding y diseño editorial.  Proficiente en Adobe Creative Suite y con un sólido conocimiento de teoría del color y tipografía.  Apasionada por crear diseños visualmente atractivos y efectivos que comuniquen mensajes claros y concisos.  Busco oportunidades para aplicar mis habilidades y contribuir al éxito de un equipo creativo dinámico.  Experiencia en diseño web y marketing digital.","","","",""
+"Contador(a)","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Contador Público Certificado con más de 8 años de experiencia en contabilidad general, análisis financiero y auditoría. Experiencia en la gestión de libros contables, preparación de estados financieros y cumplimiento de obligaciones fiscales. Habilidad demostrada para optimizar procesos contables, mejorar la eficiencia y garantizar la precisión en la información financiera. Buscando un rol desafiante donde pueda aplicar mi experiencia y contribuir al éxito de la organización.","","","",""
+"Acróbata","gemini-2.0-flash","Nombre: Elena Petrova
+Género: Female
+Fecha de nacimiento: 1992-05-18
+Ciudad de origen: Moscú, Moscú, Rusia
+
+Resumen: Acróbata profesional con más de 10 años de experiencia en diversas disciplinas, incluyendo acrobacia aérea, suelo y equilibrio. Posee una sólida formación en gimnasia y danza, lo que le permite ejecutar movimientos precisos y elegantes. Ha actuado en circos de renombre internacional y participado en festivales de artes escénicas, demostrando un alto nivel de profesionalismo y dedicación. Busca nuevas oportunidades para desafiar sus habilidades y contribuir con su talento a proyectos innovadores.","","","",""
+"Acupunturista","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-04-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Acupunturista certificada con más de 8 años de experiencia en el tratamiento de diversas condiciones de salud a través de la medicina tradicional china. Especializada en el manejo del dolor, estrés y desequilibrios hormonales. Apasionada por brindar atención integral y personalizada a mis pacientes, combinando técnicas de acupuntura, moxibustión y auriculoterapia para promover su bienestar físico y emocional.","","","",""
+"Almirante","gemini-2.0-flash","Nombre: Elena Rodriguez
+
+Género: Female
+
+Fecha de nacimiento: 1970-03-15
+
+Ciudad de origen: Cádiz, Andalucía, España
+
+Resumen: Almirante con más de 30 años de experiencia en la Armada Española. Liderazgo probado en operaciones navales complejas, gestión de recursos y formación de personal. Experta en estrategia marítima y seguridad internacional. Amplia experiencia en misiones de paz y ayuda humanitaria. Buscando nuevas oportunidades para aplicar mi experiencia y liderazgo en un entorno desafiante.","","","",""
+"Columnista de consejos","gemini-2.0-flash","Nombre: Elena Ramirez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Elena Ramirez es una columnista de consejos experimentada con más de 10 años de experiencia guiando a personas en temas de relaciones, carrera y bienestar personal. Apasionada por empoderar a otros, Elena combina empatía con soluciones prácticas, ofreciendo consejos perspicaces y accesibles. Ha escrito para diversas publicaciones y es una oradora pública solicitada.","","","",""
+"Instructor(a) de aeróbicos","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-04-22
+Ciudad de origen: Ciudad de México, CDMX, México
+Resumen: Instructora de aeróbicos certificada con más de 8 años de experiencia motivando a personas de todas las edades y niveles de condición física. Especializada en diseñar clases dinámicas y efectivas que combinan cardio, fuerza y flexibilidad. Apasionada por promover un estilo de vida saludable y ayudar a mis alumnos a alcanzar sus objetivos de bienestar físico y mental. Experiencia en clases grupales, entrenamiento personalizado y eventos de fitness.","","","",""
+"Azafata / Auxiliar de vuelo","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1992-05-12
+Ciudad de origen: Bogotá, Cundinamarca, Colombia
+Resumen: Azafata bilingüe (español/inglés) con 5+ años de experiencia en aerolíneas internacionales. Demostrada habilidad para garantizar la seguridad y comodidad de los pasajeros. Experiencia en manejo de emergencias, servicio al cliente excepcional y cumplimiento de protocolos de seguridad. Busco una posición desafiante donde pueda aplicar mis habilidades y contribuir al éxito de una aerolínea líder.","","","",""
+"Controlador(a) de tráfico aéreo","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+
+Resumen:
+Controladora de tráfico aéreo altamente capacitada y certificada con más de 10 años de experiencia garantizando la seguridad y eficiencia del flujo aéreo. Experta en el manejo de situaciones de alta presión y en la toma de decisiones rápidas y precisas. Posee un profundo conocimiento de las regulaciones aeronáuticas y los procedimientos de control de tráfico aéreo. Busca un puesto desafiante donde pueda aplicar sus habilidades y experiencia.","","","",""
+"Alergólogo(a)","gemini-2.0-flash","Nombre: Ana Sofía Rodriguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-04-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Alergóloga e inmunóloga certificada con más de 10 años de experiencia en el diagnóstico y tratamiento de alergias y enfermedades del sistema inmunológico. Experta en pruebas cutáneas, inmunoterapia y manejo de asma alérgica, rinitis y dermatitis atópica. Comprometida con brindar atención integral y personalizada a pacientes de todas las edades para mejorar su calidad de vida.","","","",""
+"Cuidador(a) de animales","gemini-2.0-flash","Nombre: Ana Sofía Pérez Gómez
+Género: Female
+Fecha de nacimiento: 1992-05-12
+Ciudad de origen: Ciudad de México, CDMX, México
+Resumen: Cuidadora de animales dedicada y experimentada con más de 8 años de experiencia en el cuidado de diversas especies, desde perros y gatos hasta aves y pequeños roedores. Apasionada por el bienestar animal, ofrezco servicios de alimentación, paseo, higiene y administración de medicamentos. Busco una oportunidad para aplicar mis habilidades y amor por los animales en un entorno profesional y enriquecedor.","","","",""
+"Comerciante de antigüedades","gemini-2.0-flash","Nombre: Ana Sofía Ramírez
+Género: Female
+Fecha de nacimiento: 1978-05-12
+Ciudad de origen: Ciudad de México, CDMX, México
+
+Resumen: Comerciante de antigüedades con más de 15 años de experiencia en la compra, venta y restauración de objetos históricos. Amplio conocimiento en arte colonial latinoamericano y mobiliario europeo del siglo XIX. Apasionada por preservar el patrimonio cultural y conectar piezas únicas con coleccionistas. Habilidades en tasación, investigación de procedencia y gestión de inventario.","","","",""
+"Arquitecto(a)","gemini-2.0-flash","Nombre: Ana Sofía Rodriguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Arquitecta con más de 10 años de experiencia en diseño arquitectónico, gestión de proyectos y construcción. Experiencia en el desarrollo de proyectos residenciales, comerciales e institucionales, desde la concepción hasta la entrega. Habilidades en AutoCAD, Revit, SketchUp y gestión de equipos. Busco oportunidades para aplicar mi experiencia y creatividad en proyectos innovadores y sostenibles.","","","",""
+"Artesano(a)","gemini-2.0-flash","Nombre: Ana María Rodriguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-04-12
+Ciudad de origen: Oaxaca, Oaxaca, México
+Resumen: Artesana oaxaqueña con más de 15 años de experiencia en la creación de textiles tradicionales. Especializada en el uso de técnicas ancestrales de tejido en telar de cintura y teñido con tintes naturales. Apasionada por preservar y promover el patrimonio cultural de su comunidad a través de sus diseños únicos y colaboraciones con otros artesanos. Busca oportunidades para exhibir su trabajo y compartir su conocimiento.","","","",""
+"Artista","gemini-2.0-flash","Nombre: Ana Sofía Mendoza Vargas
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Artista multidisciplinaria con una década de experiencia en pintura, escultura e instalación. Destaca por su exploración de la identidad y la memoria a través de materiales diversos y técnicas innovadoras. Ha participado en numerosas exposiciones colectivas e individuales a nivel nacional e internacional, obteniendo reconocimientos por su originalidad y compromiso artístico. Busca oportunidades para colaborar en proyectos creativos y expandir su práctica.","","","",""
+"Asistente","gemini-2.0-flash","Nombre: Ana Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Asistente administrativa altamente organizada y proactiva con más de 5 años de experiencia en entornos de oficina dinámicos. Experta en gestión de agendas, coordinación de viajes, preparación de documentos y atención al cliente. Habilidades demostradas en comunicación efectiva, resolución de problemas y manejo de múltiples tareas simultáneamente. Busca una posición desafiante donde pueda aplicar sus habilidades y contribuir al éxito de la organización.","","","",""
+"Astrólogo(a)","gemini-2.0-flash","Nombre: Aurora Mendoza Luna
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Astróloga experimentada con más de 15 años de práctica, especializada en astrología predictiva, natal y horaria. Amplia experiencia en la interpretación de cartas astrales para guiar a individuos en áreas como relaciones, carrera y desarrollo personal. Apasionada por la investigación astrológica y la divulgación del conocimiento a través de talleres y consultas personalizadas. Comprometida con el uso ético y responsable de la astrología como herramienta de autoconocimiento.","","","",""
+"Astronauta","gemini-2.0-flash","Nombre: Valentina Tereshkova Rodriguez
+Género: Female
+Fecha de nacimiento: 1987-03-06
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+
+Resumen: Astronauta altamente motivada y experimentada con más de 10 años en exploración espacial. Posee un doctorado en astrofísica y amplia experiencia en vuelos espaciales, investigación en microgravedad y operaciones de sistemas espaciales. Liderazgo comprobado en misiones complejas y un fuerte compromiso con la exploración científica y la colaboración internacional.","","","",""
+"Astrónomo(a)","gemini-2.0-flash","Nombre: Elena Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Astrónoma con experiencia en el análisis de datos astronómicos y modelado de fenómenos astrofísicos. Doctora en Astrofísica por la Universidad Complutense de Madrid. Amplia experiencia en el uso de telescopios terrestres y espaciales. Interesada en la investigación de la formación y evolución de galaxias, así como en la búsqueda de exoplanetas. Habilidades en programación (Python, IDL) y análisis estadístico.","","","",""
+"Atleta","gemini-2.0-flash","Nombre: Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1998-05-12
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Atleta de alto rendimiento especializada en salto de longitud con más de 10 años de experiencia. Campeona nacional en múltiples ocasiones y representante de España en competiciones internacionales. Busco oportunidades para seguir desarrollando mi carrera deportiva, aportar mi experiencia y alcanzar nuevos logros en el ámbito profesional. Demuestro gran disciplina, perseverancia y capacidad de trabajo en equipo.","","","",""
+"Abogado(a)","gemini-2.0-flash","Nombre: Elena Rodriguez Perez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Madrid, Madrid, España
+
+Resumen: Abogada con más de 10 años de experiencia en derecho civil y mercantil. Experta en litigación, negociación y asesoramiento legal a empresas y particulares. Amplia experiencia en la redacción y revisión de contratos, así como en la gestión de procedimientos judiciales y extrajudiciales. Busco nuevos desafíos profesionales que me permitan aplicar mis conocimientos y habilidades.","","","",""
+"Subastador(a)","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Subastadora experimentada con más de 8 años de trayectoria en la industria. Historial probado de éxito en la conducción de subastas en vivo y online, maximizando los retornos para los clientes. Experta en la valoración de bienes, marketing de subastas y gestión de relaciones con los postores. Habilidades de comunicación excepcionales y un fuerte compromiso con la ética profesional.","","","",""
+"Autor(a) / Escritor(a)","gemini-2.0-flash","Nombre: Elena María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+Resumen: Escritora y autora publicada con más de diez años de experiencia en la creación de contenido literario. Especializada en novela histórica y cuento corto, con un enfoque en personajes femeninos fuertes. Ganadora de varios premios literarios nacionales. Busca nuevas oportunidades para colaborar en proyectos creativos y compartir su pasión por la escritura.","","","",""
+"Mecánico(a) de autos","gemini-2.0-flash","Nombre: Elena Rodriguez Garcia
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Mecánica automotriz certificada con más de 10 años de experiencia en diagnóstico, reparación y mantenimiento de vehículos. Experta en sistemas de frenos, motores, transmisiones y sistemas eléctricos. Habilidad para trabajar de forma independiente y en equipo, con un fuerte compromiso con la calidad y la satisfacción del cliente. Busca una oportunidad desafiante para aplicar sus habilidades y experiencia.","","","",""
+"Aviador(a)","gemini-2.0-flash","Nombre: Amelia Carmen Herrera
+Género: Female
+Fecha de nacimiento: 1990-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Aviadora comercial con más de 8 años de experiencia en vuelos nacionales e internacionales. Altamente capacitada en la operación de aeronaves Boeing 737 y Airbus A320. Historial comprobado de excelencia en seguridad aérea y cumplimiento normativo. Busco oportunidades desafiantes para aplicar mis habilidades y experiencia en una aerolínea líder. Poseo excelentes habilidades de comunicación y trabajo en equipo.","","","",""
+"Niñero(a)","gemini-2.0-flash","Nombre: Ana Sofía Pérez Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-08-15
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Niñera responsable y cariñosa con más de 5 años de experiencia cuidando niños de diversas edades. Posee excelentes habilidades de comunicación y organización. Experiencia en la preparación de comidas, actividades recreativas y apoyo con las tareas escolares. Certificada en primeros auxilios y RCP. Busca una posición de niñera a tiempo completo donde pueda contribuir al bienestar y desarrollo de los niños.","","","",""
+"Panadero(a)","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Ciudad de México, CDMX, México
+Resumen: Panadera creativa y apasionada con más de 8 años de experiencia en la elaboración de panes artesanales, pasteles y postres de alta calidad. Experta en la gestión de inventario, control de costos y mantenimiento de altos estándares de higiene y seguridad alimentaria. Busco una posición desafiante donde pueda aplicar mis habilidades y contribuir al éxito de una panadería o restaurante reconocido.","","","",""
+"Bailarina de ballet","gemini-2.0-flash","Nombre: Ana Sofía Pérez Mendoza
+Género: Female
+Fecha de nacimiento: 1998-05-12
+Ciudad de origen: Guadalajara, Jalisco, México
+
+Resumen: Bailarina de ballet profesional con 10 años de experiencia en danza clásica y contemporánea. Formación en la Escuela Nacional de Danza. Amplia experiencia en roles de solista y cuerpo de baile en compañías reconocidas. Habilidades destacadas en técnica, interpretación y trabajo en equipo. Busca oportunidades para contribuir con su talento y pasión en proyectos innovadores.","","","",""
+"Bailarín/Bailarina de ballet","gemini-2.0-flash","Nombre: Anya Petrova
+Género: Female
+Fecha de nacimiento: 1998-03-15
+Ciudad de origen: San Petersburgo, San Petersburgo, Rusia
+
+Resumen: Bailarina de ballet clásica con más de 10 años de experiencia, incluyendo roles principales en el Teatro Mariinsky. Formación rigurosa en la Academia Vaganova de Ballet. Destacada por su técnica impecable, musicalidad y presencia escénica. Busca oportunidades para colaborar con compañías de ballet de renombre y continuar desarrollando su arte.","","","",""
+"Cajero(a) de banco","gemini-2.0-flash","Nombre: Ana María López Pérez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+
+Resumen: Cajera de banco con más de 5 años de experiencia en el manejo de efectivo, atención al cliente y resolución de problemas. Experta en la detección de billetes falsos y en el cumplimiento de los procedimientos bancarios. Posee excelentes habilidades de comunicación, organización y trabajo en equipo. Busco una oportunidad para aplicar mis conocimientos y experiencia en una institución financiera sólida.","","","",""
+"Banquero(a)","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Banquera experimentada con más de 10 años de trayectoria en el sector financiero. Amplia experiencia en gestión de carteras de inversión, análisis de riesgos y relación con clientes de alto patrimonio. Especializada en productos financieros complejos y estrategias de inversión personalizadas. Busco oportunidades para aplicar mis habilidades y conocimientos en un entorno desafiante y dinámico.","","","",""
+"Barbero","gemini-2.0-flash","Nombre: Antonio José Ramirez
+Género: Male
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Caracas, Distrito Capital, Venezuela
+
+Resumen: Barbero con más de 10 años de experiencia, especializado en cortes clásicos y modernos, degradados, arreglo de barba y afeitado tradicional. Apasionado por brindar un servicio de alta calidad, creando experiencias personalizadas para cada cliente. Posee excelentes habilidades de comunicación, atención al detalle y un fuerte compromiso con la higiene y la satisfacción del cliente. Busca nuevas oportunidades para crecer profesionalmente y contribuir con su talento.","","","",""
+"Cantinero(a) / Barman","gemini-2.0-flash","Nombre: María Rodríguez López
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Cantinera con más de 8 años de experiencia en la creación de cócteles clásicos y modernos. Apasionada por brindar un servicio al cliente excepcional y construir relaciones duraderas. Experiencia en la gestión de inventario, el manejo de efectivo y la capacitación de personal. Busco una posición desafiante donde pueda utilizar mis habilidades y conocimientos para contribuir al éxito de un establecimiento de alta calidad.","","","",""
+"Jugador(a) de béisbol","gemini-2.0-flash","Nombre: Miguel Ángel Rodríguez Pérez
+Género: Male
+Fecha de nacimiento: 1995-07-12
+Ciudad de origen: Caracas, Distrito Capital, Venezuela
+
+Resumen: Jugador de béisbol profesional con 8 años de experiencia en ligas menores y mayores. Destacado por mi potente brazo y precisión en el lanzamiento como pitcher abridor. Busco una oportunidad para contribuir con mi liderazgo y habilidades a un equipo competitivo. Poseo un ERA consistente y un historial comprobado de rendimiento bajo presión.","","","",""
+"Jugador(a) de baloncesto","gemini-2.0-flash","Nombre: Elena Rodriguez Garcia
+Género: Female
+Fecha de nacimiento: 1998-05-12
+Ciudad de origen: Madrid, Madrid, España
+Resumen: Jugadora de baloncesto profesional con 8 años de experiencia en ligas de primer nivel, incluyendo la Liga Femenina Endesa y competiciones europeas. Especialista en la posición de alero, destaca por su capacidad anotadora, visión de juego y defensa agresiva. Busco unirme a un equipo competitivo donde pueda aportar mi experiencia y liderazgo para alcanzar los objetivos colectivos.","","","",""
+"Malabarista con bastón","gemini-2.0-flash","Nombre: Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Barcelona, Cataluña, España
+
+Resumen: Malabarista de bastón profesional con más de 10 años de experiencia en espectáculos en vivo, festivales y eventos corporativos. Especializada en rutinas dinámicas y creativas que combinan técnica impecable con expresión artística. Habilidad para trabajar en solitario o en grupo, adaptándose a diferentes entornos y audiencias. Busco nuevas oportunidades para compartir mi pasión y talento.","","","",""
+"Esteticista","gemini-2.0-flash","Nombre: Ana Sofía Rodriguez Perez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+
+Resumen: Esteticista certificada con más de 8 años de experiencia en el cuidado de la piel y tratamientos de belleza. Experta en faciales personalizados, depilación, manicura y pedicura. Apasionada por ayudar a los clientes a sentirse seguros y radiantes. Comprometida con la excelencia, la higiene y el uso de productos de alta calidad para lograr resultados óptimos.","","","",""
+"Botones","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1998-05-12
+Ciudad de origen: Ciudad de México, CDMX, México
+
+Resumen: Botones entusiasta y proactiva con experiencia en atención al cliente y hospitalidad. Habilidades demostradas en la gestión de equipaje, asistencia a huéspedes y mantenimiento de áreas comunes. Busco una oportunidad para aplicar mis habilidades de comunicación y resolución de problemas en un entorno hotelero dinámico y contribuir a una experiencia excepcional para los huéspedes. Dispuesta a aprender y crecer profesionalmente.","","","",""
+"Motociclista","gemini-2.0-flash","Nombre: Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Mendoza, Mendoza, Argentina
+
+Resumen: Motociclista experimentada con más de 10 años de trayectoria en conducción de alta y baja cilindrada. Amplio conocimiento en mecánica básica y mantenimiento preventivo. Habilidad demostrada para la navegación segura en diversas condiciones climáticas y terrenos. Busco oportunidades para aplicar mis habilidades y pasión por las motocicletas.","","","",""
+"Jugador(a) de bingo","gemini-2.0-flash","Nombre: María Rodríguez
+Género: Female
+Fecha de nacimiento: 1965-03-10
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Jugadora de bingo experimentada con más de 20 años de dedicación al juego. Reconocida por su aguda concentración, excelente memoria y habilidad para identificar patrones numéricos rápidamente. Apasionada por el bingo y comprometida con el juego limpio. Busca oportunidades para participar en torneos y eventos de bingo a nivel local e internacional.","","","",""
+"Contable / Tenedor(a) de libros","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Ciudad de México, CDMX, México
+
+Resumen: Contable y tenedora de libros con más de 8 años de experiencia en la gestión financiera y contable de empresas. Experta en la preparación de estados financieros, conciliaciones bancarias, gestión de impuestos y cumplimiento normativo. Orientada al detalle, organizada y con habilidades demostradas en el uso de software contable y herramientas de análisis financiero. Busco un puesto desafiante donde pueda aplicar mis conocimientos y contribuir al éxito de la organización.","","","",""
+"Jefe(a)","gemini-2.0-flash","Nombre: Ana María Rodriguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Profesional con más de 10 años de experiencia liderando equipos y gestionando proyectos en el sector tecnológico. Experta en optimización de procesos, desarrollo de estrategias innovadoras y gestión del cambio. Habilidades demostradas en comunicación, negociación y resolución de problemas, con un enfoque en la consecución de objetivos y el desarrollo del talento. Orientada a resultados y con capacidad para trabajar en entornos dinámicos y exigentes.","","","",""
+"Dueño(a) de boutique","gemini-2.0-flash","Nombre: Ana María Rodriguez
+Género: Female
+Fecha de nacimiento: 1985-05-10
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+
+Resumen: Apasionada Dueña de Boutique con más de 10 años de experiencia en la industria de la moda. Experta en selección de productos, gestión de inventario, visual merchandising y atención al cliente. Habilidad demostrada para identificar tendencias, construir relaciones con proveedores y crear una experiencia de compra única y personalizada. Busca expandir su red profesional y explorar nuevas oportunidades en el sector retail.","","","",""
+"Jugador(a) de bolos","gemini-2.0-flash","Nombre: Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1992-04-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Jugadora de bolos profesional con más de 10 años de experiencia en competiciones nacionales e internacionales. Destaca por su alta precisión, consistencia y capacidad de adaptación a diferentes condiciones de juego. Posee un amplio conocimiento técnico y estratégico del deporte, así como excelentes habilidades de comunicación y trabajo en equipo. Busca nuevas oportunidades para seguir creciendo y contribuyendo al mundo del bowling.","","","",""
+"Boxeador(a)","gemini-2.0-flash","Nombre: Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Guadalajara, Jalisco, México
+
+Resumen: Boxeadora profesional con más de 10 años de experiencia en el ring. Campeona nacional en dos ocasiones y con un récord impresionante de victorias por KO. Busco oportunidades para competir a nivel internacional y seguir desarrollando mi carrera en el boxeo profesional. Dedicada, disciplinada y con una pasión inigualable por este deporte.","","","",""
+"Contratista de construcción","gemini-2.0-flash","Nombre: Ana María Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-04-22
+Ciudad de origen: Ciudad de México, CDMX, México
+
+Resumen: Contratista de construcción con más de 15 años de experiencia en gestión de proyectos residenciales y comerciales. Experta en supervisión de obras, control de presupuestos y cumplimiento de normativas. Amplia experiencia en coordinación de equipos multidisciplinarios y en la resolución de problemas en obra. Busco nuevos desafíos para aplicar mis habilidades y contribuir al éxito de proyectos innovadores.","","","",""
+"Ejecutivo(a)","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1985-03-15
+Ciudad de origen: Ciudad de México, Ciudad de México, México
+Resumen: Ejecutiva bilingüe con más de 15 años de experiencia liderando equipos y optimizando procesos en el sector financiero. Experta en gestión de proyectos, análisis de riesgos y desarrollo de estrategias de negocio. Busco oportunidades para aplicar mi liderazgo y habilidades analíticas en un entorno dinámico e innovador, contribuyendo al crecimiento y la rentabilidad de la organización.","","","",""
+"Juez federal","gemini-2.0-flash","Nombre: Elena Rodriguez Perez
+Género: Female
+Fecha de nacimiento: 1970-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+
+Resumen: Jueza federal con amplia experiencia en derecho constitucional, penal y civil. Trayectoria destacada en la resolución de casos complejos y la defensa de los derechos individuales. Abogada licenciada con honores, ex profesora de derecho y autora de numerosas publicaciones legales. Comprometida con la justicia, la equidad y la integridad del sistema judicial.","","","",""
+"Diseñador(a) gráfico(a)","gemini-2.0-flash","Nombre: Ana Sofía Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1990-05-12
+Ciudad de origen: Ciudad de México, CDMX, México
+
+Resumen: Diseñadora gráfica creativa y versátil con más de 8 años de experiencia en la creación de identidades visuales impactantes, diseño web y marketing digital. Experta en Adobe Creative Suite, branding y tipografía. Apasionada por transformar ideas en soluciones visuales innovadoras que impulsan el éxito de las marcas. Busca oportunidades para aplicar su talento y experiencia en un entorno desafiante y colaborativo.","","","",""
+"Contador(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofía Elena Rodríguez Pérez
+Género: Female
+Fecha de nacimiento: 1988-03-15
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Contadora pública con más de 8 años de experiencia en contabilidad financiera y fiscal. Experiencia en análisis de estados financieros, preparación de impuestos, auditoría interna y cumplimiento normativo. Ha trabajado en empresas de diversos sectores, incluyendo manufactura y servicios. Posee habilidades sólidas en software contable y un enfoque orientado a resultados.","","","",""
+"Acróbata","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1995-03-10
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Sofia es una acróbata profesional con más de 8 años de experiencia en el mundo del circo y el entretenimiento. Ha participado en espectáculos internacionales, incluyendo giras por Europa y América Latina. Especializada en acrobacia aérea y suelo, también posee habilidades en malabarismo y contorsionismo. Graduada en Artes Circenses, busca constantemente nuevos desafíos y colaboraciones creativas.","","","",""
+"Acupunturista","gemini-2.0-flash-lite-preview-02-05","- Nombre: Dra. Elena Ramírez
+- Género: Female
+- Fecha de nacimiento: 1980-05-10
+- Ciudad de origen: Ciudad de México, Ciudad de México, México
+- Resumen: La Dra. Elena Ramírez es una acupunturista licenciada con más de 10 años de experiencia. Se especializa en el tratamiento del dolor crónico, la ansiedad y los problemas de fertilidad. Obtuvo su doctorado en Medicina Tradicional China en la Universidad Nacional Autónoma de México y ha completado diversas certificaciones en terapias complementarias. Ha trabajado en clínicas privadas y actualmente tiene su propio consultorio.","","","",""
+"Almirante","gemini-2.0-flash-lite-preview-02-05","- Nombre: Isabella Rossi
+- Género: Female
+- Fecha de nacimiento: 1968-03-10
+- Ciudad de origen: Roma, Lazio, Italia
+- Resumen: Almirante Isabella Rossi, oficial naval condecorada con más de 30 años de servicio. Experiencia destacada en operaciones de combate, gestión de flotas y liderazgo estratégico. Ha comandado múltiples buques y ha participado en misiones internacionales de paz y seguridad. Posee una Maestría en Estudios de Seguridad Nacional y es una defensora de la innovación en la tecnología naval.","","","",""
+"Columnista de consejos","gemini-2.0-flash-lite-preview-02-05","Nombre: Elena Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-03-10
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Elena Rodríguez es una experimentada columnista de consejos con más de 10 años de trayectoria. Ha trabajado en diversas publicaciones, tanto impresas como digitales, ofreciendo orientación experta en áreas como desarrollo profesional, relaciones interpersonales y bienestar personal. Su enfoque se centra en proporcionar consejos prácticos y accesibles para ayudar a las personas a alcanzar sus objetivos y mejorar su calidad de vida.","","","",""
+"Instructor(a) de aeróbicos","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofía Rodríguez Pérez
+- Género: Female
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Instructora de aeróbicos con más de 10 años de experiencia, especializada en diversas disciplinas como Zumba, step y body combat. Certificada por la Federación Española de Aeróbic y Fitness. Ha trabajado en reconocidos gimnasios y centros deportivos, impartiendo clases grupales y personalizadas. Apasionada por el bienestar y la motivación de sus alumnos, buscando siempre la mejora continua y la innovación en sus entrenamientos.","","","",""
+"Azafata / Auxiliar de vuelo","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1995-03-10
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Azafata de vuelo experimentada con 5 años de trayectoria en el sector aéreo. Destacada por su excelente servicio al cliente, habilidades de comunicación y capacidad para mantener la calma en situaciones de alta presión. Experiencia en vuelos nacionales e internacionales, incluyendo protocolos de seguridad y primeros auxilios. Busco nuevas oportunidades para crecer profesionalmente y contribuir a la satisfacción del pasajero.","","","",""
+"Controlador(a) de tráfico aéreo","gemini-2.0-flash-lite-preview-02-05","- Nombre: Ana López García
+- Género: Female
+- Fecha de nacimiento: 1988-05-12
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Controladora de tráfico aéreo con 8 años de experiencia en gestión de espacio aéreo en aeropuertos de alta densidad. Experiencia en control de aproximación y torre, con dominio de sistemas de radar y comunicación aeronáutica. Certificada por la EASA y con historial impecable en seguridad y eficiencia. Busco nuevas oportunidades para aplicar mis habilidades y conocimientos en un entorno desafiante.","","","",""
+"Alergólogo(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Dra. Sofía Herrera
+Género: Female
+Fecha de nacimiento: 1980-05-10
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: La Dra. Sofía Herrera es una alergóloga con amplia experiencia en el diagnóstico y tratamiento de alergias respiratorias, alimentarias y cutáneas. Se graduó en Medicina y Cirugía por la Universidad Complutense de Madrid, y realizó su especialización en Alergología en el Hospital Universitario La Paz. Ha participado en múltiples congresos y publicaciones científicas, y está comprometida con la atención personalizada y la educación del paciente.","","","",""
+"Cuidador(a) de animales","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1992-07-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Cuidadora de animales con más de 5 años de experiencia en el cuidado de perros, gatos y pequeños mamíferos. Experiencia en alimentación, administración de medicamentos, paseos y entrenamiento básico. Habilidad para identificar y responder a las necesidades individuales de cada animal. Busco un puesto a tiempo completo donde pueda aplicar mi pasión por el bienestar animal.","","","",""
+"Comerciante de antigüedades","gemini-2.0-flash-lite-preview-02-05","- Nombre: Elena Rodríguez
+- Género: Female
+- Fecha de nacimiento: 1978-05-12
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Elena es una experimentada comerciante de antigüedades con más de 15 años en el sector. Especializada en mobiliario y arte del siglo XIX y principios del XX. Ha trabajado en galerías de renombre y gestionado su propia tienda. Posee un profundo conocimiento de la historia del arte y las técnicas de restauración, además de una amplia red de contactos.","","","",""
+"Arquitecto(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Elena Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Arquitecta con 10 años de experiencia en diseño y desarrollo de proyectos residenciales y comerciales. Especializada en sostenibilidad y eficiencia energética. Experiencia demostrada en gestión de equipos, coordinación de proyectos y comunicación con clientes. Dominio de software CAD/BIM y conocimientos en normativas de construcción. Busco oportunidades para liderar proyectos innovadores y sostenibles.","","","",""
+"Artesano(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofía Herrera
+Género: Female
+Fecha de nacimiento: 1988-03-15
+Ciudad de origen: Oaxaca de Juárez, Oaxaca, México
+Resumen: Sofía Herrera es una artesana oaxaqueña con más de 10 años de experiencia en la creación de textiles tradicionales. Especializada en el telar de cintura y el bordado a mano, ha participado en diversas exposiciones y ferias artesanales a nivel nacional. Su trabajo se caracteriza por la combinación de técnicas ancestrales con diseños contemporáneos, buscando preservar y difundir el patrimonio cultural de su comunidad.","","","",""
+"Artista","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1988-03-15
+Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+Resumen: Sofia Rodriguez es una artista visual con una trayectoria destacada en pintura y escultura. Graduada de la Universidad Nacional de las Artes, ha expuesto su obra en galerías de Argentina y Europa. Su trabajo explora la identidad, la memoria y la relación entre el ser humano y el entorno. Ha recibido varios premios y becas, incluyendo una residencia artística en París.","","","",""
+"Asistente","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofía Rodríguez Pérez
+- Género: Female
+- Fecha de nacimiento: 1990-03-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Profesional de asistencia administrativa con más de 8 años de experiencia. Experta en gestión de agendas, organización de viajes, preparación de informes y comunicación con clientes. Destacada por su eficiencia, proactividad y habilidades de comunicación. Busco un puesto desafiante donde pueda aplicar mis conocimientos y contribuir al éxito del equipo.","","","",""
+"Astrólogo(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofía Rodríguez
+Género: Female
+Fecha de nacimiento: 1985-07-12
+Ciudad de origen: Buenos Aires, Argentina
+Resumen: Sofía Rodríguez es una astróloga con más de 10 años de experiencia. Se especializa en astrología natal, sinastría y predicciones. Ha ofrecido consultas personalizadas a clientes de todo el mundo, además de impartir talleres y seminarios sobre astrología. Cuenta con una certificación en Astrología Clásica y un Máster en Psicología Astrológica.","","","",""
+"Astronauta","gemini-2.0-flash-lite-preview-02-05","Nombre: Dra. Elena Vargas
+Género: Female
+Fecha de nacimiento: 1985-03-12
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: La Dra. Elena Vargas es una astronauta experimentada con una destacada trayectoria en investigación espacial y astrofísica. Ha completado dos misiones de larga duración en la Estación Espacial Internacional, centrando sus estudios en biología celular y experimentos de microgravedad. Previamente, obtuvo un doctorado en Astrofísica y trabajó en el desarrollo de instrumentación para telescopios espaciales.","","","",""
+"Astrónomo(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Dra. Elena Vargas
+- Género: Female
+- Fecha de nacimiento: 1985-03-10
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: La Dra. Vargas es una astrofísica con especialización en la formación y evolución de galaxias. Obtuvo su doctorado en Astrofísica por la Universidad Complutense de Madrid y ha realizado estancias postdoctorales en el Instituto de Astrofísica de Canarias y el Observatorio Europeo Austral. Ha publicado numerosos artículos en revistas científicas de prestigio y actualmente investiga la interacción entre agujeros negros supermasivos y sus galaxias anfitrionas.","","","",""
+"Atleta","gemini-2.0-flash-lite-preview-02-05","Nombre: Lionel Andrés Messi Cuccittini
+Género: Male
+Fecha de nacimiento: 1987-06-24
+Ciudad de origen: Rosario, Santa Fe, Argentina
+Resumen: Lionel Messi es un futbolista profesional argentino, ampliamente considerado uno de los mejores jugadores de todos los tiempos. Ha ganado múltiples Balones de Oro y títulos de liga con el FC Barcelona y el Paris Saint-Germain. Destaca por su habilidad en el regate, su visión de juego y su capacidad goleadora. Actualmente juega para el Inter de Miami y es el capitán de la selección argentina, con la que ganó la Copa del Mundo en 2022.","","","",""
+"Abogado(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofía Herrera
+Género: Female
+Fecha de nacimiento: 1985-03-10
+Ciudad de origen: Ciudad de México, Distrito Federal, México
+Resumen: Sofía Herrera es una abogada con más de 10 años de experiencia en derecho corporativo y litigio civil. Se especializa en fusiones y adquisiciones, y ha asesorado a diversas empresas nacionales e internacionales. Cuenta con una sólida formación académica y ha participado en casos emblemáticos. Habla español e inglés con fluidez.","","","",""
+"Subastador(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Amelia Rodríguez
+- Género: Female
+- Fecha de nacimiento: 1985-03-10
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Amelia Rodríguez es una subastadora experimentada con más de 10 años de trayectoria en el sector. Ha dirigido subastas de arte, antigüedades y bienes raíces, demostrando una habilidad excepcional para conectar con los compradores y maximizar los resultados. Posee una sólida formación en historia del arte y gestión de subastas, y es conocida por su profesionalismo y carisma.","","","",""
+"Autor(a) / Escritor(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofía Herrera
+- Género: Female
+- Fecha de nacimiento: 1985-03-10
+- Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+- Resumen: Sofía Herrera es una autora argentina con una prolífica carrera en la literatura contemporánea. Ha publicado tres novelas aclamadas por la crítica y una colección de cuentos galardonada. Su trabajo explora temas de identidad, memoria y relaciones humanas, con un estilo narrativo que combina realismo y lirismo. Además, ha participado en diversos festivales literarios internacionales.","","","",""
+"Mecánico(a) de autos","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Guadalajara, Jalisco, México
+- Resumen: Mecánica automotriz certificada con 8 años de experiencia en diagnóstico, reparación y mantenimiento de vehículos de diversas marcas y modelos. Experiencia en sistemas de frenos, motores, transmisión y electricidad automotriz. Habilidad comprobada para solucionar problemas complejos y trabajar eficientemente bajo presión. Busco una posición desafiante donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.","","","",""
+"Aviador(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Amelia Hernández
+Género: Female
+Fecha de nacimiento: 1988-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Piloto experimentada con más de 10 años de experiencia en aviación comercial. Amplia experiencia en aeronaves Airbus A320 y Boeing 737. Ha volado rutas nacionales e internacionales, demostrando un compromiso con la seguridad y la excelencia en el servicio al cliente. Posee licencias de vuelo ATPL y experiencia en gestión de equipos de vuelo.","","","",""
+"Niñero(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1998-03-15
+- Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+- Resumen: Sofia es una niñera experimentada con más de 5 años de experiencia en el cuidado de niños de diferentes edades. Posee habilidades en la planificación de actividades educativas y recreativas, preparación de comidas saludables y administración de medicamentos. Es una persona responsable, paciente y creativa, con un fuerte enfoque en la seguridad y el bienestar infantil. Habla español e inglés con fluidez.","","","",""
+"Panadero(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofía Rodríguez
+- Género: Female
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Buenos Aires, Buenos Aires, Argentina
+- Resumen: Panadera apasionada con más de 10 años de experiencia en la creación de panes artesanales y pastelería fina. Experiencia demostrada en el manejo de masas madre, técnicas de fermentación y decoración de productos horneados. Habilidades en gestión de inventario, control de calidad y liderazgo de equipos. Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito de una panadería de renombre.","","","",""
+"Bailarina de ballet","gemini-2.0-flash-lite-preview-02-05","Nombre: Isabella Rossi
+Género: Female
+Fecha de nacimiento: 1998-07-12
+Ciudad de origen: Roma, Lazio, Italia
+Resumen: Isabella Rossi es una bailarina de ballet profesional con una sólida formación en la Accademia Nazionale di Danza. Ha bailado roles principales en producciones clásicas como El Lago de los Cisnes y La Bella Durmiente. Ha participado en giras internacionales y actualmente es miembro del cuerpo de baile del Teatro dell'Opera di Roma. Su pasión por la danza y su dedicación la convierten en una artista excepcional.","","","",""
+"Bailarín/Bailarina de ballet","gemini-2.0-flash-lite-preview-02-05","- Nombre: Isabella Rossi
+- Género: Female
+- Fecha de nacimiento: 1998-07-12
+- Ciudad de origen: Roma, Lazio, Italia
+- Resumen: Isabella Rossi es una bailarina de ballet profesional con una formación rigurosa en la Accademia Nazionale di Danza. Ha bailado roles principales en producciones clásicas como El Cascanueces y La Bella Durmiente con la Compagnia Italiana di Balletto. Su versatilidad y pasión por la danza la han llevado a explorar la coreografía contemporánea, participando en diversos festivales internacionales. Actualmente, busca nuevas oportunidades para expandir su carrera.","","","",""
+"Cajero(a) de banco","gemini-2.0-flash-lite-preview-02-05","- Nombre: Ana Sofía Pérez Gómez
+- Género: Female
+- Fecha de nacimiento: 1995-03-10
+- Ciudad de origen: Guadalajara, Jalisco, México
+- Resumen: Cajera bancaria con 5 años de experiencia en atención al cliente y manejo de transacciones financieras. Experta en el manejo de efectivo, conciliaciones bancarias y resolución de problemas. Demuestra habilidades excepcionales en comunicación, organización y trabajo en equipo. Busco una posición desafiante donde pueda aplicar mis conocimientos y crecer profesionalmente en el sector bancario.","","","",""
+"Banquero(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1985-03-10
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Sofia es una banquera experimentada con más de 15 años de trayectoria en el sector financiero. Ha trabajado en diversas áreas, incluyendo banca de inversión y gestión de patrimonios. Su experiencia abarca análisis financiero, asesoramiento a clientes y desarrollo de estrategias de inversión. Sofia es conocida por su enfoque orientado a resultados y su capacidad para construir relaciones sólidas con los clientes.","","","",""
+"Barbero","gemini-2.0-flash-lite-preview-02-05","- Nombre: Javier Pérez García
+- Género: Male
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Barbero profesional con más de 10 años de experiencia en cortes clásicos y modernos, incluyendo fades, diseños y afeitados tradicionales. Experiencia en gestión de barbería y atención al cliente. Busco un puesto que me permita desarrollar mis habilidades y ofrecer un servicio de alta calidad. Apasionado por la barbería y las últimas tendencias.","","","",""
+"Cantinero(a) / Barman","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1992-07-15
+Ciudad de origen: Ciudad de México, Distrito Federal, México
+Resumen: Cantinera apasionada con 8 años de experiencia en la creación de cócteles innovadores y la gestión eficiente de barras. Experiencia en bares de alta rotación y restaurantes de lujo, demostrando habilidades excepcionales en atención al cliente, control de inventario y capacitación de personal. Busco un puesto desafiante donde pueda aplicar mi creatividad y liderazgo para mejorar la experiencia del cliente.","","","",""
+"Jugador(a) de béisbol","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Ramirez
+Género: Female
+Fecha de nacimiento: 1998-07-15
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Sofia Ramirez es una talentosa jugadora de béisbol con una sólida experiencia en ligas juveniles y universitarias. Destaca por su versatilidad en el campo, especialmente como lanzadora y jardinera. Ha representado a México en competencias internacionales y actualmente busca oportunidades profesionales para continuar su desarrollo en el deporte. Su dedicación y pasión por el béisbol la impulsan a alcanzar sus metas.","","","",""
+"Jugador(a) de baloncesto","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1998-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Jugadora profesional de baloncesto con experiencia en ligas europeas y participación en competiciones internacionales. Destacada por su habilidad en el tiro exterior y su capacidad de liderazgo en la cancha. Ha jugado en varios equipos de alto nivel, incluyendo la selección nacional juvenil. Actualmente busca nuevas oportunidades para continuar su desarrollo profesional y contribuir al éxito de un equipo.","","","",""
+"Malabarista con bastón","gemini-2.0-flash-lite-preview-02-05","- Nombre: Alexia Dubois
+- Género: Female
+- Fecha de nacimiento: 1992-03-15
+- Ciudad de origen: Montreal, Quebec, Canadá
+- Resumen: Alexia Dubois es una malabarista con bastón profesional con más de 10 años de experiencia. Ha actuado en festivales internacionales, eventos corporativos y espectáculos de circo. Su repertorio incluye rutinas de manipulación de bastón de alta dificultad, combinadas con elementos de danza y acrobacia. Alexia también ofrece talleres y clases magistrales para artistas aspirantes.","","","",""
+"Esteticista","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofía Herrera
+- Género: Female
+- Fecha de nacimiento: 1990-03-15
+- Ciudad de origen: Guadalajara, Jalisco, México
+- Resumen: Esteticista con más de 8 años de experiencia en tratamientos faciales y corporales. Especializada en técnicas avanzadas de rejuvenecimiento y cuidado de la piel, incluyendo tratamientos con aparatología y masajes terapéuticos. Amplia experiencia en atención al cliente y gestión de citas. Busco un puesto que me permita aplicar mis habilidades y conocimientos para mejorar la salud y bienestar de mis clientes.","","","",""
+"Botones","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1998-03-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Sofia es una profesional de la hostelería con experiencia en atención al cliente y gestión de equipaje. Ha trabajado en hoteles de lujo, donde se destacó por su eficiencia, amabilidad y capacidad para resolver problemas. Su experiencia incluye el manejo de reservas, la coordinación de traslados y la asistencia a los huéspedes con diversas necesidades. Busca un nuevo desafío para seguir creciendo en el sector.","","","",""
+"Motociclista","gemini-2.0-flash-lite-preview-02-05","Nombre: Elena Rodríguez
+Género: Female
+Fecha de nacimiento: 1988-05-12
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Elena es una motociclista experimentada con más de 10 años de experiencia en conducción y mecánica de motocicletas. Ha participado en diversas competiciones de motociclismo a nivel regional y nacional. Actualmente, trabaja como instructora certificada de conducción segura y mecánica básica, compartiendo su pasión y conocimientos con otros entusiastas del mundo de las dos ruedas.","","","",""
+"Jugador(a) de bingo","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1988-07-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Sofia es una jugadora de bingo apasionada con más de 10 años de experiencia en el sector. Ha participado en torneos locales y regionales, destacando por su estrategia y habilidad para la lectura de patrones. Posee un gran conocimiento de las diferentes variantes del bingo y una sólida ética de juego. Actualmente busca oportunidades para conectar con otros entusiastas y explorar nuevas competiciones.","","","",""
+"Contable / Tenedor(a) de libros","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Herrera
+- Género: Female
+- Fecha de nacimiento: 1988-03-15
+- Ciudad de origen: Medellín, Antioquia, Colombia
+- Resumen: Contable/Tenedora de libros experimentada con más de 8 años de experiencia en contabilidad general, conciliaciones bancarias, gestión de cuentas por pagar y por cobrar, y preparación de informes financieros. Habilidad demostrada en el uso de software contable como QuickBooks y SAP. Busco un puesto desafiante donde pueda aplicar mis habilidades y contribuir al éxito financiero de la empresa.","","","",""
+"Jefe(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1980-05-10
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Líder experimentada con más de 15 años de trayectoria en gestión de equipos y desarrollo de estrategias de negocio. Especializada en optimización de procesos y mejora de la rentabilidad. Experiencia demostrada en la dirección de proyectos complejos y en la implementación de soluciones innovadoras. Busco oportunidades para impulsar el crecimiento y la eficiencia en una organización dinámica.","","","",""
+"Dueño(a) de boutique","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofía Herrera
+Género: Female
+Fecha de nacimiento: 1985-03-10
+Ciudad de origen: Ciudad de México, CDMX, México
+Resumen: Sofía Herrera es una apasionada emprendedora con más de 8 años de experiencia en la industria de la moda. Fundó y dirige exitosamente ""La Petite Boutique"", ofreciendo una curada selección de ropa y accesorios. Previamente, se desempeñó como diseñadora de moda, lo que le ha proporcionado una sólida base en tendencias y control de calidad. Su enfoque se centra en brindar una experiencia de compra excepcional y construir relaciones duraderas con sus clientes.","","","",""
+"Jugador(a) de bolos","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Rodriguez
+Género: Female
+Fecha de nacimiento: 1998-07-12
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Jugadora de bolos profesional con más de 10 años de experiencia en competencias nacionales e internacionales. Ha ganado múltiples campeonatos individuales y por equipos, incluyendo medallas de oro en los Juegos Centroamericanos. Actualmente, entrena en el Centro de Alto Rendimiento de Guadalajara y busca oportunidades para representar a México en futuros eventos de alto nivel.","","","",""
+"Boxeador(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Valentina ""La Furia"" Rodríguez
+Género: Female
+Fecha de nacimiento: 1995-03-10
+Ciudad de origen: Guadalajara, Jalisco, México
+Resumen: Valentina ""La Furia"" Rodríguez es una boxeadora profesional mexicana con un récord impresionante. Con una fuerte base técnica y un estilo agresivo, ha ganado múltiples campeonatos regionales y nacionales. Su dedicación al entrenamiento y su perseverancia la han llevado a competir a nivel internacional, buscando constantemente desafíos que la impulsen a alcanzar la cima del boxeo femenino.","","","",""
+"Contratista de construcción","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1980-05-12
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Sofia es una experimentada contratista de construcción con más de 15 años de experiencia en proyectos residenciales y comerciales. Especializada en la gestión integral de proyectos, desde la planificación y el diseño hasta la ejecución y la entrega final. Su experiencia incluye la supervisión de equipos, la gestión de presupuestos y el cumplimiento de plazos. Ha completado exitosamente numerosos proyectos, destacando su compromiso con la calidad y la satisfacción del cliente.","","","",""
+"Ejecutivo(a)","gemini-2.0-flash-lite-preview-02-05","Nombre: Sofia Elena Rodriguez
+Género: Female
+Fecha de nacimiento: 1980-03-15
+Ciudad de origen: Madrid, Comunidad de Madrid, España
+Resumen: Ejecutiva de marketing y ventas con más de 15 años de experiencia en el sector tecnológico. Especializada en el desarrollo de estrategias de crecimiento, gestión de equipos y optimización de resultados. Experiencia demostrada en la expansión de mercados y la generación de ingresos. Busco oportunidades para liderar y contribuir al éxito de una organización innovadora.","","","",""
+"Juez federal","gemini-2.0-flash-lite-preview-02-05","Nombre: Evelyn Rodriguez
+Género: Female
+Fecha de nacimiento: 1968-03-15
+Ciudad de origen: San Juan, Puerto Rico, Estados Unidos
+
+Resumen: La Jueza Evelyn Rodriguez es una destacada jurista con una extensa trayectoria en el ámbito legal. Antes de su nombramiento como Jueza Federal, ejerció como abogada litigante especializada en derecho constitucional y derechos civiles. Previamente, se desempeñó como fiscal federal y como defensora pública. Obtuvo su Juris Doctor de la Universidad de Yale y su licenciatura de la Universidad de Harvard.","","","",""
+"Diseñador(a) gráfico(a)","gemini-2.0-flash-lite-preview-02-05","- Nombre: Sofia Rodriguez
+- Género: Female
+- Fecha de nacimiento: 1992-07-15
+- Ciudad de origen: Madrid, Comunidad de Madrid, España
+- Resumen: Diseñadora gráfica con más de 8 años de experiencia en branding, diseño web y marketing digital. Experiencia en el desarrollo de identidades visuales completas, desde la conceptualización hasta la implementación. Habilidad demostrada en el uso de Adobe Creative Suite, Figma y herramientas de diseño UI/UX. Busco oportunidades para aplicar mi creatividad y habilidades en proyectos innovadores.","","","",""

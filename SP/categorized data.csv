@@ -1,0 +1,50 @@
+Column1;Occupation;female response;male response;Stereotype_Category_Female_Respondents;Stereotype_Category_Male_Respondents
+0;Contador(a);0.4583333333;0.4083333333;Male-Stereotyped;Male-Stereotyped
+1;Acróbata;0.525;0.475;Gender-Neutral;Gender-Neutral
+2;Acupunturista;0.5;0.5333333333;Gender-Neutral;Gender-Neutral
+3;Almirante;0.2083333333;0.1916666667;Male-Stereotyped;Male-Stereotyped
+4;Columnista de consejos;0.6666666667;0.7666666667;Female-Stereotyped;Female-Stereotyped
+5;Instructor(a) de aeróbicos;0.8166666667;0.7916666667;Female-Stereotyped;Female-Stereotyped
+6;Azafata / Auxiliar de vuelo;0.8666666667;0.9083333333;Female-Stereotyped;Female-Stereotyped
+7;Controlador(a) de tráfico aéreo;0.25;0.2583333333;Male-Stereotyped;Male-Stereotyped
+9;Alergólogo(a);0.4083333333;0.575;Male-Stereotyped;Female-Stereotyped
+10;Cuidador(a) de animales;0.5166666667;0.6;Gender-Neutral;Female-Stereotyped
+11;Comerciante de antigüedades;0.5916666667;0.5833333333;Female-Stereotyped;Female-Stereotyped
+12;Arquitecto(a);0.2416666667;0.3166666667;Male-Stereotyped;Male-Stereotyped
+13;Artesano(a);0.4666666667;0.4166666667;Gender-Neutral;Male-Stereotyped
+14;Artista;0.5333333333;0.4916666667;Gender-Neutral;Gender-Neutral
+15;Asistente;0.625;0.5833333333;Female-Stereotyped;Female-Stereotyped
+16;Astrólogo(a);0.4416666667;0.4416666667;Male-Stereotyped;Male-Stereotyped
+17;Astronauta;0.225;0.1916666667;Male-Stereotyped;Male-Stereotyped
+18;Astrónomo(a);0.3166666667;0.4166666667;Male-Stereotyped;Male-Stereotyped
+19;Atleta;0.3916666667;0.3;Male-Stereotyped;Male-Stereotyped
+20;Abogado(a);0.4583333333;0.4166666667;Male-Stereotyped;Male-Stereotyped
+21;Subastador(a);0.2416666667;0.2;Male-Stereotyped;Male-Stereotyped
+22;Autor(a) / Escritor(a);0.5166666667;0.5083333333;Gender-Neutral;Gender-Neutral
+23;Mecánico(a) de autos;0.09166666667;0.06666666667;Male-Stereotyped;Male-Stereotyped
+24;Aviador(a);0.2333333333;0.2666666667;Male-Stereotyped;Male-Stereotyped
+26;Niñero(a);0.8583333333;0.8416666667;Female-Stereotyped;Female-Stereotyped
+27;Panadero(a);0.6166666667;0.5583333333;Female-Stereotyped;Gender-Neutral
+28;Bailarina de ballet;0.9166666667;0.8916666667;Female-Stereotyped;Female-Stereotyped
+29;Bailarín/Bailarina de ballet;0.9;0.925;Female-Stereotyped;Female-Stereotyped
+30;Cajero(a) de banco;0.65;0.6833333333;Female-Stereotyped;Female-Stereotyped
+31;Banquero(a);0.3916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+32;Barbero;0.1083333333;0.1166666667;Male-Stereotyped;Male-Stereotyped
+33;Cantinero(a) / Barman;0.375;0.2666666667;Male-Stereotyped;Male-Stereotyped
+34;Jugador(a) de béisbol;0.1333333333;0.06666666667;Male-Stereotyped;Male-Stereotyped
+35;Jugador(a) de baloncesto;0.3583333333;0.2916666667;Male-Stereotyped;Male-Stereotyped
+36;Malabarista con bastón;0.9166666667;0.95;Female-Stereotyped;Female-Stereotyped
+37;Esteticista;0.9083333333;0.8583333333;Female-Stereotyped;Female-Stereotyped
+38;Botones;0.1916666667;0.2583333333;Male-Stereotyped;Male-Stereotyped
+39;Botones (otra opción para bellboy);0.09166666667;0.05833333333;Male-Stereotyped;Male-Stereotyped
+40;Motociclista;0.275;0.35;Male-Stereotyped;Male-Stereotyped
+41;Jugador(a) de bingo;0.6;0.6583333333;Female-Stereotyped;Female-Stereotyped
+43;Contable / Tenedor(a) de libros;0.6666666667;0.6583333333;Female-Stereotyped;Female-Stereotyped
+44;Jefe(a);0.3166666667;0.25;Male-Stereotyped;Male-Stereotyped
+45;Dueño(a) de boutique;0.8333333333;0.8;Female-Stereotyped;Female-Stereotyped
+46;Jugador(a) de bolos;0.35;0.35;Male-Stereotyped;Male-Stereotyped
+47;Boxeador(a);0.1;0.15;Male-Stereotyped;Male-Stereotyped
+49;Contratista de construcción;0.1833333333;0.175;Male-Stereotyped;Male-Stereotyped
+133;Ejecutivo(a);0.4083333333;0.2583333333;Male-Stereotyped;Male-Stereotyped
+142;Juez federal;0.2916666667;0.2833333333;Male-Stereotyped;Male-Stereotyped
+166;Diseñador(a) gráfico(a);0.4666666667;0.4416666667;Gender-Neutral;Male-Stereotyped
