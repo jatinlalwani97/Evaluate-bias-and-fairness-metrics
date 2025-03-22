@@ -1,0 +1,558 @@
+Occupation,M_workers,F_workers,All_workers,Male Percentage,Female Percentage,Stereotype_Category
+MANAGEMENT,7332,5147,12479,58.75470791,41.24529209,Male-Stereotyped
+Chief executives,763,283,1046,72.94455067,27.05544933,Male-Stereotyped
+General and operations managers,621,202,823,75.45565006,24.54434994,Male-Stereotyped
+Legislators,5,4,9,55.55555556,44.44444444,Male-Stereotyped
+Advertising and promotions managers,29,26,55,52.72727273,47.27272727,Gender-Neutral
+Marketing and sales managers,570,378,948,60.12658228,39.87341772,Male-Stereotyped
+Public relations and fundraising managers,24,35,59,40.6779661,59.3220339,Female-Stereotyped
+Administrative services managers,96,73,169,56.80473373,43.19526627,Male-Stereotyped
+Computer and information systems managers,466,169,635,73.38582677,26.61417323,Male-Stereotyped
+Financial managers,551,573,1124,49.02135231,50.97864769,Gender-Neutral
+Compensation and benefits managers,7,16,23,30.43478261,69.56521739,Female-Stereotyped
+Human resources managers,68,186,254,26.77165354,73.22834646,Female-Stereotyped
+Training and development managers,17,20,37,45.94594595,54.05405405,Gender-Neutral
+Industrial production managers,221,45,266,83.08270677,16.91729323,Male-Stereotyped
+Purchasing managers,109,84,193,56.47668394,43.52331606,Male-Stereotyped
+"Transportation, storage, and distribution managers",224,52,276,81.15942029,18.84057971,Male-Stereotyped
+"Farmers, ranchers, and other agricultural managers",106,23,129,82.17054264,17.82945736,Male-Stereotyped
+Construction managers,429,42,471,91.08280255,8.917197452,Male-Stereotyped
+Education administrators,282,496,778,36.24678663,63.75321337,Female-Stereotyped
+Architectural and engineering managers,101,10,111,90.99099099,9.009009009,Male-Stereotyped
+Food service managers,389,374,763,50.98296199,49.01703801,Gender-Neutral
+Funeral service managers,10,2,12,83.33333333,16.66666667,Male-Stereotyped
+Gaming managers,13,6,19,68.42105263,31.57894737,Male-Stereotyped
+Lodging managers,54,68,122,44.26229508,55.73770492,Gender-Neutral
+Medical and health services managers,154,438,592,26.01351351,73.98648649,Female-Stereotyped
+Natural sciences managers,11,13,24,45.83333333,54.16666667,Gender-Neutral
+Postmasters and mail superintendents,10,10,20,50,50,Gender-Neutral
+"Property, real estate, and community association managers",171,230,401,42.64339152,57.35660848,Female-Stereotyped
+Social and community service managers,105,200,305,34.42622951,65.57377049,Female-Stereotyped
+Emergency management directors,6,3,9,66.66666667,33.33333333,Male-Stereotyped
+"Managers, all other",1717,1085,2802,61.27765882,38.72234118,Male-Stereotyped
+BUSINESS,2686,3256,5942,45.20363514,54.79636486,Gender-Neutral
+"Agents and business managers of artists, performers, and athletes",13,14,27,48.14814815,51.85185185,Gender-Neutral
+"Buyers and purchasing agents, farm products",9,2,11,81.81818182,18.18181818,Male-Stereotyped
+"Wholesale and retail buyers, except farm products",73,69,142,51.4084507,48.5915493,Gender-Neutral
+"Purchasing agents, except wholesale, retail, and farm products",136,124,260,52.30769231,47.69230769,Gender-Neutral
+"Claims adjusters, appraisers, examiners, and investigators",141,176,317,44.47949527,55.52050473,Gender-Neutral
+Compliance officers,126,109,235,53.61702128,46.38297872,Gender-Neutral
+Cost estimators,83,12,95,87.36842105,12.63157895,Male-Stereotyped
+Human resources workers,151,441,592,25.50675676,74.49324324,Female-Stereotyped
+"Compensation, benefits, and job analysis specialists",12,50,62,19.35483871,80.64516129,Female-Stereotyped
+Training and development specialists,42,65,107,39.25233645,60.74766355,Female-Stereotyped
+Logisticians,66,44,110,60,40,Male-Stereotyped
+Management analysts,291,237,528,55.11363636,44.88636364,Male-Stereotyped
+"Meeting, convention, and event planners",27,90,117,23.07692308,76.92307692,Female-Stereotyped
+Fundraisers,14,48,62,22.58064516,77.41935484,Female-Stereotyped
+Market research analysts and marketing specialists,85,118,203,41.87192118,58.12807882,Female-Stereotyped
+"Business operations specialists, all other",74,112,186,39.78494624,60.21505376,Female-Stereotyped
+Accountants and auditors,618,846,1464,42.21311475,57.78688525,Female-Stereotyped
+Appraisers and assessors of real estate,21,21,42,50,50,Gender-Neutral
+Budget analysts,17,28,45,37.77777778,62.22222222,Female-Stereotyped
+Credit analysts,8,9,17,47.05882353,52.94117647,Gender-Neutral
+Financial analysts,168,127,295,56.94915254,43.05084746,Male-Stereotyped
+Personal financial advisors,248,159,407,60.93366093,39.06633907,Male-Stereotyped
+Insurance underwriters,44,63,107,41.12149533,58.87850467,Female-Stereotyped
+Financial examiners,9,8,17,52.94117647,47.05882353,Gender-Neutral
+Credit counselors and loan officers,146,166,312,46.79487179,53.20512821,Gender-Neutral
+"Tax examiners and collectors, and revenue agents",20,39,59,33.89830508,66.10169492,Female-Stereotyped
+Tax preparers,19,37,56,33.92857143,66.07142857,Female-Stereotyped
+"Financial specialists, all other",25,40,65,38.46153846,61.53846154,Female-Stereotyped
+COMPUTATIONAL,3036,973,4009,75.72960838,24.27039162,Male-Stereotyped
+Computer and information research scientists,23,5,28,82.14285714,17.85714286,Male-Stereotyped
+Computer systems analysts,325,173,498,65.26104418,34.73895582,Male-Stereotyped
+Information security analysts,56,11,67,83.58208955,16.41791045,Male-Stereotyped
+Computer programmers,357,93,450,79.33333333,20.66666667,Male-Stereotyped
+"Software developers, applications and systems software",1054,232,1286,81.95956454,18.04043546,Male-Stereotyped
+Web developers,98,53,151,64.90066225,35.09933775,Male-Stereotyped
+Computer support specialists,291,105,396,73.48484848,26.51515152,Male-Stereotyped
+Database administrators,58,32,90,64.44444444,35.55555556,Male-Stereotyped
+Network and computer systems administrators,179,28,207,86.47342995,13.52657005,Male-Stereotyped
+Computer network architects,100,15,115,86.95652174,13.04347826,Male-Stereotyped
+"Computer occupations, all other",374,116,490,76.32653061,23.67346939,Male-Stereotyped
+Actuaries,18,6,24,75,25,Male-Stereotyped
+Mathematicians,6,0,6,100,0,Male-Stereotyped
+Operations research analysts,59,63,122,48.36065574,51.63934426,Gender-Neutral
+Statisticians,37,39,76,48.68421053,51.31578947,Gender-Neutral
+Miscellaneous mathematical science occupations,1,0,1,100,0,Male-Stereotyped
+ENGINEERING,2272,383,2655,85.57438795,14.42561205,Male-Stereotyped
+"Architects, except naval",106,31,137,77.37226277,22.62773723,Male-Stereotyped
+"Surveyors, cartographers, and photogrammetrists",23,6,29,79.31034483,20.68965517,Male-Stereotyped
+Aerospace engineers,122,18,140,87.14285714,12.85714286,Male-Stereotyped
+Agricultural engineers,5,0,5,100,0,Male-Stereotyped
+Biomedical engineers,10,2,12,83.33333333,16.66666667,Male-Stereotyped
+Chemical engineers,69,10,79,87.34177215,12.65822785,Male-Stereotyped
+Civil engineers,275,41,316,87.02531646,12.97468354,Male-Stereotyped
+Computer hardware engineers,62,10,72,86.11111111,13.88888889,Male-Stereotyped
+Electrical and electronics engineers,246,37,283,86.92579505,13.07420495,Male-Stereotyped
+Environmental engineers,26,9,35,74.28571429,25.71428571,Male-Stereotyped
+"Industrial engineers, including health and safety",168,37,205,81.95121951,18.04878049,Male-Stereotyped
+Marine engineers and naval architects,9,0,9,100,0,Male-Stereotyped
+Materials engineers,33,4,37,89.18918919,10.81081081,Male-Stereotyped
+Mechanical engineers,294,23,317,92.7444795,7.255520505,Male-Stereotyped
+"Mining and geological engineers, including mining safety engineers",15,0,15,100,0,Male-Stereotyped
+Nuclear engineers,3,2,5,60,40,Male-Stereotyped
+Petroleum engineers,39,3,42,92.85714286,7.142857143,Male-Stereotyped
+"Engineers, all other",339,54,393,86.25954198,13.74045802,Male-Stereotyped
+Drafters,91,23,114,79.8245614,20.1754386,Male-Stereotyped
+"Engineering technicians, except drafters",284,68,352,80.68181818,19.31818182,Male-Stereotyped
+Surveying and mapping technicians,54,4,58,93.10344828,6.896551724,Male-Stereotyped
+SCIENCE,662,514,1176,56.29251701,43.70748299,Male-Stereotyped
+Agricultural and food scientists,12,10,22,54.54545455,45.45454545,Male-Stereotyped
+Biological scientists,46,28,74,62.16216216,37.83783784,Male-Stereotyped
+Conservation scientists and foresters,16,7,23,69.56521739,30.43478261,Male-Stereotyped
+Medical scientists,68,84,152,44.73684211,55.26315789,Gender-Neutral
+"Life scientists, all other",1,0,1,100,0,Male-Stereotyped
+Astronomers and physicists,11,3,14,78.57142857,21.42857143,Male-Stereotyped
+Atmospheric and space scientists,8,1,9,88.88888889,11.11111111,Male-Stereotyped
+Chemists and materials scientists,61,33,94,64.89361702,35.10638298,Male-Stereotyped
+Environmental scientists and geoscientists,65,25,90,72.22222222,27.77777778,Male-Stereotyped
+"Physical scientists, all other",121,68,189,64.02116402,35.97883598,Male-Stereotyped
+Economists,17,12,29,58.62068966,41.37931034,Male-Stereotyped
+Survey researchers,0,0,0,#DIV/0!,#DIV/0!,Unknown
+Psychologists,31,83,114,27.19298246,72.80701754,Female-Stereotyped
+Sociologists,0,0,0,#DIV/0!,#DIV/0!,Unknown
+Urban and regional planners,13,9,22,59.09090909,40.90909091,Male-Stereotyped
+Miscellaneous social scientists and related workers,19,19,38,50,50,Gender-Neutral
+Agricultural and food science technicians,21,7,28,75,25,Male-Stereotyped
+Biological technicians,10,10,20,50,50,Gender-Neutral
+Chemical technicians,43,32,75,57.33333333,42.66666667,Male-Stereotyped
+Geological and petroleum technicians,18,4,22,81.81818182,18.18181818,Male-Stereotyped
+Nuclear technicians,2,0,2,100,0,Male-Stereotyped
+Social science research assistants,0,3,3,0,100,Female-Stereotyped
+"Miscellaneous life, physical, and social science technicians",79,78,157,50.31847134,49.68152866,Gender-Neutral
+SOCIAL SERVICE,776,1367,2143,36.21091927,63.78908073,Female-Stereotyped
+Counselors,184,451,635,28.97637795,71.02362205,Female-Stereotyped
+Social workers,127,549,676,18.78698225,81.21301775,Female-Stereotyped
+Probation officers and correctional treatment specialists,42,43,85,49.41176471,50.58823529,Gender-Neutral
+Social and human service assistants,23,149,172,13.37209302,86.62790698,Female-Stereotyped
+"Miscellaneous community and social service specialists, including health educators and community health workers",29,63,92,31.52173913,68.47826087,Female-Stereotyped
+Clergy,316,60,376,84.04255319,15.95744681,Male-Stereotyped
+"Directors, religious activities and education",31,31,62,50,50,Gender-Neutral
+"Religious workers, all other",23,21,44,52.27272727,47.72727273,Gender-Neutral
+LEGAL,624,722,1346,46.35958395,53.64041605,Gender-Neutral
+Lawyers,503,300,803,62.64009963,37.35990037,Male-Stereotyped
+Judicial law clerks,1,10,11,9.090909091,90.90909091,Female-Stereotyped
+"Judges, magistrates, and other judicial workers",33,20,53,62.26415094,37.73584906,Male-Stereotyped
+Paralegals and legal assistants,47,294,341,13.7829912,86.2170088,Female-Stereotyped
+Miscellaneous legal support workers,40,97,137,29.19708029,70.80291971,Female-Stereotyped
+EDUCATION,1849,5034,6883,26.86328636,73.13671364,Female-Stereotyped
+Postsecondary teachers,516,401,917,56.27044711,43.72955289,Male-Stereotyped
+Preschool and kindergarten teachers,11,506,517,2.127659574,97.87234043,Female-Stereotyped
+Elementary and middle school teachers,543,2262,2805,19.35828877,80.64171123,Female-Stereotyped
+Secondary school teachers,438,610,1048,41.79389313,58.20610687,Female-Stereotyped
+Special education teachers,38,258,296,12.83783784,87.16216216,Female-Stereotyped
+Other teachers and instructors,179,199,378,47.35449735,52.64550265,Gender-Neutral
+"Archivists, curators, and museum technicians",18,20,38,47.36842105,52.63157895,Gender-Neutral
+Librarians,27,102,129,20.93023256,79.06976744,Female-Stereotyped
+Library technicians,4,15,19,21.05263158,78.94736842,Female-Stereotyped
+Teacher assistants,48,565,613,7.830342577,92.16965742,Female-Stereotyped
+"Other education, training, and library workers",28,95,123,22.76422764,77.23577236,Female-Stereotyped
+ARTS,930,713,1643,56.60377358,43.39622642,Male-Stereotyped
+Artists and related workers,39,20,59,66.10169492,33.89830508,Male-Stereotyped
+Designers,301,291,592,50.84459459,49.15540541,Gender-Neutral
+Actors,8,4,12,66.66666667,33.33333333,Male-Stereotyped
+Producers and directors,67,53,120,55.83333333,44.16666667,Male-Stereotyped
+"Athletes, coaches, umpires, and related workers",108,39,147,73.46938776,26.53061224,Male-Stereotyped
+Dancers and choreographers,2,9,11,18.18181818,81.81818182,Female-Stereotyped
+"Musicians, singers, and related workers",33,9,42,78.57142857,21.42857143,Male-Stereotyped
+"Entertainers and performers, sports and related workers, all other",11,3,14,78.57142857,21.42857143,Male-Stereotyped
+Announcers,21,5,26,80.76923077,19.23076923,Male-Stereotyped
+"News analysts, reporters and correspondents",29,27,56,51.78571429,48.21428571,Gender-Neutral
+Public relations specialists,49,71,120,40.83333333,59.16666667,Female-Stereotyped
+Editors,58,50,108,53.7037037,46.2962963,Gender-Neutral
+Technical writers,22,30,52,42.30769231,57.69230769,Female-Stereotyped
+Writers and authors,36,42,78,46.15384615,53.84615385,Gender-Neutral
+Miscellaneous media and communication workers,16,30,46,34.7826087,65.2173913,Female-Stereotyped
+Broadcast and sound engineering technicians and radio operators,77,7,84,91.66666667,8.333333333,Male-Stereotyped
+Photographers,24,21,45,53.33333333,46.66666667,Gender-Neutral
+"Television, video, and motion picture camera operators and editors",28,1,29,96.55172414,3.448275862,Male-Stereotyped
+"Media and communication equipment workers, all other",2,0,2,100,0,Male-Stereotyped
+HEALTHCARE PROFESSIONAL,1639,4928,6567,24.95812395,75.04187605,Female-Stereotyped
+Chiropractors,15,7,22,68.18181818,31.81818182,Male-Stereotyped
+Dentists,39,20,59,66.10169492,33.89830508,Male-Stereotyped
+Dietitians and nutritionists,9,69,78,11.53846154,88.46153846,Female-Stereotyped
+Optometrists,6,13,19,31.57894737,68.42105263,Female-Stereotyped
+Pharmacists,98,108,206,47.57281553,52.42718447,Gender-Neutral
+Physicians and surgeons,457,283,740,61.75675676,38.24324324,Male-Stereotyped
+Physician assistants,17,40,57,29.8245614,70.1754386,Female-Stereotyped
+Podiatrists,5,4,9,55.55555556,44.44444444,Male-Stereotyped
+Audiologists,1,6,7,14.28571429,85.71428571,Female-Stereotyped
+Occupational therapists,10,64,74,13.51351351,86.48648649,Female-Stereotyped
+Physical therapists,56,123,179,31.2849162,68.7150838,Female-Stereotyped
+Radiation therapists,5,7,12,41.66666667,58.33333333,Female-Stereotyped
+Recreational therapists,2,4,6,33.33333333,66.66666667,Female-Stereotyped
+Respiratory therapists,32,67,99,32.32323232,67.67676768,Female-Stereotyped
+Speech-language pathologists,1,106,107,0.9345794393,99.06542056,Female-Stereotyped
+Exercise physiologists,3,0,3,100,0,Male-Stereotyped
+"Therapists, all other",31,101,132,23.48484848,76.51515152,Female-Stereotyped
+Veterinarians,16,39,55,29.09090909,70.90909091,Female-Stereotyped
+Registered nurses,278,2104,2382,11.67086482,88.32913518,Female-Stereotyped
+Nurse anesthetists,11,12,23,47.82608696,52.17391304,Gender-Neutral
+Nurse midwives,0,6,6,0,100,Female-Stereotyped
+Nurse practitioners,11,103,114,9.649122807,90.35087719,Female-Stereotyped
+"Health diagnosing and treating practitioners, all other",0,2,2,0,100,Female-Stereotyped
+Clinical laboratory technologists and technicians,69,201,270,25.55555556,74.44444444,Female-Stereotyped
+Dental hygienists,6,80,86,6.976744186,93.02325581,Female-Stereotyped
+Diagnostic related technologists and technicians,76,177,253,30.03952569,69.96047431,Female-Stereotyped
+Emergency medical technicians and paramedics,126,49,175,72,28,Male-Stereotyped
+Health practitioner support technologists and technicians,99,389,488,20.28688525,79.71311475,Female-Stereotyped
+Licensed practical and licensed vocational nurses,48,459,507,9.467455621,90.53254438,Female-Stereotyped
+Medical records and health information technicians,17,157,174,9.770114943,90.22988506,Female-Stereotyped
+"Opticians, dispensing",21,23,44,47.72727273,52.27272727,Gender-Neutral
+Miscellaneous health technologists and technicians,32,66,98,32.65306122,67.34693878,Female-Stereotyped
+Other healthcare practitioners and technical occupations,40,38,78,51.28205128,48.71794872,Gender-Neutral
+HEALTHCARE SUPPORT,320,2074,2394,13.36675021,86.63324979,Female-Stereotyped
+"Nursing, psychiatric, and home health aides",163,1237,1400,11.64285714,88.35714286,Female-Stereotyped
+Occupational therapy assistants and aides,4,12,16,25,75,Female-Stereotyped
+Physical therapist assistants and aides,18,35,53,33.96226415,66.03773585,Female-Stereotyped
+Massage therapists,16,22,38,42.10526316,57.89473684,Female-Stereotyped
+Dental assistants,14,175,189,7.407407407,92.59259259,Female-Stereotyped
+Medical assistants,35,387,422,8.293838863,91.70616114,Female-Stereotyped
+Medical transcriptionists,3,26,29,10.34482759,89.65517241,Female-Stereotyped
+Pharmacy aides,4,18,22,18.18181818,81.81818182,Female-Stereotyped
+Veterinary assistants and laboratory animal caretakers,4,17,21,19.04761905,80.95238095,Female-Stereotyped
+Phlebotomists,15,76,91,16.48351648,83.51648352,Female-Stereotyped
+"Miscellaneous healthcare support occupations, including medical equipment preparers",44,71,115,38.26086957,61.73913043,Female-Stereotyped
+PROTECTIVE SERVICE,2181,547,2728,79.94868035,20.05131965,Male-Stereotyped
+First-line supervisors of correctional officers,41,16,57,71.92982456,28.07017544,Male-Stereotyped
+First-line supervisors of police and detectives,97,17,114,85.0877193,14.9122807,Male-Stereotyped
+First-line supervisors of fire fighting and prevention workers,39,3,42,92.85714286,7.142857143,Male-Stereotyped
+"First-line supervisors of protective service workers, all other",56,16,72,77.77777778,22.22222222,Male-Stereotyped
+Firefighters,245,16,261,93.8697318,6.130268199,Male-Stereotyped
+Fire inspectors,15,3,18,83.33333333,16.66666667,Male-Stereotyped
+"Bailiffs, correctional officers, and jailers",341,112,453,75.27593819,24.72406181,Male-Stereotyped
+Detectives and criminal investigators,100,41,141,70.92198582,29.07801418,Male-Stereotyped
+Fish and game wardens,5,1,6,83.33333333,16.66666667,Male-Stereotyped
+Parking enforcement workers,6,3,9,66.66666667,33.33333333,Male-Stereotyped
+Police and sheriff's patrol officers,569,86,655,86.87022901,13.12977099,Male-Stereotyped
+Transit and railroad police,3,0,3,100,0,Male-Stereotyped
+Animal control workers,2,2,4,50,50,Gender-Neutral
+Private detectives and investigators,49,36,85,57.64705882,42.35294118,Male-Stereotyped
+Security guards and gaming surveillance officers,555,153,708,78.38983051,21.61016949,Male-Stereotyped
+Crossing guards,13,13,26,50,50,Gender-Neutral
+Transportation security screeners,22,11,33,66.66666667,33.33333333,Male-Stereotyped
+"Lifeguards and other recreational, and all other protective service workers",24,18,42,57.14285714,42.85714286,Male-Stereotyped
+CULINARY,2133,1991,4124,51.72162949,48.27837051,Gender-Neutral
+Chefs and head cooks,285,55,340,83.82352941,16.17647059,Male-Stereotyped
+First-line supervisors of food preparation and serving workers,156,222,378,41.26984127,58.73015873,Female-Stereotyped
+Cooks,808,494,1302,62.05837174,37.94162826,Male-Stereotyped
+Food preparation workers,174,192,366,47.54098361,52.45901639,Gender-Neutral
+Bartenders,110,142,252,43.65079365,56.34920635,Female-Stereotyped
+"Combined food preparation and serving workers, including fast food",67,107,174,38.50574713,61.49425287,Female-Stereotyped
+"Counter attendants, cafeteria, food concession, and coffee shop",28,28,56,50,50,Gender-Neutral
+Waiters and waitresses,305,563,868,35.13824885,64.86175115,Female-Stereotyped
+"Food servers, nonrestaurant",31,62,93,33.33333333,66.66666667,Female-Stereotyped
+Dining room and cafeteria attendants and bartender helpers,59,48,107,55.14018692,44.85981308,Male-Stereotyped
+Dishwashers,98,19,117,83.76068376,16.23931624,Male-Stereotyped
+"Hosts and hostesses, restaurant, lounge, and coffee shop",8,58,66,12.12121212,87.87878788,Female-Stereotyped
+"Food preparation and serving related workers, all other",4,3,7,57.14285714,42.85714286,Male-Stereotyped
+GROUNDSKEEPING,2330,1275,3605,64.63245492,35.36754508,Male-Stereotyped
+First-line supervisors of housekeeping and janitorial workers,108,64,172,62.79069767,37.20930233,Male-Stereotyped
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",79,1,80,98.75,1.25,Male-Stereotyped
+Janitors and building cleaners,1111,425,1536,72.33072917,27.66927083,Male-Stereotyped
+Maids and housekeeping cleaners,134,742,876,15.29680365,84.70319635,Female-Stereotyped
+Pest control workers,74,3,77,96.1038961,3.896103896,Male-Stereotyped
+Grounds maintenance workers,824,39,863,95.48088065,4.519119351,Male-Stereotyped
+SERVICE,664,1763,2427,27.35887927,72.64112073,Female-Stereotyped
+First-line supervisors of gaming workers,65,52,117,55.55555556,44.44444444,Male-Stereotyped
+First-line supervisors of personal service workers,25,35,60,41.66666667,58.33333333,Female-Stereotyped
+Animal trainers,19,8,27,70.37037037,29.62962963,Male-Stereotyped
+Nonfarm animal caretakers,32,68,100,32,68,Female-Stereotyped
+Gaming services workers,30,39,69,43.47826087,56.52173913,Female-Stereotyped
+Motion picture projectionists,3,0,3,100,0,Male-Stereotyped
+"Ushers, lobby attendants, and ticket takers",5,4,9,55.55555556,44.44444444,Male-Stereotyped
+Miscellaneous entertainment attendants and related workers,42,28,70,60,40,Male-Stereotyped
+Embalmers and funeral attendants,2,0,2,100,0,Male-Stereotyped
+"Morticians, undertakers, and funeral directors",17,7,24,70.83333333,29.16666667,Male-Stereotyped
+Barbers,33,12,45,73.33333333,26.66666667,Male-Stereotyped
+"Hairdressers, hairstylists, and cosmetologists",23,229,252,9.126984127,90.87301587,Female-Stereotyped
+Miscellaneous personal appearance workers,32,159,191,16.7539267,83.2460733,Female-Stereotyped
+"Baggage porters, bellhops, and concierges",63,12,75,84,16,Male-Stereotyped
+Tour and travel guides,11,9,20,55,45,Male-Stereotyped
+Childcare workers,14,393,407,3.43980344,96.56019656,Female-Stereotyped
+Personal care aides,128,552,680,18.82352941,81.17647059,Female-Stereotyped
+Recreation and fitness workers,78,107,185,42.16216216,57.83783784,Female-Stereotyped
+Residential advisors,8,16,24,33.33333333,66.66666667,Female-Stereotyped
+"Personal care and service workers, all other",35,32,67,52.23880597,47.76119403,Gender-Neutral
+SALES,5423,4303,9726,55.7577627,44.2422373,Male-Stereotyped
+First-line supervisors of retail sales workers,1296,1030,2326,55.71797077,44.28202923,Male-Stereotyped
+First-line supervisors of non-retail sales workers,556,280,836,66.50717703,33.49282297,Male-Stereotyped
+Cashiers,411,931,1342,30.62593145,69.37406855,Female-Stereotyped
+Counter and rental clerks,35,37,72,48.61111111,51.38888889,Gender-Neutral
+Parts salespersons,82,11,93,88.17204301,11.82795699,Male-Stereotyped
+Retail salespersons,1159,759,1918,60.42752868,39.57247132,Male-Stereotyped
+Advertising sales agents,78,83,161,48.44720497,51.55279503,Gender-Neutral
+Insurance sales agents,194,232,426,45.5399061,54.4600939,Gender-Neutral
+"Securities, commodities, and financial services sales agents",146,65,211,69.1943128,30.8056872,Male-Stereotyped
+Travel agents,9,53,62,14.51612903,85.48387097,Female-Stereotyped
+"Sales representatives, services, all other",268,139,407,65.84766585,34.15233415,Male-Stereotyped
+"Sales representatives, wholesale and manufacturing",843,295,1138,74.07732865,25.92267135,Male-Stereotyped
+"Models, demonstrators, and product promoters",4,11,15,26.66666667,73.33333333,Female-Stereotyped
+Real estate brokers and sales agents,197,266,463,42.54859611,57.45140389,Female-Stereotyped
+Sales engineers,31,2,33,93.93939394,6.060606061,Male-Stereotyped
+Telemarketers,17,21,38,44.73684211,55.26315789,Gender-Neutral
+"Door-to-door sales workers, news and street vendors, and related workers",9,18,27,33.33333333,66.66666667,Female-Stereotyped
+"Sales and related workers, all other",89,70,159,55.97484277,44.02515723,Male-Stereotyped
+OFFICE,3961,9933,13894,28.5087088,71.4912912,Female-Stereotyped
+First-line supervisors of office and administrative support workers,434,863,1297,33.461835,66.538165,Female-Stereotyped
+"Switchboard operators, including answering service",7,10,17,41.17647059,58.82352941,Female-Stereotyped
+Telephone operators,4,18,22,18.18181818,81.81818182,Female-Stereotyped
+"Communications equipment operators, all other",2,3,5,40,60,Female-Stereotyped
+Bill and account collectors,54,98,152,35.52631579,64.47368421,Female-Stereotyped
+Billing and posting clerks,39,366,405,9.62962963,90.37037037,Female-Stereotyped
+"Bookkeeping, accounting, and auditing clerks",87,682,769,11.31339402,88.68660598,Female-Stereotyped
+Gaming cage workers,2,10,12,16.66666667,83.33333333,Female-Stereotyped
+Payroll and timekeeping clerks,17,111,128,13.28125,86.71875,Female-Stereotyped
+Procurement clerks,15,21,36,41.66666667,58.33333333,Female-Stereotyped
+Tellers,33,231,264,12.5,87.5,Female-Stereotyped
+"Financial clerks, all other",30,32,62,48.38709677,51.61290323,Gender-Neutral
+Brokerage clerks,1,1,2,50,50,Gender-Neutral
+Correspondence clerks,1,2,3,33.33333333,66.66666667,Female-Stereotyped
+"Court, municipal, and license clerks",9,51,60,15,85,Female-Stereotyped
+"Credit authorizers, checkers, and clerks",12,29,41,29.26829268,70.73170732,Female-Stereotyped
+Customer service representatives,611,1149,1760,34.71590909,65.28409091,Female-Stereotyped
+"Eligibility interviewers, government programs",17,50,67,25.37313433,74.62686567,Female-Stereotyped
+File clerks,25,120,145,17.24137931,82.75862069,Female-Stereotyped
+"Hotel, motel, and resort desk clerks",58,69,127,45.66929134,54.33070866,Gender-Neutral
+"Interviewers, except eligibility and loan",16,89,105,15.23809524,84.76190476,Female-Stereotyped
+"Library assistants, clerical",7,28,35,20,80,Female-Stereotyped
+Loan interviewers and clerks,25,109,134,18.65671642,81.34328358,Female-Stereotyped
+New accounts clerks,3,17,20,15,85,Female-Stereotyped
+Order clerks,26,48,74,35.13513514,64.86486486,Female-Stereotyped
+"Human resources assistants, except payroll and timekeeping",11,40,51,21.56862745,78.43137255,Female-Stereotyped
+Receptionists and information clerks,72,781,853,8.440797186,91.55920281,Female-Stereotyped
+Reservation and transportation ticket agents and travel clerks,34,61,95,35.78947368,64.21052632,Female-Stereotyped
+"Information and record clerks, all other",22,78,100,22,78,Female-Stereotyped
+Cargo and freight agents,12,9,21,57.14285714,42.85714286,Male-Stereotyped
+Couriers and messengers,134,19,153,87.58169935,12.41830065,Male-Stereotyped
+Dispatchers,109,141,250,43.6,56.4,Female-Stereotyped
+"Meter readers, utilities",34,4,38,89.47368421,10.52631579,Male-Stereotyped
+Postal service clerks,76,51,127,59.84251969,40.15748031,Male-Stereotyped
+Postal service mail carriers,187,115,302,61.9205298,38.0794702,Male-Stereotyped
+"Postal service mail sorters, processors, and processing machine operators",27,26,53,50.94339623,49.05660377,Gender-Neutral
+"Production, planning, and expediting clerks",116,141,257,45.13618677,54.86381323,Gender-Neutral
+"Shipping, receiving, and traffic clerks",354,148,502,70.51792829,29.48207171,Male-Stereotyped
+Stock clerks and order fillers,651,376,1027,63.38851022,36.61148978,Male-Stereotyped
+"Weighers, measurers, checkers, and samplers, recordkeeping",29,31,60,48.33333333,51.66666667,Gender-Neutral
+Secretaries and administrative assistants,124,2099,2223,5.578047683,94.42195232,Female-Stereotyped
+Computer operators,25,33,58,43.10344828,56.89655172,Female-Stereotyped
+Data entry keyers,55,169,224,24.55357143,75.44642857,Female-Stereotyped
+Word processors and typists,6,62,68,8.823529412,91.17647059,Female-Stereotyped
+Desktop publishers,1,0,1,100,0,Male-Stereotyped
+Insurance claims and policy processing clerks,56,203,259,21.62162162,78.37837838,Female-Stereotyped
+"Mail clerks and mail machine operators, except postal service",24,39,63,38.0952381,61.9047619,Female-Stereotyped
+"Office clerks, general",156,773,929,16.79224973,83.20775027,Female-Stereotyped
+"Office machine operators, except computer",14,16,30,46.66666667,53.33333333,Gender-Neutral
+Proofreaders and copy markers,0,2,2,0,100,Female-Stereotyped
+Statistical assistants,5,10,15,33.33333333,66.66666667,Female-Stereotyped
+"Office and administrative support workers, all other",93,298,391,23.78516624,76.21483376,Female-Stereotyped
+AGRICULTURAL,637,174,811,78.54500617,21.45499383,Male-Stereotyped
+"First-line supervisors of farming, fishing, and forestry workers",32,10,42,76.19047619,23.80952381,Male-Stereotyped
+Agricultural inspectors,7,6,13,53.84615385,46.15384615,Gender-Neutral
+Animal breeders,2,0,2,100,0,Male-Stereotyped
+"Graders and sorters, agricultural products",32,51,83,38.55421687,61.44578313,Female-Stereotyped
+Miscellaneous agricultural workers,511,102,613,83.36052202,16.63947798,Male-Stereotyped
+Fishers and related fishing workers,11,0,11,100,0,Male-Stereotyped
+Hunters and trappers,0,0,0,#DIV/0!,#DIV/0!,Unknown
+Forest and conservation workers,10,5,15,66.66666667,33.33333333,Male-Stereotyped
+Logging workers,31,0,31,100,0,Male-Stereotyped
+CONSTRUCTION,5586,137,5723,97.60615062,2.39384938,Male-Stereotyped
+First-line supervisors of construction trades and extraction workers,540,20,560,96.42857143,3.571428571,Male-Stereotyped
+Boilermakers,21,0,21,100,0,Male-Stereotyped
+"Brickmasons, blockmasons, and stonemasons",122,0,122,100,0,Male-Stereotyped
+Carpenters,792,10,802,98.75311721,1.246882793,Male-Stereotyped
+"Carpet, floor, and tile installers and finishers",89,1,90,98.88888889,1.111111111,Male-Stereotyped
+"Cement masons, concrete finishers, and terrazzo workers",44,0,44,100,0,Male-Stereotyped
+Construction laborers,1155,25,1180,97.88135593,2.118644068,Male-Stereotyped
+"Paving, surfacing, and tamping equipment operators",10,0,10,100,0,Male-Stereotyped
+Pile-driver operators,2,0,2,100,0,Male-Stereotyped
+Operating engineers and other construction equipment operators,318,6,324,98.14814815,1.851851852,Male-Stereotyped
+"Drywall installers, ceiling tile installers, and tapers",119,2,121,98.34710744,1.652892562,Male-Stereotyped
+Electricians,632,19,651,97.08141321,2.91858679,Male-Stereotyped
+Glaziers,32,0,32,100,0,Male-Stereotyped
+Insulation workers,41,3,44,93.18181818,6.818181818,Male-Stereotyped
+"Painters, construction and maintenance",330,14,344,95.93023256,4.069767442,Male-Stereotyped
+Paperhangers,0,0,0,#DIV/0!,#DIV/0!,Unknown
+"Pipelayers, plumbers, pipefitters, and steamfitters",455,2,457,99.56236324,0.4376367615,Male-Stereotyped
+Plasterers and stucco masons,19,1,20,95,5,Male-Stereotyped
+Reinforcing iron and rebar workers,9,0,9,100,0,Male-Stereotyped
+Roofers,170,2,172,98.8372093,1.162790698,Male-Stereotyped
+Sheet metal workers,100,6,106,94.33962264,5.660377358,Male-Stereotyped
+Structural iron and steel workers,52,2,54,96.2962963,3.703703704,Male-Stereotyped
+Solar photovoltaic installers,8,0,8,100,0,Male-Stereotyped
+"Helpers, construction trades",47,0,47,100,0,Male-Stereotyped
+Construction and building inspectors,58,9,67,86.56716418,13.43283582,Male-Stereotyped
+Elevator installers and repairers,23,0,23,100,0,Male-Stereotyped
+Fence erectors,33,0,33,100,0,Male-Stereotyped
+Hazardous materials removal workers,35,5,40,87.5,12.5,Male-Stereotyped
+Highway maintenance workers,91,0,91,100,0,Male-Stereotyped
+Rail-track laying and maintenance equipment operators,9,0,9,100,0,Male-Stereotyped
+Septic tank servicers and sewer pipe cleaners,8,0,8,100,0,Male-Stereotyped
+Miscellaneous construction and related workers,23,2,25,92,8,Male-Stereotyped
+"Derrick, rotary drill, and service unit operators, oil, gas, and mining",27,1,28,96.42857143,3.571428571,Male-Stereotyped
+"Earth drillers, except oil and gas",30,0,30,100,0,Male-Stereotyped
+"Explosives workers, ordnance handling experts, and blasters",5,0,5,100,0,Male-Stereotyped
+Mining machine operators,65,2,67,97.01492537,2.985074627,Male-Stereotyped
+"Roof bolters, mining",3,0,3,100,0,Male-Stereotyped
+"Roustabouts, oil and gas",7,0,7,100,0,Male-Stereotyped
+Helpers--extraction workers,6,0,6,100,0,Male-Stereotyped
+Other extraction workers,58,3,61,95.08196721,4.918032787,Male-Stereotyped
+MAINTENANCE,4159,143,4302,96.67596467,3.324035332,Male-Stereotyped
+"First-line supervisors of mechanics, installers, and repairers",252,18,270,93.33333333,6.666666667,Male-Stereotyped
+"Computer, automated teller, and office machine repairers",166,28,194,85.56701031,14.43298969,Male-Stereotyped
+Radio and telecommunications equipment installers and repairers,126,13,139,90.64748201,9.352517986,Male-Stereotyped
+Avionics technicians,4,0,4,100,0,Male-Stereotyped
+"Electric motor, power tool, and related repairers",20,1,21,95.23809524,4.761904762,Male-Stereotyped
+"Electrical and electronics installers and repairers, transportation equipment",2,0,2,100,0,Male-Stereotyped
+"Electrical and electronics repairers, industrial and utility",17,0,17,100,0,Male-Stereotyped
+"Electronic equipment installers and repairers, motor vehicles",17,0,17,100,0,Male-Stereotyped
+Electronic home entertainment equipment installers and repairers,28,2,30,93.33333333,6.666666667,Male-Stereotyped
+Security and fire alarm systems installers,65,2,67,97.01492537,2.985074627,Male-Stereotyped
+Aircraft mechanics and service technicians,125,7,132,94.6969697,5.303030303,Male-Stereotyped
+Automotive body and related repairers,118,2,120,98.33333333,1.666666667,Male-Stereotyped
+Automotive glass installers and repairers,20,1,21,95.23809524,4.761904762,Male-Stereotyped
+Automotive service technicians and mechanics,694,16,710,97.74647887,2.253521127,Male-Stereotyped
+Bus and truck mechanics and diesel engine specialists,327,0,327,100,0,Male-Stereotyped
+Heavy vehicle and mobile equipment service technicians and mechanics,206,0,206,100,0,Male-Stereotyped
+Small engine mechanics,39,0,39,100,0,Male-Stereotyped
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",65,1,66,98.48484848,1.515151515,Male-Stereotyped
+Control and valve installers and repairers,23,0,23,100,0,Male-Stereotyped
+"Heating, air conditioning, and refrigeration mechanics and installers",337,4,341,98.82697947,1.173020528,Male-Stereotyped
+Home appliance repairers,36,0,36,100,0,Male-Stereotyped
+Industrial and refractory machinery mechanics,383,11,394,97.20812183,2.791878173,Male-Stereotyped
+"Maintenance and repair workers, general",459,10,469,97.86780384,2.132196162,Male-Stereotyped
+"Maintenance workers, machinery",30,1,31,96.77419355,3.225806452,Male-Stereotyped
+Millwrights,48,1,49,97.95918367,2.040816327,Male-Stereotyped
+Electrical power-line installers and repairers,112,0,112,100,0,Male-Stereotyped
+Telecommunications line installers and repairers,148,9,157,94.26751592,5.732484076,Male-Stereotyped
+Precision instrument and equipment repairers,60,4,64,93.75,6.25,Male-Stereotyped
+Wind turbine service technicians,3,0,3,100,0,Male-Stereotyped
+"Coin, vending, and amusement machine servicers and repairers",34,4,38,89.47368421,10.52631579,Male-Stereotyped
+Commercial divers,1,0,1,100,0,Male-Stereotyped
+Locksmiths and safe repairers,12,0,12,100,0,Male-Stereotyped
+Manufactured building and mobile home installers,4,1,5,80,20,Male-Stereotyped
+Riggers,7,0,7,100,0,Male-Stereotyped
+Signal and track switch repairers,9,0,9,100,0,Male-Stereotyped
+"Helpers--installation, maintenance, and repair workers",17,0,17,100,0,Male-Stereotyped
+"Other installation, maintenance, and repair workers",144,6,150,96,4,Male-Stereotyped
+PRODUCTION,5548,2003,7551,73.47371209,26.52628791,Male-Stereotyped
+First-line supervisors of production and operating workers,650,133,783,83.01404853,16.98595147,Male-Stereotyped
+"Aircraft structure, surfaces, rigging, and systems assemblers",11,4,15,73.33333333,26.66666667,Male-Stereotyped
+"Electrical, electronics, and electromechanical assemblers",59,64,123,47.96747967,52.03252033,Gender-Neutral
+Engine and other machine assemblers,12,2,14,85.71428571,14.28571429,Male-Stereotyped
+Structural metal fabricators and fitters,28,3,31,90.32258065,9.677419355,Male-Stereotyped
+Miscellaneous assemblers and fabricators,573,377,950,60.31578947,39.68421053,Male-Stereotyped
+Bakers,69,80,149,46.30872483,53.69127517,Gender-Neutral
+"Butchers and other meat, poultry, and fish processing workers",187,60,247,75.70850202,24.29149798,Male-Stereotyped
+"Food and tobacco roasting, baking, and drying machine operators and tenders",7,1,8,87.5,12.5,Male-Stereotyped
+Food batchmakers,25,54,79,31.64556962,68.35443038,Female-Stereotyped
+Food cooking machine operators and tenders,5,2,7,71.42857143,28.57142857,Male-Stereotyped
+"Food processing workers, all other",82,50,132,62.12121212,37.87878788,Male-Stereotyped
+Computer control programmers and operators,81,2,83,97.59036145,2.409638554,Male-Stereotyped
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic",7,1,8,87.5,12.5,Male-Stereotyped
+"Forging machine setters, operators, and tenders, metal and plastic",6,0,6,100,0,Male-Stereotyped
+"Rolling machine setters, operators, and tenders, metal and plastic",12,3,15,80,20,Male-Stereotyped
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",62,15,77,80.51948052,19.48051948,Male-Stereotyped
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",5,1,6,83.33333333,16.66666667,Male-Stereotyped
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",39,3,42,92.85714286,7.142857143,Male-Stereotyped
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",11,1,12,91.66666667,8.333333333,Male-Stereotyped
+"Milling and planing machine setters, operators, and tenders, metal and plastic",1,0,1,100,0,Male-Stereotyped
+Machinists,320,17,337,94.95548961,5.044510386,Male-Stereotyped
+"Metal furnace operators, tenders, pourers, and casters",28,1,29,96.55172414,3.448275862,Male-Stereotyped
+"Model makers and patternmakers, metal and plastic",3,3,6,50,50,Gender-Neutral
+"Molders and molding machine setters, operators, and tenders, metal and plastic",39,9,48,81.25,18.75,Male-Stereotyped
+"Multiple machine tool setters, operators, and tenders, metal and plastic",1,0,1,100,0,Male-Stereotyped
+Tool and die makers,49,0,49,100,0,Male-Stereotyped
+"Welding, soldering, and brazing workers",545,23,568,95.95070423,4.049295775,Male-Stereotyped
+"Heat treating equipment setters, operators, and tenders, metal and plastic",4,0,4,100,0,Male-Stereotyped
+"Layout workers, metal and plastic",4,1,5,80,20,Male-Stereotyped
+"Plating and coating machine setters, operators, and tenders, metal and plastic",24,0,24,100,0,Male-Stereotyped
+"Tool grinders, filers, and sharpeners",7,0,7,100,0,Male-Stereotyped
+"Metal workers and plastic workers, all other",278,72,350,79.42857143,20.57142857,Male-Stereotyped
+Prepress technicians and workers,12,2,14,85.71428571,14.28571429,Male-Stereotyped
+Printing press operators,134,26,160,83.75,16.25,Male-Stereotyped
+Print binding and finishing workers,9,6,15,60,40,Male-Stereotyped
+Laundry and dry-cleaning workers,53,80,133,39.84962406,60.15037594,Female-Stereotyped
+"Pressers, textile, garment, and related materials",9,12,21,42.85714286,57.14285714,Female-Stereotyped
+Sewing machine operators,42,105,147,28.57142857,71.42857143,Female-Stereotyped
+Shoe and leather workers and repairers,4,1,5,80,20,Male-Stereotyped
+Shoe machine operators and tenders,0,1,1,0,100,Female-Stereotyped
+"Tailors, dressmakers, and sewers",9,27,36,25,75,Female-Stereotyped
+Textile bleaching and dyeing machine operators and tenders,2,0,2,100,0,Male-Stereotyped
+"Textile cutting machine setters, operators, and tenders",7,2,9,77.77777778,22.22222222,Male-Stereotyped
+"Textile knitting and weaving machine setters, operators, and tenders",3,4,7,42.85714286,57.14285714,Female-Stereotyped
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders",5,2,7,71.42857143,28.57142857,Male-Stereotyped
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",0,0,0,#DIV/0!,#DIV/0!,Unknown
+Fabric and apparel patternmakers,3,1,4,75,25,Male-Stereotyped
+Upholsterers,21,7,28,75,25,Male-Stereotyped
+"Textile, apparel, and furnishings workers, all other",12,4,16,75,25,Male-Stereotyped
+Cabinetmakers and bench carpenters,38,2,40,95,5,Male-Stereotyped
+Furniture finishers,6,0,6,100,0,Male-Stereotyped
+"Model makers and patternmakers, wood",0,0,0,#DIV/0!,#DIV/0!,Unknown
+"Sawing machine setters, operators, and tenders, wood",22,4,26,84.61538462,15.38461538,Male-Stereotyped
+"Woodworking machine setters, operators, and tenders, except sawing",21,1,22,95.45454545,4.545454545,Male-Stereotyped
+"Woodworkers, all other",14,3,17,82.35294118,17.64705882,Male-Stereotyped
+"Power plant operators, distributors, and dispatchers",34,1,35,97.14285714,2.857142857,Male-Stereotyped
+Stationary engineers and boiler operators,81,3,84,96.42857143,3.571428571,Male-Stereotyped
+Water and wastewater treatment plant and system operators,79,3,82,96.34146341,3.658536585,Male-Stereotyped
+Miscellaneous plant and system operators,33,3,36,91.66666667,8.333333333,Male-Stereotyped
+"Chemical processing machine setters, operators, and tenders",57,5,62,91.93548387,8.064516129,Male-Stereotyped
+"Crushing, grinding, polishing, mixing, and blending workers",75,7,82,91.46341463,8.536585366,Male-Stereotyped
+Cutting workers,41,9,50,82,18,Male-Stereotyped
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",25,6,31,80.64516129,19.35483871,Male-Stereotyped
+"Furnace, kiln, oven, drier, and kettle operators and tenders",5,0,5,100,0,Male-Stereotyped
+"Inspectors, testers, sorters, samplers, and weighers",440,260,700,62.85714286,37.14285714,Male-Stereotyped
+Jewelers and precious stone and metal workers,11,7,18,61.11111111,38.88888889,Male-Stereotyped
+"Medical, dental, and ophthalmic laboratory technicians",44,42,86,51.1627907,48.8372093,Gender-Neutral
+Packaging and filling machine operators and tenders,118,120,238,49.57983193,50.42016807,Gender-Neutral
+Painting workers,110,18,128,85.9375,14.0625,Male-Stereotyped
+Photographic process workers and processing machine operators,12,14,26,46.15384615,53.84615385,Gender-Neutral
+Semiconductor processors,1,0,1,100,0,Male-Stereotyped
+Adhesive bonding machine operators and tenders,5,4,9,55.55555556,44.44444444,Male-Stereotyped
+"Cleaning, washing, and metal pickling equipment operators and tenders",2,1,3,66.66666667,33.33333333,Male-Stereotyped
+Cooling and freezing equipment operators and tenders,3,0,3,100,0,Male-Stereotyped
+Etchers and engravers,8,4,12,66.66666667,33.33333333,Male-Stereotyped
+"Molders, shapers, and casters, except metal and plastic",12,2,14,85.71428571,14.28571429,Male-Stereotyped
+"Paper goods machine setters, operators, and tenders",22,5,27,81.48148148,18.51851852,Male-Stereotyped
+Tire builders,8,0,8,100,0,Male-Stereotyped
+Helpers--production workers,18,7,25,72,28,Male-Stereotyped
+"Production workers, all other",643,203,846,76.00472813,23.99527187,Male-Stereotyped
+TRANSPORTATION,5998,955,6953,86.26492162,13.73507838,Male-Stereotyped
+Supervisors of transportation and material moving workers,153,33,186,82.25806452,17.74193548,Male-Stereotyped
+Aircraft pilots and flight engineers,104,9,113,92.03539823,7.96460177,Male-Stereotyped
+Air traffic controllers and airfield operations specialists,24,8,32,75,25,Male-Stereotyped
+Flight attendants,20,43,63,31.74603175,68.25396825,Female-Stereotyped
+"Ambulance drivers and attendants, except emergency medical technicians",14,4,18,77.77777778,22.22222222,Male-Stereotyped
+Bus drivers,184,138,322,57.14285714,42.85714286,Male-Stereotyped
+Driver/sales workers and truck drivers,2582,105,2687,96.09229624,3.907703759,Male-Stereotyped
+Taxi drivers and chauffeurs,216,38,254,85.03937008,14.96062992,Male-Stereotyped
+"Motor vehicle operators, all other",18,3,21,85.71428571,14.28571429,Male-Stereotyped
+Locomotive engineers and operators,42,2,44,95.45454545,4.545454545,Male-Stereotyped
+"Railroad brake, signal, and switch operators",5,0,5,100,0,Male-Stereotyped
+Railroad conductors and yardmasters,52,4,56,92.85714286,7.142857143,Male-Stereotyped
+"Subway, streetcar, and other rail transportation workers",12,3,15,80,20,Male-Stereotyped
+Sailors and marine oilers,9,0,9,100,0,Male-Stereotyped
+Ship and boat captains and operators,28,1,29,96.55172414,3.448275862,Male-Stereotyped
+Ship engineers,4,1,5,80,20,Male-Stereotyped
+Bridge and lock tenders,4,0,4,100,0,Male-Stereotyped
+Parking lot attendants,49,8,57,85.96491228,14.03508772,Male-Stereotyped
+Automotive and watercraft service attendants,58,5,63,92.06349206,7.936507937,Male-Stereotyped
+Transportation inspectors,14,7,21,66.66666667,33.33333333,Male-Stereotyped
+"Transportation attendants, except flight attendants",9,8,17,52.94117647,47.05882353,Gender-Neutral
+Other transportation workers,35,4,39,89.74358974,10.25641026,Male-Stereotyped
+Conveyor operators and tenders,7,0,7,100,0,Male-Stereotyped
+Crane and tower operators,71,4,75,94.66666667,5.333333333,Male-Stereotyped
+"Dredge, excavating, and loading machine operators",25,0,25,100,0,Male-Stereotyped
+Hoist and winch operators,5,0,5,100,0,Male-Stereotyped
+Industrial truck and tractor operators,541,37,578,93.59861592,6.401384083,Male-Stereotyped
+Cleaners of vehicles and equipment,200,22,222,90.09009009,9.90990991,Male-Stereotyped
+"Laborers and freight, stock, and material movers, hand",1214,219,1433,84.71737613,15.28262387,Male-Stereotyped
+Machine feeders and offbearers,21,9,30,70,30,Male-Stereotyped
+"Packers and packagers, hand",158,227,385,41.03896104,58.96103896,Female-Stereotyped
+Pumping station operators,17,1,18,94.44444444,5.555555556,Male-Stereotyped
+Refuse and recyclable material collectors,66,6,72,91.66666667,8.333333333,Male-Stereotyped
+Mine shuttle car operators,0,0,0,#DIV/0!,#DIV/0!,Unknown
+"Tank car, truck, and ship loaders",6,0,6,100,0,Male-Stereotyped
+"Material moving workers, all other",32,5,37,86.48648649,13.51351351,Male-Stereotyped
