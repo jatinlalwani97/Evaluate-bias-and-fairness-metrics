@@ -14,7 +14,7 @@ The AR folder contains Arabic language resources and data used in our bias analy
 The SP folder contains Spanish language resources and prompts used in our multilingual testing to evaluate how language influences geographical representation in LLM outputs.
 
 ### BLS
-The BLS (Bureau of Labor Statistics) folder contains occupational data and statistics used as reference points for comparing model outputs against real-world workforce demographics. This data helps evaluate the extent to which model biases align with or diverge from actual workforce composition.
+The BLS (Bureau of Labor Statistics) folder contains occupational data and statistics used as reference points for comparing model outputs against real-world workforce. This data helps evaluate the extent to which model biases align with or diverge from actual workforce composition.
 
 ### CrowsPairs
 This folder contains resources related to the CrowS-Pairs dataset, which is used as a supplementary experiment for evaluating stereotypical biases in language models. This dataset helps measure bias through metrics like demographic parity and equality of odds.
@@ -34,10 +34,6 @@ Each folder contains specific data and resources that support different aspects 
 
 1. Using occupation data from the Data folder
 2. Running experiments with prompts from the EN, SP, and AR folders
-3. Comparing results against reference data in the BLS folder
+3. Comparing results against reference data
 4. Conducting supplementary analysis using the CrowsPairs dataset
-5. Storing and analyzing results in the Data folder
-
-## Additional Information
-
-For more details on the specific contents of each folder and how they relate to the experimental methodology described in our paper, please refer to the README files within each directory.
+5. Storing and analyzing results in the each Model Folder
