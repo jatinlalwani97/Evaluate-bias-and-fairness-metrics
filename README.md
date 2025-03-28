@@ -24,16 +24,19 @@ The Data folder serves as the central repository for our primary datasets, inclu
 - Human perception datasets for occupational stereotypes, processed occupation data classified as "Female-Stereotyped", "Male-Stereotyped", or "Gender-Neutral"
 - CrowsPair Modified prompts
 - BLS Dataset
+- 
+### Report
+this folder contains the paper and the presentaion of our research.
 
 ## Results 
-- The outputs are also stored in each folder of EN, SP, and AR
+- The outputs are also stored in each folder of EN, SP, and AR.
 
 ## Usage
 
 Each folder contains specific data and resources that support different aspects of our bias and fairness evaluation methodology. The primary workflow involves:
 
 1. Using occupation data from the Data folder
-2. Running experiments with prompts from the EN, SP, and AR folders
+2. Running experiments with prompts from the EN, SP, and AR folders (API KEYs are needed)
 3. Comparing results against reference data
 4. Conducting supplementary analysis using the CrowsPairs dataset
 5. Storing and analyzing results in the each Model Folder
