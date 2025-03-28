@@ -5,19 +5,19 @@ This document provides an overview of the main folders in this repository and th
 ## Folders
 
 ### EN
-The EN folder contains English language resources and data used in our main experiments. This includes prompt templates, response collections, and analysis specific to English language testing.
+The EN folder contains 3 subfolders for each model (ChatGPT, Gemini, and others), the results are also stored in each subfolder as "llm_cv_summaries_raw" and "llm_cv_summaries_analyzed" CSV, with a map that represents the Geographical distribution of the Engilsh prompts. 
 
 ### AR
-The AR folder contains Arabic language resources and data used in our bias analysis experiments. These files support multilingual testing to evaluate how language influences geographical representation in LLM outputs.
+The AR folder contains the code base and the results of running it with Gemini models, the results are also stored in the folder as "llm_cv_summaries_raw" and "llm_cv_summaries_analyzed" CSV, in addition to a map that represents the Geographical distribution of the Arabic prompts. 
 
 ### SP
-The SP folder contains Spanish language resources and prompts used in our multilingual testing to evaluate how language influences geographical representation in LLM outputs.
+The SP folder contains the code base and the results of running it with Gemini models, the results are also stored in the folder as "llm_cv_summaries_raw" and "llm_cv_summaries_analyzed" CSV, in addition to a map that represents the Geographical distribution of the Spanish prompts. 
 
 ### BLS
-The BLS (Bureau of Labor Statistics) folder contains occupational data and statistics used as reference points for comparing model outputs against real-world workforce. This data helps evaluate the extent to which model biases align with or diverge from actual workforce composition.
+This folder contains the code base of this usecase (the dataset can be found in the Data folder) with the results of this experiment. 
 
 ### CrowsPairs
-This folder contains resources related to the CrowS-Pairs dataset, which is used as a supplementary experiment for evaluating stereotypical biases in language models. This dataset helps measure bias through metrics like demographic parity and equality of odds.
+This folder contains the base code of our supplementary experiment combined with the results.
 
 ### Data
 The Data folder serves as the central repository for our primary datasets, including:
@@ -26,17 +26,14 @@ The Data folder serves as the central repository for our primary datasets, inclu
 - BLS Dataset
 - 
 ### Report
-this folder contains the paper and the presentaion of our research.
+This folder contains the paper and the presentation of our research.
 
-## Results 
-- The outputs are also stored in each folder of EN, SP, and AR.
 
 ## Usage
-
 Each folder contains specific data and resources that support different aspects of our bias and fairness evaluation methodology. The primary workflow involves:
 
 1. Using occupation data from the Data folder
 2. Running experiments with prompts from the EN, SP, and AR folders (API KEYs are needed)
 3. Comparing results against reference data
 4. Conducting supplementary analysis using the CrowsPairs dataset
-5. Storing and analyzing results in the each Model Folder
+5. Storing and analyzing results in each Model Folder
