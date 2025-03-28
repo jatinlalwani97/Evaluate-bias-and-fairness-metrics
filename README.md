@@ -24,7 +24,7 @@ The Data folder serves as the central repository for our primary datasets, inclu
 - Human perception datasets for occupational stereotypes, processed occupation data classified as "Female-Stereotyped", "Male-Stereotyped", or "Gender-Neutral"
 - CrowsPair Modified prompts
 - BLS Dataset
-- 
+
 ### Report
 This folder contains the paper and the presentation of our research.
 
